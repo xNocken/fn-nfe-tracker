@@ -4,256 +4,274 @@
     "propertyCount": 63,
     "properties": [
       {
-        "name": "FlightStartLocation",
-        "checksum": 18377167
-      },
-      {
-        "name": "TimeTillDropEnd",
-        "checksum": 82199150
-      },
-      {
         "name": "AdditionalPlaylistLevelsStreamed",
         "checksum": 136598335
-      },
-      {
-        "name": "DefaultParachuteDeployTraceForGroundDistance",
-        "checksum": 189466247
-      },
-      {
-        "name": "GameSessionId",
-        "checksum": 222187157
-      },
-      {
-        "name": "DefaultRedeployGliderHeightLimit",
-        "checksum": 273159085
-      },
-      {
-        "name": "MusicManagerSubclass",
-        "checksum": 443145310
-      },
-      {
-        "name": "DefaultGliderRedeployCanRedeploy",
-        "checksum": 685173351
-      },
-      {
-        "name": "ServerChangelistNumber",
-        "checksum": 822195417
-      },
-      {
-        "name": "TeamsLeft",
-        "checksum": 938228960
-      },
-      {
-        "name": "ElapsedTime",
-        "checksum": 1053591435
-      },
-      {
-        "name": "UIMapManager",
-        "checksum": 1100988001
-      },
-      {
-        "name": "ServerGameplayTagIndexHash",
-        "checksum": 1121361991
-      },
-      {
-        "name": "CreativeRealEstatePlotManager",
-        "checksum": 1144745721
-      },
-      {
-        "name": "bAllowUserPickedCosmeticBattleBus",
-        "checksum": 1237051726
-      },
-      {
-        "name": "RoundTimeCriticalThreshold",
-        "checksum": 1242912279
-      },
-      {
-        "name": "WorldManager",
-        "checksum": 1309464832
-      },
-      {
-        "name": "GameplayState",
-        "checksum": 1424194427
-      },
-      {
-        "name": "MusicManagerBank",
-        "checksum": 1433708880
-      },
-      {
-        "name": "SafeZoneIndicator",
-        "checksum": 1537036241
-      },
-      {
-        "name": "ItemCollector",
-        "checksum": 1575756251
-      },
-      {
-        "name": "StormCapState",
-        "checksum": 1581565607
-      },
-      {
-        "name": "GameFlagData",
-        "checksum": 1597741829
-      },
-      {
-        "name": "DefaultRedeployGliderLateralVelocityMult",
-        "checksum": 1604861167
-      },
-      {
-        "name": "TimeTillFlightEnd",
-        "checksum": 1664059828
-      },
-      {
-        "name": "SafeZonesStartTime",
-        "checksum": 1711709315
-      },
-      {
-        "name": "TimeTillDropStart",
-        "checksum": 1806556781
-      },
-      {
-        "name": "TeamFlightPaths",
-        "checksum": 1932122883
-      },
-      {
-        "name": "SpecialActorData",
-        "checksum": 2027353337
-      },
-      {
-        "name": "bStormReachedFinalPosition",
-        "checksum": 2100865676
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "TimeTillDropStart",
-        "checksum": 2176022369
-      },
-      {
-        "name": "CraftingBonus",
-        "checksum": 2184223992
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "MapInfo",
-        "checksum": 2246666759
-      },
-      {
-        "name": "TimeTillFlightEnd",
-        "checksum": 2301698232
-      },
-      {
-        "name": "ReplicatedWorldTimeSeconds",
-        "checksum": 2373686367
-      },
-      {
-        "name": "SafeZonePhase",
-        "checksum": 2512056189
-      },
-      {
-        "name": "FlightSpeed",
-        "checksum": 2531978978
-      },
-      {
-        "name": "AnnouncementManager",
-        "checksum": 2601962830
-      },
-      {
-        "name": "bReplicatedHasBegunPlay",
-        "checksum": 2622764780
-      },
-      {
-        "name": "PawnForReplayRelevancy",
-        "checksum": 2701652850
-      },
-      {
-        "name": "PoiManager",
-        "checksum": 2743870173
-      },
-      {
-        "name": "DefaultBattleBus",
-        "checksum": 2858854129
-      },
-      {
-        "name": "FlightStartRotation",
-        "checksum": 2898503731
-      },
-      {
-        "name": "PlayersLeft",
-        "checksum": 3072500117
-      },
-      {
-        "name": "FlightSpeed",
-        "checksum": 3421728973
       },
       {
         "name": "AdditionalPlaylistLevelsStreamed",
         "checksum": 3437934154
       },
       {
-        "name": "RoundTimeAccumulated",
-        "checksum": 3453844985
-      },
-      {
-        "name": "TeamCount",
-        "checksum": 3491059331
-      },
-      {
-        "name": "FlightStartRotation",
-        "checksum": 3521686383
-      },
-      {
-        "name": "GameModeClass",
-        "checksum": 3576505449
-      },
-      {
-        "name": "VolumeManager",
-        "checksum": 3690756150
-      },
-      {
-        "name": "MissionManager",
-        "checksum": 3744311551
-      },
-      {
-        "name": "GamePhase",
-        "checksum": 3812596277
-      },
-      {
-        "name": "FlightStartLocation",
-        "checksum": 3855981860
-      },
-      {
-        "name": "WorldLevel",
-        "checksum": 3891660106
-      },
-      {
-        "name": "RecorderPlayerState",
-        "checksum": 3955599132
-      },
-      {
-        "name": "FortTimeOfDayManager",
-        "checksum": 4034469340
+        "name": "AnnouncementManager",
+        "checksum": 2601962830
       },
       {
         "name": "bAllowLayoutRequirementsFeature",
         "checksum": 4079435210
       },
       {
-        "name": "TimeTillDropEnd",
-        "checksum": 4243045771
+        "name": "bAllowUserPickedCosmeticBattleBus",
+        "checksum": 1237051726
+      },
+      {
+        "name": "bReplicatedHasBegunPlay",
+        "checksum": 2622764780
+      },
+      {
+        "name": "bStormReachedFinalPosition",
+        "checksum": 2100865676
+      },
+      {
+        "name": "CraftingBonus",
+        "checksum": 2184223992
+      },
+      {
+        "name": "CreativeRealEstatePlotManager",
+        "checksum": 1144745721
+      },
+      {
+        "name": "DefaultBattleBus",
+        "checksum": 2858854129
+      },
+      {
+        "name": "DefaultGliderRedeployCanRedeploy",
+        "checksum": 685173351
+      },
+      {
+        "name": "DefaultParachuteDeployTraceForGroundDistance",
+        "checksum": 189466247
+      },
+      {
+        "name": "DefaultRedeployGliderHeightLimit",
+        "checksum": 273159085
+      },
+      {
+        "name": "DefaultRedeployGliderLateralVelocityMult",
+        "checksum": 1604861167
+      },
+      {
+        "name": "ElapsedTime",
+        "checksum": 1053591435
+      },
+      {
+        "name": "FlightSpeed",
+        "checksum": 2531978978
+      },
+      {
+        "name": "FlightSpeed",
+        "checksum": 3421728973
+      },
+      {
+        "name": "FlightStartLocation",
+        "checksum": 18377167
+      },
+      {
+        "name": "FlightStartLocation",
+        "checksum": 3855981860
+      },
+      {
+        "name": "FlightStartRotation",
+        "checksum": 2898503731
+      },
+      {
+        "name": "FlightStartRotation",
+        "checksum": 3521686383
+      },
+      {
+        "name": "FortTimeOfDayManager",
+        "checksum": 4034469340
+      },
+      {
+        "name": "GameFlagData",
+        "checksum": 1597741829
+      },
+      {
+        "name": "GameModeClass",
+        "checksum": 3576505449
+      },
+      {
+        "name": "GamePhase",
+        "checksum": 3812596277
+      },
+      {
+        "name": "GameplayState",
+        "checksum": 1424194427
+      },
+      {
+        "name": "GameSessionId",
+        "checksum": 222187157
+      },
+      {
+        "name": "ItemCollector",
+        "checksum": 1575756251
+      },
+      {
+        "name": "MapInfo",
+        "checksum": 2246666759
+      },
+      {
+        "name": "MatchState",
+        "checksum": 4269466447
+      },
+      {
+        "name": "MissionManager",
+        "checksum": 3744311551
+      },
+      {
+        "name": "MusicManagerBank",
+        "checksum": 1433708880
+      },
+      {
+        "name": "MusicManagerSubclass",
+        "checksum": 443145310
+      },
+      {
+        "name": "PawnForReplayRelevancy",
+        "checksum": 2701652850
+      },
+      {
+        "name": "PlayersLeft",
+        "checksum": 3072500117
+      },
+      {
+        "name": "PoiManager",
+        "checksum": 2743870173
+      },
+      {
+        "name": "RecorderPlayerState",
+        "checksum": 3955599132
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "ReplicatedWorldTimeSeconds",
+        "checksum": 2373686367
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "RoundTimeAccumulated",
+        "checksum": 3453844985
+      },
+      {
+        "name": "RoundTimeCriticalThreshold",
+        "checksum": 1242912279
+      },
+      {
+        "name": "SafeZoneIndicator",
+        "checksum": 1537036241
+      },
+      {
+        "name": "SafeZonePhase",
+        "checksum": 2512056189
+      },
+      {
+        "name": "SafeZonesStartTime",
+        "checksum": 1711709315
+      },
+      {
+        "name": "ServerChangelistNumber",
+        "checksum": 822195417
+      },
+      {
+        "name": "ServerGameplayTagIndexHash",
+        "checksum": 1121361991
+      },
+      {
+        "name": "SpecialActorData",
+        "checksum": 2027353337
       },
       {
         "name": "SpectatorClass",
         "checksum": 4260609379
       },
       {
-        "name": "MatchState",
-        "checksum": 4269466447
+        "name": "StormCapState",
+        "checksum": 1581565607
+      },
+      {
+        "name": "TeamCount",
+        "checksum": 3491059331
+      },
+      {
+        "name": "TeamFlightPaths",
+        "checksum": 1932122883
+      },
+      {
+        "name": "TeamsLeft",
+        "checksum": 938228960
+      },
+      {
+        "name": "TimeTillDropEnd",
+        "checksum": 82199150
+      },
+      {
+        "name": "TimeTillDropEnd",
+        "checksum": 4243045771
+      },
+      {
+        "name": "TimeTillDropStart",
+        "checksum": 1806556781
+      },
+      {
+        "name": "TimeTillDropStart",
+        "checksum": 2176022369
+      },
+      {
+        "name": "TimeTillFlightEnd",
+        "checksum": 1664059828
+      },
+      {
+        "name": "TimeTillFlightEnd",
+        "checksum": 2301698232
+      },
+      {
+        "name": "UIMapManager",
+        "checksum": 1100988001
+      },
+      {
+        "name": "VolumeManager",
+        "checksum": 3690756150
+      },
+      {
+        "name": "WorldLevel",
+        "checksum": 3891660106
+      },
+      {
+        "name": "WorldManager",
+        "checksum": 1309464832
+      }
+    ]
+  },
+  {
+    "path": "/Game/Athena/BuildingActors/FortVolumeActor_Hub.FortVolumeActor_Hub_C",
+    "propertyCount": 3,
+    "properties": [
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "VolumeState",
+        "checksum": 571327256
       }
     ]
   },
@@ -262,24 +280,28 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "CurrentPlayset",
-        "checksum": 227650588
+        "name": "ActorId",
+        "checksum": 2657085197
       },
       {
-        "name": "bShowPublishWatermark",
-        "checksum": 493724164
+        "name": "ActorId",
+        "checksum": 3658428656
       },
       {
-        "name": "VolumeState",
-        "checksum": 571327256
+        "name": "AssetInstances",
+        "checksum": 764085066
       },
       {
         "name": "bNeverAllowSaving",
         "checksum": 671711351
       },
       {
-        "name": "AssetInstances",
-        "checksum": 764085066
+        "name": "bShowPublishWatermark",
+        "checksum": 493724164
+      },
+      {
+        "name": "CurrentPlayset",
+        "checksum": 227650588
       },
       {
         "name": "InUseMemory",
@@ -294,30 +316,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "ActorId",
-        "checksum": 2657085197
-      },
-      {
-        "name": "ActorId",
-        "checksum": 3658428656
-      }
-    ]
-  },
-  {
-    "path": "/Game/Athena/BuildingActors/FortVolumeActor_Hub.FortVolumeActor_Hub_C",
-    "propertyCount": 3,
-    "properties": [
-      {
         "name": "VolumeState",
         "checksum": 571327256
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
       }
     ]
   },
@@ -326,16 +326,8 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "UniquePlayerId",
-        "checksum": 341236231
-      },
-      {
         "name": "Owner",
         "checksum": 1022089157
-      },
-      {
-        "name": "Volume",
-        "checksum": 1858827680
       },
       {
         "name": "RemoteRole",
@@ -344,6 +336,14 @@
       {
         "name": "Role",
         "checksum": 2219226437
+      },
+      {
+        "name": "UniquePlayerId",
+        "checksum": 341236231
+      },
+      {
+        "name": "Volume",
+        "checksum": 1858827680
       }
     ]
   },
@@ -352,12 +352,12 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
         "name": "RemoteRole",
         "checksum": 2120798060
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       },
       {
         "name": "Role",
@@ -370,52 +370,16 @@
     "propertyCount": 17,
     "properties": [
       {
-        "name": "StartingDay",
-        "checksum": 12197808
+        "name": "A",
+        "checksum": 2691274472
       },
       {
         "name": "ActiveObjectives",
         "checksum": 218255661
       },
       {
-        "name": "UIIndex",
-        "checksum": 670252021
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
-        "name": "MissionActivationTime",
-        "checksum": 1364861504
-      },
-      {
-        "name": "MissionStatus",
-        "checksum": 1487613509
-      },
-      {
-        "name": "MissionCategory",
-        "checksum": 1594079633
-      },
-      {
-        "name": "ParticipatingAccounts",
-        "checksum": 1676290238
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
         "name": "ActiveObjectives",
         "checksum": 2389640229
-      },
-      {
-        "name": "A",
-        "checksum": 2691274472
       },
       {
         "name": "B",
@@ -430,12 +394,48 @@
         "checksum": 2802556801
       },
       {
+        "name": "MissionActivationTime",
+        "checksum": 1364861504
+      },
+      {
+        "name": "MissionCategory",
+        "checksum": 1594079633
+      },
+      {
         "name": "MissionInfo",
         "checksum": 2810007156
       },
       {
+        "name": "MissionStatus",
+        "checksum": 1487613509
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "ParticipatingAccounts",
+        "checksum": 1676290238
+      },
+      {
         "name": "ParticipatingAccounts",
         "checksum": 3502084085
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "StartingDay",
+        "checksum": 12197808
+      },
+      {
+        "name": "UIIndex",
+        "checksum": 670252021
       }
     ]
   },
@@ -444,12 +444,12 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
         "name": "RemoteRole",
         "checksum": 2120798060
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       },
       {
         "name": "Role",
@@ -462,12 +462,12 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
         "name": "RemoteRole",
         "checksum": 2120798060
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       },
       {
         "name": "Role",
@@ -480,12 +480,12 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
         "name": "RemoteRole",
         "checksum": 2120798060
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       },
       {
         "name": "Role",
@@ -498,32 +498,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
       }
     ]
   },
@@ -532,12 +532,12 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
         "name": "RemoteRole",
         "checksum": 2120798060
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       },
       {
         "name": "Role",
@@ -550,32 +550,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
       }
     ]
   },
@@ -584,16 +584,16 @@
     "propertyCount": 7,
     "properties": [
       {
+        "name": "bServerStreamedInLevel",
+        "checksum": 2757655263
+      },
+      {
         "name": "FoundationEnabledState",
         "checksum": 140100030
       },
       {
-        "name": "Translation",
-        "checksum": 680115630
-      },
-      {
-        "name": "Rotation",
-        "checksum": 1690408096
+        "name": "LevelToStream",
+        "checksum": 3044933830
       },
       {
         "name": "RemoteRole",
@@ -604,12 +604,12 @@
         "checksum": 2219226437
       },
       {
-        "name": "bServerStreamedInLevel",
-        "checksum": 2757655263
+        "name": "Rotation",
+        "checksum": 1690408096
       },
       {
-        "name": "LevelToStream",
-        "checksum": 3044933830
+        "name": "Translation",
+        "checksum": 680115630
       }
     ]
   },
@@ -622,12 +622,8 @@
         "checksum": 140100030
       },
       {
-        "name": "Translation",
-        "checksum": 680115630
-      },
-      {
-        "name": "Rotation",
-        "checksum": 1690408096
+        "name": "LevelToStream",
+        "checksum": 3044933830
       },
       {
         "name": "RemoteRole",
@@ -638,8 +634,12 @@
         "checksum": 2219226437
       },
       {
-        "name": "LevelToStream",
-        "checksum": 3044933830
+        "name": "Rotation",
+        "checksum": 1690408096
+      },
+      {
+        "name": "Translation",
+        "checksum": 680115630
       }
     ]
   },
@@ -648,16 +648,16 @@
     "propertyCount": 7,
     "properties": [
       {
+        "name": "bServerStreamedInLevel",
+        "checksum": 2757655263
+      },
+      {
         "name": "FoundationEnabledState",
         "checksum": 140100030
       },
       {
-        "name": "Translation",
-        "checksum": 680115630
-      },
-      {
-        "name": "Rotation",
-        "checksum": 1690408096
+        "name": "LevelToStream",
+        "checksum": 3044933830
       },
       {
         "name": "RemoteRole",
@@ -668,12 +668,12 @@
         "checksum": 2219226437
       },
       {
-        "name": "bServerStreamedInLevel",
-        "checksum": 2757655263
+        "name": "Rotation",
+        "checksum": 1690408096
       },
       {
-        "name": "LevelToStream",
-        "checksum": 3044933830
+        "name": "Translation",
+        "checksum": 680115630
       }
     ]
   },
@@ -686,8 +686,8 @@
         "checksum": 140100030
       },
       {
-        "name": "Translation",
-        "checksum": 680115630
+        "name": "LevelToStream",
+        "checksum": 3044933830
       },
       {
         "name": "RemoteRole",
@@ -698,8 +698,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "LevelToStream",
-        "checksum": 3044933830
+        "name": "Translation",
+        "checksum": 680115630
       }
     ]
   },
@@ -712,8 +712,8 @@
         "checksum": 140100030
       },
       {
-        "name": "Translation",
-        "checksum": 680115630
+        "name": "LevelToStream",
+        "checksum": 3044933830
       },
       {
         "name": "RemoteRole",
@@ -724,8 +724,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "LevelToStream",
-        "checksum": 3044933830
+        "name": "Translation",
+        "checksum": 680115630
       }
     ]
   },
@@ -734,16 +734,16 @@
     "propertyCount": 7,
     "properties": [
       {
+        "name": "bServerStreamedInLevel",
+        "checksum": 2757655263
+      },
+      {
         "name": "FoundationEnabledState",
         "checksum": 140100030
       },
       {
-        "name": "Translation",
-        "checksum": 680115630
-      },
-      {
-        "name": "Rotation",
-        "checksum": 1690408096
+        "name": "LevelToStream",
+        "checksum": 3044933830
       },
       {
         "name": "RemoteRole",
@@ -754,12 +754,12 @@
         "checksum": 2219226437
       },
       {
-        "name": "bServerStreamedInLevel",
-        "checksum": 2757655263
+        "name": "Rotation",
+        "checksum": 1690408096
       },
       {
-        "name": "LevelToStream",
-        "checksum": 3044933830
+        "name": "Translation",
+        "checksum": 680115630
       }
     ]
   },
@@ -772,8 +772,8 @@
         "checksum": 140100030
       },
       {
-        "name": "Translation",
-        "checksum": 680115630
+        "name": "LevelToStream",
+        "checksum": 3044933830
       },
       {
         "name": "RemoteRole",
@@ -784,8 +784,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "LevelToStream",
-        "checksum": 3044933830
+        "name": "Translation",
+        "checksum": 680115630
       }
     ]
   },
@@ -798,8 +798,8 @@
         "checksum": 140100030
       },
       {
-        "name": "Translation",
-        "checksum": 680115630
+        "name": "LevelToStream",
+        "checksum": 3044933830
       },
       {
         "name": "RemoteRole",
@@ -810,8 +810,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "LevelToStream",
-        "checksum": 3044933830
+        "name": "Translation",
+        "checksum": 680115630
       }
     ]
   },
@@ -838,12 +838,12 @@
         "checksum": 2120798060
       },
       {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
         "name": "ReplicatedMovement",
         "checksum": 2749104612
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
       }
     ]
   },
@@ -852,20 +852,20 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "ScoreDisplayTime",
-        "checksum": 29157394
-      },
-      {
-        "name": "SettingsVolume",
-        "checksum": 1821679369
-      },
-      {
         "name": "RemoteRole",
         "checksum": 2120798060
       },
       {
         "name": "Role",
         "checksum": 2219226437
+      },
+      {
+        "name": "ScoreDisplayTime",
+        "checksum": 29157394
+      },
+      {
+        "name": "SettingsVolume",
+        "checksum": 1821679369
       },
       {
         "name": "WinnerDisplayTime",
@@ -878,6 +878,10 @@
     "propertyCount": 4,
     "properties": [
       {
+        "name": "bUseInstanceLootValueOverrides",
+        "checksum": 4022488714
+      },
+      {
         "name": "OverrideVendingMachineRarity",
         "checksum": 1395443415
       },
@@ -888,10 +892,6 @@
       {
         "name": "Role",
         "checksum": 2219226437
-      },
-      {
-        "name": "bUseInstanceLootValueOverrides",
-        "checksum": 4022488714
       }
     ]
   },
@@ -900,20 +900,20 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "Rotation",
-        "checksum": 65838006
-      },
-      {
-        "name": "Scale3D",
-        "checksum": 195171070
-      },
-      {
         "name": "PickupQuantity",
         "checksum": 1127333664
       },
       {
         "name": "PickupToSpawn",
         "checksum": 1425209053
+      },
+      {
+        "name": "Rotation",
+        "checksum": 65838006
+      },
+      {
+        "name": "Scale3D",
+        "checksum": 195171070
       },
       {
         "name": "ToSpawnList",
@@ -934,12 +934,12 @@
         "checksum": 51705181
       },
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
+        "name": "GrantExtraAmmoSetting",
+        "checksum": 2372795874
       },
       {
-        "name": "TrapData",
-        "checksum": 1779120881
+        "name": "InitialSpawnDelay",
+        "checksum": 2928419164
       },
       {
         "name": "RemoteRole",
@@ -950,16 +950,16 @@
         "checksum": 2219226437
       },
       {
-        "name": "GrantExtraAmmoSetting",
-        "checksum": 2372795874
+        "name": "TeamIndex",
+        "checksum": 385374885
       },
       {
         "name": "TimeBetweenSpawnsSeconds",
         "checksum": 2439074834
       },
       {
-        "name": "InitialSpawnDelay",
-        "checksum": 2928419164
+        "name": "TrapData",
+        "checksum": 1779120881
       }
     ]
   },
@@ -1020,7 +1020,7 @@
     ]
   },
   {
-    "path": "/Game/Athena/Maps/Athena_POI_Foundations.Athena_POI_Foundations_C",
+    "path": "/Game/Athena/Maps/Athena_Playground.Athena_Playground_C",
     "propertyCount": 2,
     "properties": [
       {
@@ -1034,7 +1034,7 @@
     ]
   },
   {
-    "path": "/Game/Athena/Maps/Athena_Playground.Athena_Playground_C",
+    "path": "/Game/Athena/Maps/Athena_POI_Foundations.Athena_POI_Foundations_C",
     "propertyCount": 2,
     "properties": [
       {
@@ -1234,44 +1234,44 @@
     "propertyCount": 71,
     "properties": [
       {
-        "name": "FlySpeed",
-        "checksum": 82066657
-      },
-      {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "ItemWraps",
-        "checksum": 287395922
-      },
-      {
-        "name": "StasisMode",
-        "checksum": 302799939
+        "name": "AccelerationPack",
+        "checksum": 2751148021
       },
       {
         "name": "ActiveVariantTag",
         "checksum": 312294085
       },
       {
-        "name": "RemoteViewData32",
-        "checksum": 318284657
+        "name": "AnimMontage",
+        "checksum": 4287769663
       },
       {
-        "name": "RunSpeed",
-        "checksum": 373997736
+        "name": "BannerColorId",
+        "checksum": 2815428138
       },
       {
-        "name": "PlayRate",
-        "checksum": 378147694
+        "name": "BannerIconId",
+        "checksum": 3644704572
       },
       {
-        "name": "Dances",
-        "checksum": 417080828
+        "name": "bCanBeInterrupted",
+        "checksum": 3881237144
       },
       {
-        "name": "CapsuleHalfHeightAthena",
-        "checksum": 500786465
+        "name": "bCanQue",
+        "checksum": 3809269181
+      },
+      {
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "bIgnoreNextFallingDamage",
+        "checksum": 1313018165
+      },
+      {
+        "name": "bInGliderRedeploy",
+        "checksum": 2698008993
       },
       {
         "name": "bInterruptCurrentLine",
@@ -1282,12 +1282,12 @@
         "checksum": 737983904
       },
       {
-        "name": "Pickaxe",
-        "checksum": 902724602
+        "name": "bIsParachuteForcedOpen",
+        "checksum": 3032285867
       },
       {
-        "name": "bServerHasBaseComponent",
-        "checksum": 948192076
+        "name": "bIsParachuteOpen",
+        "checksum": 2097398135
       },
       {
         "name": "bIsSkydiving",
@@ -1298,224 +1298,224 @@
         "checksum": 1072056207
       },
       {
-        "name": "MusicPack",
-        "checksum": 1085428041
-      },
-      {
-        "name": "Controller",
-        "checksum": 1134544246
-      },
-      {
-        "name": "bWeaponHolstered",
-        "checksum": 1264766460
-      },
-      {
-        "name": "ItemWraps",
-        "checksum": 1300456150
-      },
-      {
-        "name": "CapsuleRadiusAthena",
-        "checksum": 1303203011
-      },
-      {
-        "name": "bIgnoreNextFallingDamage",
-        "checksum": 1313018165
-      },
-      {
-        "name": "JumpFlashCountPacked",
-        "checksum": 1336307138
-      },
-      {
-        "name": "ReplayLastTransformUpdateTimeStamp",
-        "checksum": 1381193882
-      },
-      {
-        "name": "WalkSpeed",
-        "checksum": 1387386059
-      },
-      {
-        "name": "SimulatedProxyGameplayCues",
-        "checksum": 1538064540
-      },
-      {
-        "name": "Glider",
-        "checksum": 1588457297
-      },
-      {
-        "name": "SkipPositionCorrection",
-        "checksum": 1601827132
-      },
-      {
-        "name": "NextSectionID",
-        "checksum": 1624202408
-      },
-      {
-        "name": "VariantChannelTag",
-        "checksum": 1717285406
-      },
-      {
-        "name": "Position",
-        "checksum": 1756032659
-      },
-      {
-        "name": "BuildingState",
-        "checksum": 1894220688
-      },
-      {
         "name": "BlendTime",
         "checksum": 2018381902
-      },
-      {
-        "name": "bIsParachuteOpen",
-        "checksum": 2097398135
-      },
-      {
-        "name": "RepAnimMontageStartSection",
-        "checksum": 2109551477
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "CurrentMovementStyle",
-        "checksum": 2131771821
-      },
-      {
-        "name": "LoadingScreen",
-        "checksum": 2146695208
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "ParachuteAttachment",
-        "checksum": 2245898982
       },
       {
         "name": "bProxyIsJumpForceApplied",
         "checksum": 2286453419
       },
       {
-        "name": "IsStopped",
-        "checksum": 2368095229
+        "name": "bServerHasBaseComponent",
+        "checksum": 948192076
       },
       {
-        "name": "CharacterVariantChannels",
-        "checksum": 2418503143
+        "name": "BuildingState",
+        "checksum": 1894220688
       },
       {
-        "name": "ItemVariantIsUsedFor",
-        "checksum": 2539669146
+        "name": "bWeaponHolstered",
+        "checksum": 1264766460
       },
       {
-        "name": "PawnUniqueID",
-        "checksum": 2589469719
+        "name": "CapsuleHalfHeightAthena",
+        "checksum": 500786465
       },
       {
-        "name": "SkyDiveContrail",
-        "checksum": 2625797554
-      },
-      {
-        "name": "MovementBase",
-        "checksum": 2645773312
-      },
-      {
-        "name": "bInGliderRedeploy",
-        "checksum": 2698008993
-      },
-      {
-        "name": "ReplicatedMovement",
-        "checksum": 2749104612
-      },
-      {
-        "name": "AccelerationPack",
-        "checksum": 2751148021
-      },
-      {
-        "name": "BannerColorId",
-        "checksum": 2815428138
-      },
-      {
-        "name": "FeedbackAudioComponent",
-        "checksum": 2894669910
-      },
-      {
-        "name": "ReplicatedMovementMode",
-        "checksum": 2968399126
-      },
-      {
-        "name": "bIsParachuteForcedOpen",
-        "checksum": 3032285867
-      },
-      {
-        "name": "OwnedVariantTags",
-        "checksum": 3033341788
-      },
-      {
-        "name": "EncryptedPawnReplayData",
-        "checksum": 3069239894
+        "name": "CapsuleRadiusAthena",
+        "checksum": 1303203011
       },
       {
         "name": "Character",
         "checksum": 3550874702
       },
       {
-        "name": "BannerIconId",
-        "checksum": 3644704572
+        "name": "CharacterVariantChannels",
+        "checksum": 2418503143
       },
       {
-        "name": "SprintSpeed",
-        "checksum": 3648812363
-      },
-      {
-        "name": "VocalChords",
-        "checksum": 3673018051
-      },
-      {
-        "name": "ForcePlayBit",
-        "checksum": 3716600989
-      },
-      {
-        "name": "bCanQue",
-        "checksum": 3809269181
+        "name": "Controller",
+        "checksum": 1134544246
       },
       {
         "name": "CrouchedRunSpeed",
         "checksum": 3849594451
       },
       {
-        "name": "bCanBeInterrupted",
-        "checksum": 3881237144
+        "name": "CrouchedSprintSpeed",
+        "checksum": 4204927841
       },
       {
-        "name": "TeleportCounter",
-        "checksum": 3903987877
-      },
-      {
-        "name": "PlayerState",
-        "checksum": 3964024390
-      },
-      {
-        "name": "Dances",
-        "checksum": 4084865634
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "CurrentMovementStyle",
+        "checksum": 2131771821
       },
       {
         "name": "CurrentWeapon",
         "checksum": 4166280574
       },
       {
-        "name": "CrouchedSprintSpeed",
-        "checksum": 4204927841
+        "name": "Dances",
+        "checksum": 417080828
       },
       {
-        "name": "AnimMontage",
-        "checksum": 4287769663
+        "name": "Dances",
+        "checksum": 4084865634
+      },
+      {
+        "name": "EncryptedPawnReplayData",
+        "checksum": 3069239894
+      },
+      {
+        "name": "FeedbackAudioComponent",
+        "checksum": 2894669910
+      },
+      {
+        "name": "FlySpeed",
+        "checksum": 82066657
+      },
+      {
+        "name": "ForcePlayBit",
+        "checksum": 3716600989
+      },
+      {
+        "name": "Glider",
+        "checksum": 1588457297
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
+      },
+      {
+        "name": "IsStopped",
+        "checksum": 2368095229
+      },
+      {
+        "name": "ItemVariantIsUsedFor",
+        "checksum": 2539669146
+      },
+      {
+        "name": "ItemWraps",
+        "checksum": 287395922
+      },
+      {
+        "name": "ItemWraps",
+        "checksum": 1300456150
+      },
+      {
+        "name": "JumpFlashCountPacked",
+        "checksum": 1336307138
+      },
+      {
+        "name": "LoadingScreen",
+        "checksum": 2146695208
+      },
+      {
+        "name": "MovementBase",
+        "checksum": 2645773312
+      },
+      {
+        "name": "MusicPack",
+        "checksum": 1085428041
+      },
+      {
+        "name": "NextSectionID",
+        "checksum": 1624202408
+      },
+      {
+        "name": "OwnedVariantTags",
+        "checksum": 3033341788
+      },
+      {
+        "name": "ParachuteAttachment",
+        "checksum": 2245898982
+      },
+      {
+        "name": "PawnUniqueID",
+        "checksum": 2589469719
+      },
+      {
+        "name": "Pickaxe",
+        "checksum": 902724602
+      },
+      {
+        "name": "PlayerState",
+        "checksum": 3964024390
+      },
+      {
+        "name": "PlayRate",
+        "checksum": 378147694
+      },
+      {
+        "name": "Position",
+        "checksum": 1756032659
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RemoteViewData32",
+        "checksum": 318284657
+      },
+      {
+        "name": "RepAnimMontageStartSection",
+        "checksum": 2109551477
+      },
+      {
+        "name": "ReplayLastTransformUpdateTimeStamp",
+        "checksum": 1381193882
+      },
+      {
+        "name": "ReplicatedMovement",
+        "checksum": 2749104612
+      },
+      {
+        "name": "ReplicatedMovementMode",
+        "checksum": 2968399126
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "RunSpeed",
+        "checksum": 373997736
+      },
+      {
+        "name": "SimulatedProxyGameplayCues",
+        "checksum": 1538064540
+      },
+      {
+        "name": "SkipPositionCorrection",
+        "checksum": 1601827132
+      },
+      {
+        "name": "SkyDiveContrail",
+        "checksum": 2625797554
+      },
+      {
+        "name": "SprintSpeed",
+        "checksum": 3648812363
+      },
+      {
+        "name": "StasisMode",
+        "checksum": 302799939
+      },
+      {
+        "name": "TeleportCounter",
+        "checksum": 3903987877
+      },
+      {
+        "name": "VariantChannelTag",
+        "checksum": 1717285406
+      },
+      {
+        "name": "VocalChords",
+        "checksum": 3673018051
+      },
+      {
+        "name": "WalkSpeed",
+        "checksum": 1387386059
       }
     ]
   },
@@ -1524,24 +1524,24 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "PropertyName",
-        "checksum": 174076142
-      },
-      {
-        "name": "PropertyData",
-        "checksum": 1585299750
-      },
-      {
-        "name": "PropertyOverrides",
-        "checksum": 2829699277
+        "name": "DefaultPropertyData",
+        "checksum": 3872224250
       },
       {
         "name": "OverrideMode",
         "checksum": 3151172000
       },
       {
-        "name": "DefaultPropertyData",
-        "checksum": 3872224250
+        "name": "PropertyData",
+        "checksum": 1585299750
+      },
+      {
+        "name": "PropertyName",
+        "checksum": 174076142
+      },
+      {
+        "name": "PropertyOverrides",
+        "checksum": 2829699277
       },
       {
         "name": "PropertyScope",
@@ -1666,6 +1666,10 @@
     "propertyCount": 4,
     "properties": [
       {
+        "name": "DisplayMode",
+        "checksum": 3103017689
+      },
+      {
         "name": "Owner",
         "checksum": 1022089157
       },
@@ -1676,10 +1680,6 @@
       {
         "name": "Role",
         "checksum": 2219226437
-      },
-      {
-        "name": "DisplayMode",
-        "checksum": 3103017689
       }
     ]
   },
@@ -1818,16 +1818,8 @@
         "checksum": 51705181
       },
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
         "name": "PlayerTeam",
         "checksum": 1236131160
-      },
-      {
-        "name": "TrapData",
-        "checksum": 1779120881
       },
       {
         "name": "RemoteRole",
@@ -1836,6 +1828,14 @@
       {
         "name": "Role",
         "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
+      },
+      {
+        "name": "TrapData",
+        "checksum": 1779120881
       },
       {
         "name": "TrapLevel",
@@ -1848,16 +1848,8 @@
     "propertyCount": 17,
     "properties": [
       {
-        "name": "NumMinigameComponentsServer",
-        "checksum": 319866006
-      },
-      {
-        "name": "TrackedStats",
-        "checksum": 654654376
-      },
-      {
-        "name": "ScoreboardStats",
-        "checksum": 1042549112
+        "name": "bAllowJoinInProgress",
+        "checksum": 2250189657
       },
       {
         "name": "bTimerCountsDown",
@@ -1868,60 +1860,22 @@
         "checksum": 1387570694
       },
       {
-        "name": "TotalRounds",
-        "checksum": 1707796012
-      },
-      {
-        "name": "TimeLimit",
-        "checksum": 1923110478
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
         "name": "GameWinnerDisplayTime",
         "checksum": 2121687384
       },
       {
-        "name": "UIExtensionTags",
-        "checksum": 2185877250
+        "name": "MinigameMapWidget",
+        "checksum": 4271586790
       },
       {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "bAllowJoinInProgress",
-        "checksum": 2250189657
-      },
-      {
-        "name": "ScoreboardStats",
-        "checksum": 2978318969
+        "name": "NumMinigameComponentsServer",
+        "checksum": 319866006
       },
       {
         "name": "PostGameResetDelay",
         "checksum": 3016336113
       },
       {
-        "name": "Volume",
-        "checksum": 3470664322
-      },
-      {
-        "name": "TrackedStats",
-        "checksum": 4079252379
-      },
-      {
-        "name": "MinigameMapWidget",
-        "checksum": 4271586790
-      }
-    ]
-  },
-  {
-    "path": "/Game/Athena/Prototype/Blueprints/MeshNetwork/BP_MeshNetworkStatusFlare.BP_MeshNetworkStatusFlare_C",
-    "propertyCount": 3,
-    "properties": [
-      {
         "name": "RemoteRole",
         "checksum": 2120798060
       },
@@ -1930,8 +1884,36 @@
         "checksum": 2219226437
       },
       {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "ScoreboardStats",
+        "checksum": 1042549112
+      },
+      {
+        "name": "ScoreboardStats",
+        "checksum": 2978318969
+      },
+      {
+        "name": "TimeLimit",
+        "checksum": 1923110478
+      },
+      {
+        "name": "TotalRounds",
+        "checksum": 1707796012
+      },
+      {
+        "name": "TrackedStats",
+        "checksum": 654654376
+      },
+      {
+        "name": "TrackedStats",
+        "checksum": 4079252379
+      },
+      {
+        "name": "UIExtensionTags",
+        "checksum": 2185877250
+      },
+      {
+        "name": "Volume",
+        "checksum": 3470664322
       }
     ]
   },
@@ -1964,12 +1946,12 @@
     ]
   },
   {
-    "path": "/Game/Athena/Prototype/Blueprints/Slab/BP_SlabScripting.BP_SlabScripting_C",
+    "path": "/Game/Athena/Prototype/Blueprints/MeshNetwork/BP_MeshNetworkStatusFlare.BP_MeshNetworkStatusFlare_C",
     "propertyCount": 3,
     "properties": [
       {
-        "name": "SlabPOIChanged",
-        "checksum": 2104103924
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
         "name": "RemoteRole",
@@ -1982,20 +1964,58 @@
     ]
   },
   {
+    "path": "/Game/Athena/Prototype/Blueprints/Slab/BP_SlabScripting.BP_SlabScripting_C",
+    "propertyCount": 3,
+    "properties": [
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "SlabPOIChanged",
+        "checksum": 2104103924
+      }
+    ]
+  },
+  {
     "path": "/Game/Athena/SafeZone/SafeZoneIndicator.SafeZoneIndicator_C",
     "propertyCount": 12,
     "properties": [
       {
-        "name": "NextCenter",
-        "checksum": 94893030
+        "name": "LastCenter",
+        "checksum": 3125544095
       },
       {
         "name": "LastRadius",
         "checksum": 1119979651
       },
       {
+        "name": "MegaStormDelayTimeBeforeDestruction",
+        "checksum": 3576291382
+      },
+      {
+        "name": "NextCenter",
+        "checksum": 94893030
+      },
+      {
         "name": "NextNextCenter",
         "checksum": 1682976951
+      },
+      {
+        "name": "NextNextRadius",
+        "checksum": 2878351201
+      },
+      {
+        "name": "NextRadius",
+        "checksum": 3496036759
+      },
+      {
+        "name": "Radius",
+        "checksum": 3605838384
       },
       {
         "name": "RemoteRole",
@@ -2010,26 +2030,6 @@
         "checksum": 2611373848
       },
       {
-        "name": "NextNextRadius",
-        "checksum": 2878351201
-      },
-      {
-        "name": "LastCenter",
-        "checksum": 3125544095
-      },
-      {
-        "name": "NextRadius",
-        "checksum": 3496036759
-      },
-      {
-        "name": "MegaStormDelayTimeBeforeDestruction",
-        "checksum": 3576291382
-      },
-      {
-        "name": "Radius",
-        "checksum": 3605838384
-      },
-      {
         "name": "SafeZoneStartShrinkTime",
         "checksum": 4115127317
       }
@@ -2040,20 +2040,20 @@
     "propertyCount": 4,
     "properties": [
       {
-        "name": "RemoteRole",
-        "checksum": 2120798060
+        "name": "FinalDestination",
+        "checksum": 3412774719
       },
       {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "RemoteRole",
+        "checksum": 2120798060
       },
       {
         "name": "ReplicatedMovement",
         "checksum": 2749104612
       },
       {
-        "name": "FinalDestination",
-        "checksum": 3412774719
+        "name": "Role",
+        "checksum": 2219226437
       }
     ]
   },
@@ -2077,84 +2077,6 @@
   },
   {
     "path": "/Game/Building/ActorBlueprints/Corner/SM_Trim_Corner_04.SM_Trim_Corner_04_C",
-    "propertyCount": 2,
-    "properties": [
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      }
-    ]
-  },
-  {
-    "path": "/Game/Building/ActorBlueprints/Floor/PG_SM_Sidewalk_Rounded_01.PG_SM_Sidewalk_Rounded_01_C",
-    "propertyCount": 2,
-    "properties": [
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      }
-    ]
-  },
-  {
-    "path": "/Game/Building/ActorBlueprints/Floor/PG_SM_Sidewalk_Small_01.PG_SM_Sidewalk_Small_01_C",
-    "propertyCount": 2,
-    "properties": [
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      }
-    ]
-  },
-  {
-    "path": "/Game/Building/ActorBlueprints/Floor/PG_SM_Sidewalk_Small_04.PG_SM_Sidewalk_Small_04_C",
-    "propertyCount": 4,
-    "properties": [
-      {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "bMirrored",
-        "checksum": 2367764837
-      }
-    ]
-  },
-  {
-    "path": "/Game/Building/ActorBlueprints/Floor/PG_SM_Sidewalk_Small_05.PG_SM_Sidewalk_Small_05_C",
-    "propertyCount": 2,
-    "properties": [
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      }
-    ]
-  },
-  {
-    "path": "/Game/Building/ActorBlueprints/Floor/PG_S_Mansion_Path_1x1.PG_S_Mansion_Path_1x1_C",
     "propertyCount": 2,
     "properties": [
       {
@@ -2197,6 +2119,20 @@
   },
   {
     "path": "/Game/Building/ActorBlueprints/Floor/PG_S_Mansion_Path_1x1_TSection.PG_S_Mansion_Path_1x1_TSection_C",
+    "propertyCount": 2,
+    "properties": [
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      }
+    ]
+  },
+  {
+    "path": "/Game/Building/ActorBlueprints/Floor/PG_S_Mansion_Path_1x1.PG_S_Mansion_Path_1x1_C",
     "propertyCount": 2,
     "properties": [
       {
@@ -2270,17 +2206,9 @@
     ]
   },
   {
-    "path": "/Game/Building/ActorBlueprints/Floor/SM_FORT_Floors_Generic_BasicTile.SM_FORT_Floors_Generic_BasicTile_C",
-    "propertyCount": 5,
+    "path": "/Game/Building/ActorBlueprints/Floor/PG_SM_Sidewalk_Rounded_01.PG_SM_Sidewalk_Rounded_01_C",
+    "propertyCount": 2,
     "properties": [
-      {
-        "name": "TextureData",
-        "checksum": 1191174783
-      },
-      {
-        "name": "ResourceType",
-        "checksum": 1603263899
-      },
       {
         "name": "RemoteRole",
         "checksum": 2120798060
@@ -2288,6 +2216,78 @@
       {
         "name": "Role",
         "checksum": 2219226437
+      }
+    ]
+  },
+  {
+    "path": "/Game/Building/ActorBlueprints/Floor/PG_SM_Sidewalk_Small_01.PG_SM_Sidewalk_Small_01_C",
+    "propertyCount": 2,
+    "properties": [
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      }
+    ]
+  },
+  {
+    "path": "/Game/Building/ActorBlueprints/Floor/PG_SM_Sidewalk_Small_04.PG_SM_Sidewalk_Small_04_C",
+    "propertyCount": 4,
+    "properties": [
+      {
+        "name": "bMirrored",
+        "checksum": 2367764837
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      }
+    ]
+  },
+  {
+    "path": "/Game/Building/ActorBlueprints/Floor/PG_SM_Sidewalk_Small_05.PG_SM_Sidewalk_Small_05_C",
+    "propertyCount": 2,
+    "properties": [
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      }
+    ]
+  },
+  {
+    "path": "/Game/Building/ActorBlueprints/Floor/SM_FORT_Floors_Generic_BasicTile.SM_FORT_Floors_Generic_BasicTile_C",
+    "propertyCount": 5,
+    "properties": [
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "ResourceType",
+        "checksum": 1603263899
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
       },
       {
         "name": "TextureData",
@@ -2300,40 +2300,40 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
         "name": "bIsForPreviewing",
         "checksum": 2198183761
       },
       {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
       }
     ]
   },
@@ -2342,16 +2342,16 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
         "name": "RemoteRole",
         "checksum": 2120798060
       },
       {
         "name": "Role",
         "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2360,64 +2360,64 @@
     "propertyCount": 15,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "DoorDesiredRotOffset",
-        "checksum": 293489676
-      },
-      {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "bUnderRepair",
-        "checksum": 669340884
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "bIsForPreviewing",
-        "checksum": 2198183761
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "name": "bDoorCollisionDisabled",
+        "checksum": 3873702948
       },
       {
         "name": "bDoorOpen",
         "checksum": 3169319315
       },
       {
-        "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
-        "name": "Health",
-        "checksum": 4014227352
+        "name": "bIsForPreviewing",
+        "checksum": 2198183761
       },
       {
         "name": "BuildTime",
         "checksum": 4036394804
       },
       {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "bUnderConstruction",
+        "checksum": 2604190565
+      },
+      {
+        "name": "bUnderRepair",
+        "checksum": 669340884
+      },
+      {
+        "name": "DoorDesiredRotOffset",
+        "checksum": 293489676
+      },
+      {
+        "name": "Health",
+        "checksum": 4014227352
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2426,32 +2426,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2460,32 +2460,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2494,32 +2494,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2528,32 +2528,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2562,48 +2562,48 @@
     "propertyCount": 11,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "bInstantDeath",
-        "checksum": 1699243242
+        "name": "bAttachmentPlacementBlockedFront",
+        "checksum": 1862335847
       },
       {
         "name": "bDestroyed",
         "checksum": 1836540632
       },
       {
-        "name": "RepairTime",
-        "checksum": 1844354825
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
-        "name": "bAttachmentPlacementBlockedFront",
-        "checksum": 1862335847
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "Health",
-        "checksum": 4014227352
+        "name": "bInstantDeath",
+        "checksum": 1699243242
       },
       {
         "name": "BuildTime",
         "checksum": 4036394804
       },
       {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "Health",
+        "checksum": 4014227352
       },
       {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2612,32 +2612,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2646,44 +2646,44 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "bInstantDeath",
-        "checksum": 1699243242
-      },
-      {
         "name": "bDestroyed",
         "checksum": 1836540632
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "Health",
-        "checksum": 4014227352
-      },
-      {
-        "name": "BuildTime",
-        "checksum": 4036394804
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
       },
       {
+        "name": "bInstantDeath",
+        "checksum": 1699243242
+      },
+      {
+        "name": "BuildTime",
+        "checksum": 4036394804
+      },
+      {
+        "name": "Health",
+        "checksum": 4014227352
+      },
+      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2692,44 +2692,44 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "bInstantDeath",
-        "checksum": 1699243242
-      },
-      {
         "name": "bDestroyed",
         "checksum": 1836540632
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "Health",
-        "checksum": 4014227352
-      },
-      {
-        "name": "BuildTime",
-        "checksum": 4036394804
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
       },
       {
+        "name": "bInstantDeath",
+        "checksum": 1699243242
+      },
+      {
+        "name": "BuildTime",
+        "checksum": 4036394804
+      },
+      {
+        "name": "Health",
+        "checksum": 4014227352
+      },
+      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -2738,36 +2738,36 @@
     "propertyCount": 8,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
         "name": "bMirrored",
         "checksum": 2367764837
-      },
-      {
-        "name": "Health",
-        "checksum": 4014227352
       },
       {
         "name": "BuildTime",
         "checksum": 4036394804
       },
       {
+        "name": "Health",
+        "checksum": 4014227352
+      },
+      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
       }
     ]
   },
@@ -2776,28 +2776,28 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
       }
     ]
   },
@@ -2806,20 +2806,20 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "TextureData",
-        "checksum": 1191174783
+        "name": "RemoteRole",
+        "checksum": 2120798060
       },
       {
         "name": "ResourceType",
         "checksum": 1603263899
       },
       {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
         "name": "Role",
         "checksum": 2219226437
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
       },
       {
         "name": "TextureData",
@@ -2832,44 +2832,44 @@
     "propertyCount": 11,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "TextureData",
-        "checksum": 1191174783
-      },
-      {
-        "name": "RepairTime",
-        "checksum": 1844354825
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
         "name": "bIsForPreviewing",
         "checksum": 2198183761
       },
       {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "BuildTime",
+        "checksum": 4036394804
       },
       {
         "name": "Health",
         "checksum": 4014227352
       },
       {
-        "name": "BuildTime",
-        "checksum": 4036394804
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "MaxHealth",
         "checksum": 4214482367
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "RepairTime",
+        "checksum": 1844354825
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
       },
       {
         "name": "TextureData",
@@ -2910,8 +2910,12 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "PropertyScope",
-        "checksum": 1136281959
+        "name": "BaseObject",
+        "checksum": 3523904286
+      },
+      {
+        "name": "DefaultPropertyData",
+        "checksum": 3666495456
       },
       {
         "name": "PropertyData",
@@ -2922,16 +2926,12 @@
         "checksum": 3431135916
       },
       {
-        "name": "BaseObject",
-        "checksum": 3523904286
-      },
-      {
-        "name": "DefaultPropertyData",
-        "checksum": 3666495456
-      },
-      {
         "name": "PropertyOverrides",
         "checksum": 3781788186
+      },
+      {
+        "name": "PropertyScope",
+        "checksum": 1136281959
       }
     ]
   },
@@ -2962,76 +2962,72 @@
     "propertyCount": 32,
     "properties": [
       {
-        "name": "AltTitle",
-        "checksum": 120223686
-      },
-      {
-        "name": "TeleportLocation",
-        "checksum": 327997989
-      },
-      {
-        "name": "Locale",
-        "checksum": 339289278
-      },
-      {
-        "name": "LinkYoutubeId",
-        "checksum": 360733224
-      },
-      {
-        "name": "TextLiteral",
-        "checksum": 596638959
-      },
-      {
-        "name": "PlayersReady",
-        "checksum": 658799079
-      },
-      {
-        "name": "Locale",
-        "checksum": 830222488
-      },
-      {
         "name": "AccountId",
         "checksum": 934206158
       },
       {
-        "name": "LinkTagline",
-        "checksum": 1126884810
+        "name": "AltTitle",
+        "checksum": 120223686
+      },
+      {
+        "name": "bIsPublishedPortal",
+        "checksum": 3238902129
+      },
+      {
+        "name": "bPortalOpen",
+        "checksum": 3218864339
+      },
+      {
+        "name": "bReturnToCreativeHub",
+        "checksum": 3065491851
+      },
+      {
+        "name": "bUserInitiatedLoad",
+        "checksum": 2768029564
       },
       {
         "name": "CreatorName",
         "checksum": 1417420162
       },
       {
-        "name": "PlayersReady",
-        "checksum": 1596363555
-      },
-      {
-        "name": "Version",
-        "checksum": 2059587285
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
         "name": "CurrentPopulation",
         "checksum": 2137495919
+      },
+      {
+        "name": "ImageUrl",
+        "checksum": 4177494200
       },
       {
         "name": "IslandIntroduction",
         "checksum": 2212617797
       },
       {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "PlayerPawn",
-        "checksum": 2275772554
-      },
-      {
         "name": "IslandType",
         "checksum": 2372901491
+      },
+      {
+        "name": "LinkTagline",
+        "checksum": 1126884810
+      },
+      {
+        "name": "LinkTitle",
+        "checksum": 2518084176
+      },
+      {
+        "name": "LinkYoutubeId",
+        "checksum": 360733224
+      },
+      {
+        "name": "Locale",
+        "checksum": 339289278
+      },
+      {
+        "name": "Locale",
+        "checksum": 830222488
+      },
+      {
+        "name": "Locale",
+        "checksum": 3612661336
       },
       {
         "name": "Mnemonic",
@@ -3042,32 +3038,40 @@
         "checksum": 2396056263
       },
       {
-        "name": "LinkTitle",
-        "checksum": 2518084176
+        "name": "PlayerPawn",
+        "checksum": 2275772554
+      },
+      {
+        "name": "PlayersReady",
+        "checksum": 658799079
+      },
+      {
+        "name": "PlayersReady",
+        "checksum": 1596363555
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
       },
       {
         "name": "ReplicatedMovement",
         "checksum": 2749104612
       },
       {
-        "name": "bUserInitiatedLoad",
-        "checksum": 2768029564
+        "name": "Role",
+        "checksum": 2219226437
       },
       {
-        "name": "VolumeStatus",
-        "checksum": 2807008921
+        "name": "SupportCode",
+        "checksum": 4107701844
       },
       {
-        "name": "bReturnToCreativeHub",
-        "checksum": 3065491851
+        "name": "TeleportLocation",
+        "checksum": 327997989
       },
       {
-        "name": "bPortalOpen",
-        "checksum": 3218864339
-      },
-      {
-        "name": "bIsPublishedPortal",
-        "checksum": 3238902129
+        "name": "TextLiteral",
+        "checksum": 596638959
       },
       {
         "name": "TextLiteral",
@@ -3078,16 +3082,12 @@
         "checksum": 3573701823
       },
       {
-        "name": "Locale",
-        "checksum": 3612661336
+        "name": "Version",
+        "checksum": 2059587285
       },
       {
-        "name": "SupportCode",
-        "checksum": 4107701844
-      },
-      {
-        "name": "ImageUrl",
-        "checksum": 4177494200
+        "name": "VolumeStatus",
+        "checksum": 2807008921
       }
     ]
   },
@@ -3154,7 +3154,7 @@
     ]
   },
   {
-    "path": "/Game/Playgrounds/Maps/Test/Islands/PG_Island_GroupMaster.PG_Island_GroupMaster_C",
+    "path": "/Game/Playgrounds/Maps/Test/Islands/PG_Island_GroupMaster_BR_Portals.PG_Island_GroupMaster_BR_Portals_C",
     "propertyCount": 2,
     "properties": [
       {
@@ -3168,7 +3168,7 @@
     ]
   },
   {
-    "path": "/Game/Playgrounds/Maps/Test/Islands/PG_Island_GroupMaster_BR_Portals.PG_Island_GroupMaster_BR_Portals_C",
+    "path": "/Game/Playgrounds/Maps/Test/Islands/PG_Island_GroupMaster.PG_Island_GroupMaster_C",
     "propertyCount": 2,
     "properties": [
       {
@@ -3186,8 +3186,8 @@
     "propertyCount": 4,
     "properties": [
       {
-        "name": "SpawnLocation",
-        "checksum": 1139493118
+        "name": "PlayerState",
+        "checksum": 3964024390
       },
       {
         "name": "RemoteRole",
@@ -3198,8 +3198,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "PlayerState",
-        "checksum": 3964024390
+        "name": "SpawnLocation",
+        "checksum": 1139493118
       }
     ]
   },
@@ -3208,40 +3208,40 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "TimeOfDayReplicated",
-        "checksum": 522261181
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
         "name": "bHeightFogEnabled",
         "checksum": 2001440707
+      },
+      {
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
         "name": "bTimeStarted",
         "checksum": 2053615377
       },
       {
-        "name": "RemoteRole",
-        "checksum": 2120798060
+        "name": "Owner",
+        "checksum": 1022089157
       },
       {
-        "name": "TimeOfDay",
-        "checksum": 2157960238
+        "name": "RemoteRole",
+        "checksum": 2120798060
       },
       {
         "name": "Role",
         "checksum": 2219226437
       },
       {
-        "name": "TimeOfDaySpeed",
-        "checksum": 2756953436
+        "name": "TimeOfDay",
+        "checksum": 2157960238
       },
       {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "TimeOfDayReplicated",
+        "checksum": 522261181
+      },
+      {
+        "name": "TimeOfDaySpeed",
+        "checksum": 2756953436
       }
     ]
   },
@@ -3250,24 +3250,28 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "Modifiers",
-        "checksum": 1085127337
-      },
-      {
-        "name": "D",
-        "checksum": 1351520596
-      },
-      {
-        "name": "C",
-        "checksum": 1418158599
+        "name": "A",
+        "checksum": 1475123261
       },
       {
         "name": "B",
         "checksum": 1429380890
       },
       {
-        "name": "A",
-        "checksum": 1475123261
+        "name": "C",
+        "checksum": 1418158599
+      },
+      {
+        "name": "D",
+        "checksum": 1351520596
+      },
+      {
+        "name": "Modifiers",
+        "checksum": 1085127337
+      },
+      {
+        "name": "Modifiers",
+        "checksum": 2114475096
       },
       {
         "name": "RecipientControllers",
@@ -3276,10 +3280,6 @@
       {
         "name": "RecipientControllers",
         "checksum": 1689450743
-      },
-      {
-        "name": "Modifiers",
-        "checksum": 2114475096
       },
       {
         "name": "RemoteRole",
@@ -3296,32 +3296,36 @@
     "propertyCount": 11,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "A",
+        "checksum": 800551359
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "Owner",
         "checksum": 1022089157
-      },
-      {
-        "name": "WeaponData",
-        "checksum": 1473697397
       },
       {
         "name": "RemoteRole",
@@ -3332,12 +3336,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "WeaponData",
+        "checksum": 1473697397
       }
     ]
   },
@@ -3346,36 +3346,44 @@
     "propertyCount": 13,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
+        "name": "A",
+        "checksum": 800551359
       },
       {
         "name": "AppliedAlterations",
         "checksum": 313956765
       },
       {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "AppliedAlterations",
+        "checksum": 2379401561
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "Owner",
         "checksum": 1022089157
-      },
-      {
-        "name": "WeaponData",
-        "checksum": 1473697397
       },
       {
         "name": "RemoteRole",
@@ -3386,16 +3394,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "AppliedAlterations",
-        "checksum": 2379401561
-      },
-      {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "WeaponData",
+        "checksum": 1473697397
       }
     ]
   },
@@ -3404,40 +3404,52 @@
     "propertyCount": 15,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
+        "name": "A",
+        "checksum": 800551359
+      },
+      {
+        "name": "AmmoCount",
+        "checksum": 2403689238
       },
       {
         "name": "AppliedAlterations",
         "checksum": 313956765
       },
       {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "AppliedAlterations",
+        "checksum": 2379401561
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
-        "name": "Owner",
-        "checksum": 1022089157
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
       },
       {
         "name": "bIsReloadingWeapon",
         "checksum": 1208259079
       },
       {
-        "name": "WeaponData",
-        "checksum": 1473697397
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
       },
       {
         "name": "RemoteRole",
@@ -3448,20 +3460,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "AppliedAlterations",
-        "checksum": 2379401561
-      },
-      {
-        "name": "AmmoCount",
-        "checksum": 2403689238
-      },
-      {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "WeaponData",
+        "checksum": 1473697397
       }
     ]
   },
@@ -3470,36 +3470,48 @@
     "propertyCount": 14,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
+        "name": "A",
+        "checksum": 800551359
+      },
+      {
+        "name": "AmmoCount",
+        "checksum": 2403689238
       },
       {
         "name": "AppliedAlterations",
         "checksum": 313956765
       },
       {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "AppliedAlterations",
+        "checksum": 2379401561
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "Owner",
         "checksum": 1022089157
-      },
-      {
-        "name": "WeaponData",
-        "checksum": 1473697397
       },
       {
         "name": "RemoteRole",
@@ -3510,20 +3522,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "AppliedAlterations",
-        "checksum": 2379401561
-      },
-      {
-        "name": "AmmoCount",
-        "checksum": 2403689238
-      },
-      {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "WeaponData",
+        "checksum": 1473697397
       }
     ]
   },
@@ -3532,36 +3532,48 @@
     "propertyCount": 14,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
+        "name": "A",
+        "checksum": 800551359
+      },
+      {
+        "name": "AmmoCount",
+        "checksum": 2403689238
       },
       {
         "name": "AppliedAlterations",
         "checksum": 313956765
       },
       {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "AppliedAlterations",
+        "checksum": 2379401561
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "Owner",
         "checksum": 1022089157
-      },
-      {
-        "name": "WeaponData",
-        "checksum": 1473697397
       },
       {
         "name": "RemoteRole",
@@ -3572,20 +3584,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "AppliedAlterations",
-        "checksum": 2379401561
-      },
-      {
-        "name": "AmmoCount",
-        "checksum": 2403689238
-      },
-      {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "WeaponData",
+        "checksum": 1473697397
       }
     ]
   },
@@ -3594,88 +3594,64 @@
     "propertyCount": 38,
     "properties": [
       {
-        "name": "PosessedBlueprintPreviewers",
-        "checksum": 101562388
-      },
-      {
-        "name": "OriginalActor",
-        "checksum": 162760118
-      },
-      {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "Translation",
-        "checksum": 323116607
+        "name": "A",
+        "checksum": 800551359
       },
       {
         "name": "ActiveBlueprintPreviewers",
         "checksum": 405063132
       },
       {
-        "name": "Previews",
-        "checksum": 612232194
+        "name": "ActiveBlueprintPreviewers",
+        "checksum": 2578126916
       },
       {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "AmmoCount",
+        "checksum": 2403689238
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bClientNeedsToProcessNewlyPlacedActors",
+        "checksum": 1633934955
       },
       {
-        "name": "Rotation",
-        "checksum": 956803556
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
-        "name": "Owner",
-        "checksum": 1022089157
+        "name": "bIsPreviewingMove",
+        "checksum": 1773654874
       },
       {
-        "name": "InteractionBehaviors",
-        "checksum": 1056871130
+        "name": "C",
+        "checksum": 752651141
       },
       {
-        "name": "W",
-        "checksum": 1189261361
-      },
-      {
-        "name": "Z",
-        "checksum": 1278169520
+        "name": "D",
+        "checksum": 685078742
       },
       {
         "name": "DeleteObjectsInteractionBehavior",
         "checksum": 1316800800
       },
       {
-        "name": "Y",
-        "checksum": 1324439191
+        "name": "FlashCounter",
+        "checksum": 3565673449
       },
       {
-        "name": "X",
-        "checksum": 1329900426
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
-        "name": "WeaponData",
-        "checksum": 1473697397
+        "name": "InteractionBehaviors",
+        "checksum": 1056871130
       },
       {
-        "name": "bClientNeedsToProcessNewlyPlacedActors",
-        "checksum": 1633934955
-      },
-      {
-        "name": "bIsPreviewingMove",
-        "checksum": 1773654874
+        "name": "InteractionBehaviors",
+        "checksum": 2448070013
       },
       {
         "name": "isBuildingPiece_22_8BCDA4054BDBA332062B16B8329FF0F2",
@@ -3686,6 +3662,42 @@
         "checksum": 2028174008
       },
       {
+        "name": "MeshComponents_16_2F81DBEE4A54236C4AA0F8AD425D5CEA",
+        "checksum": 3325704064
+      },
+      {
+        "name": "NewlyPlacedActors",
+        "checksum": 3104755639
+      },
+      {
+        "name": "NumberOfActivePreviews_32_37ECF52740C81898B5CB2799AFC301FC",
+        "checksum": 4030440537
+      },
+      {
+        "name": "OriginalActor",
+        "checksum": 162760118
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "PosessedBlueprintPreviewers",
+        "checksum": 101562388
+      },
+      {
+        "name": "PosessedBlueprintPreviewers",
+        "checksum": 2870162282
+      },
+      {
+        "name": "Previews",
+        "checksum": 612232194
+      },
+      {
+        "name": "Previews",
+        "checksum": 3328010132
+      },
+      {
         "name": "RemoteRole",
         "checksum": 2120798060
       },
@@ -3694,40 +3706,8 @@
         "checksum": 2219226437
       },
       {
-        "name": "VisualState_28_48A9044E44537CF8206398B13C015650",
-        "checksum": 2277563121
-      },
-      {
-        "name": "AmmoCount",
-        "checksum": 2403689238
-      },
-      {
-        "name": "InteractionBehaviors",
-        "checksum": 2448070013
-      },
-      {
-        "name": "ActiveBlueprintPreviewers",
-        "checksum": 2578126916
-      },
-      {
-        "name": "PosessedBlueprintPreviewers",
-        "checksum": 2870162282
-      },
-      {
-        "name": "NewlyPlacedActors",
-        "checksum": 3104755639
-      },
-      {
-        "name": "MeshComponents_16_2F81DBEE4A54236C4AA0F8AD425D5CEA",
-        "checksum": 3325704064
-      },
-      {
-        "name": "Previews",
-        "checksum": 3328010132
-      },
-      {
-        "name": "FlashCounter",
-        "checksum": 3565673449
+        "name": "Rotation",
+        "checksum": 956803556
       },
       {
         "name": "SelectionProperty",
@@ -3738,12 +3718,32 @@
         "checksum": 3964369555
       },
       {
-        "name": "NumberOfActivePreviews_32_37ECF52740C81898B5CB2799AFC301FC",
-        "checksum": 4030440537
+        "name": "Translation",
+        "checksum": 323116607
       },
       {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "VisualState_28_48A9044E44537CF8206398B13C015650",
+        "checksum": 2277563121
+      },
+      {
+        "name": "W",
+        "checksum": 1189261361
+      },
+      {
+        "name": "WeaponData",
+        "checksum": 1473697397
+      },
+      {
+        "name": "X",
+        "checksum": 1329900426
+      },
+      {
+        "name": "Y",
+        "checksum": 1324439191
+      },
+      {
+        "name": "Z",
+        "checksum": 1278169520
       }
     ]
   },
@@ -3752,44 +3752,36 @@
     "propertyCount": 18,
     "properties": [
       {
-        "name": "LocationOffset",
-        "checksum": 111823753
+        "name": "AttachComponent",
+        "checksum": 924082277
       },
       {
-        "name": "Instigator",
-        "checksum": 220456479
+        "name": "AttachParent",
+        "checksum": 3846863854
+      },
+      {
+        "name": "BaseActor",
+        "checksum": 3830625269
+      },
+      {
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "CreativeInteraction",
+        "checksum": 3859173344
       },
       {
         "name": "FXState",
         "checksum": 496061927
       },
       {
-        "name": "AttachComponent",
-        "checksum": 924082277
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
-        "name": "PropOwningActor",
-        "checksum": 1744486340
-      },
-      {
-        "name": "Rotation",
-        "checksum": 1907808109
-      },
-      {
-        "name": "RelativeScale3D",
-        "checksum": 1992268157
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
+        "name": "LocationOffset",
+        "checksum": 111823753
       },
       {
         "name": "MeshComponents",
@@ -3800,28 +3792,36 @@
         "checksum": 2493626780
       },
       {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "PropOwningActor",
+        "checksum": 1744486340
+      },
+      {
+        "name": "RelativeScale3D",
+        "checksum": 1992268157
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
         "name": "ReplicatedMovement",
         "checksum": 2749104612
       },
       {
-        "name": "BaseActor",
-        "checksum": 3830625269
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "Rotation",
+        "checksum": 1907808109
       },
       {
         "name": "Translation",
         "checksum": 3845577317
-      },
-      {
-        "name": "AttachParent",
-        "checksum": 3846863854
-      },
-      {
-        "name": "CreativeInteraction",
-        "checksum": 3859173344
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
       }
     ]
   },
@@ -3862,116 +3862,116 @@
     "propertyCount": 28,
     "properties": [
       {
-        "name": "EffectContext",
-        "checksum": 176308257
-      },
-      {
-        "name": "PredictionKey",
-        "checksum": 547449980
-      },
-      {
-        "name": "Def",
-        "checksum": 570893483
-      },
-      {
-        "name": "InputID",
-        "checksum": 836710747
-      },
-      {
-        "name": "ChanceToApplyToTarget",
-        "checksum": 1101390352
-      },
-      {
-        "name": "ReplicatedInstances",
-        "checksum": 1174980614
-      },
-      {
-        "name": "Duration",
-        "checksum": 1438116795
-      },
-      {
-        "name": "Handle",
-        "checksum": 1446845847
-      },
-      {
-        "name": "SourceObject",
-        "checksum": 1805125978
+        "name": "Ability",
+        "checksum": 4059749285
       },
       {
         "name": "AvatarActor",
         "checksum": 1829222345
       },
       {
-        "name": "SimulatedTasks",
-        "checksum": 1851923830
+        "name": "ChanceToApplyToTarget",
+        "checksum": 1101390352
       },
       {
-        "name": "DynamicGrantedTags",
-        "checksum": 1991420379
+        "name": "Def",
+        "checksum": 570893483
       },
       {
-        "name": "Modifiers",
-        "checksum": 2195913871
-      },
-      {
-        "name": "Level",
-        "checksum": 2278404425
-      },
-      {
-        "name": "SimulatedTasks",
-        "checksum": 2688965388
-      },
-      {
-        "name": "GrantedAbilitySpecs",
-        "checksum": 2733838550
-      },
-      {
-        "name": "ReplicatedInstances",
-        "checksum": 3065376517
-      },
-      {
-        "name": "OwnerActor",
-        "checksum": 3069409379
-      },
-      {
-        "name": "SpawnedAttributes",
-        "checksum": 3229084341
-      },
-      {
-        "name": "EvaluatedMagnitude",
-        "checksum": 3233976608
-      },
-      {
-        "name": "ModifiedAttributes",
-        "checksum": 3258848653
-      },
-      {
-        "name": "Period",
-        "checksum": 3375425322
-      },
-      {
-        "name": "StartServerWorldTime",
-        "checksum": 3431521511
-      },
-      {
-        "name": "SpawnedAttributes",
-        "checksum": 3532347751
+        "name": "Duration",
+        "checksum": 1438116795
       },
       {
         "name": "DynamicAssetTags",
         "checksum": 4037501619
       },
       {
-        "name": "Ability",
-        "checksum": 4059749285
+        "name": "DynamicGrantedTags",
+        "checksum": 1991420379
+      },
+      {
+        "name": "EffectContext",
+        "checksum": 176308257
+      },
+      {
+        "name": "EvaluatedMagnitude",
+        "checksum": 3233976608
+      },
+      {
+        "name": "GrantedAbilitySpecs",
+        "checksum": 2733838550
+      },
+      {
+        "name": "Handle",
+        "checksum": 1446845847
+      },
+      {
+        "name": "InputID",
+        "checksum": 836710747
+      },
+      {
+        "name": "Level",
+        "checksum": 2278404425
       },
       {
         "name": "Level",
         "checksum": 4204500093
       },
       {
+        "name": "ModifiedAttributes",
+        "checksum": 3258848653
+      },
+      {
+        "name": "Modifiers",
+        "checksum": 2195913871
+      },
+      {
+        "name": "OwnerActor",
+        "checksum": 3069409379
+      },
+      {
+        "name": "Period",
+        "checksum": 3375425322
+      },
+      {
+        "name": "PredictionKey",
+        "checksum": 547449980
+      },
+      {
+        "name": "ReplicatedInstances",
+        "checksum": 1174980614
+      },
+      {
+        "name": "ReplicatedInstances",
+        "checksum": 3065376517
+      },
+      {
+        "name": "SimulatedTasks",
+        "checksum": 1851923830
+      },
+      {
+        "name": "SimulatedTasks",
+        "checksum": 2688965388
+      },
+      {
+        "name": "SourceObject",
+        "checksum": 1805125978
+      },
+      {
+        "name": "SpawnedAttributes",
+        "checksum": 3229084341
+      },
+      {
+        "name": "SpawnedAttributes",
+        "checksum": 3532347751
+      },
+      {
         "name": "StackCount",
         "checksum": 4254687405
+      },
+      {
+        "name": "StartServerWorldTime",
+        "checksum": 3431521511
       }
     ]
   },
@@ -3980,28 +3980,12 @@
     "propertyCount": 20,
     "properties": [
       {
-        "name": "UnclampedBaseValue",
-        "checksum": 162133608
-      },
-      {
         "name": "BaseValue",
         "checksum": 277431671
       },
       {
-        "name": "UnclampedBaseValue",
-        "checksum": 333841517
-      },
-      {
         "name": "BaseValue",
         "checksum": 379235997
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 401010274
-      },
-      {
-        "name": "CurrentValue",
-        "checksum": 473524852
       },
       {
         "name": "BaseValue",
@@ -4012,24 +3996,16 @@
         "checksum": 1259908824
       },
       {
-        "name": "UnclampedCurrentValue",
-        "checksum": 1268443012
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 1422514939
-      },
-      {
-        "name": "CurrentValue",
-        "checksum": 1817790855
-      },
-      {
         "name": "BaseValue",
         "checksum": 2114645667
       },
       {
-        "name": "UnclampedCurrentValue",
-        "checksum": 2514163985
+        "name": "CurrentValue",
+        "checksum": 473524852
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 1817790855
       },
       {
         "name": "CurrentValue",
@@ -4040,6 +4016,22 @@
         "checksum": 2822021594
       },
       {
+        "name": "CurrentValue",
+        "checksum": 3158407793
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 162133608
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 333841517
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 401010274
+      },
+      {
         "name": "UnclampedBaseValue",
         "checksum": 2954339643
       },
@@ -4048,8 +4040,16 @@
         "checksum": 3141285814
       },
       {
-        "name": "CurrentValue",
-        "checksum": 3158407793
+        "name": "UnclampedCurrentValue",
+        "checksum": 1268443012
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 1422514939
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 2514163985
       },
       {
         "name": "UnclampedCurrentValue",
@@ -4084,44 +4084,44 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "UnclampedBaseValue",
-        "checksum": 152376441
+        "name": "BaseValue",
+        "checksum": 3129524333
       },
       {
-        "name": "CurrentValue",
-        "checksum": 159608710
+        "name": "BaseValue",
+        "checksum": 4099898518
       },
       {
         "name": "bIsClamped",
         "checksum": 397345901
       },
       {
-        "name": "UnclampedCurrentValue",
-        "checksum": 934557638
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 2155545782
-      },
-      {
-        "name": "Maximum",
-        "checksum": 2160711052
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 3129524333
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 3198826171
+        "name": "CurrentValue",
+        "checksum": 159608710
       },
       {
         "name": "CurrentValue",
         "checksum": 3264251261
       },
       {
-        "name": "BaseValue",
-        "checksum": 4099898518
+        "name": "Maximum",
+        "checksum": 2160711052
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 152376441
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 2155545782
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 934557638
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 3198826171
       }
     ]
   },
@@ -4154,44 +4154,44 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "Scale3D",
-        "checksum": 480473062
+        "name": "Actor",
+        "checksum": 1076274429
       },
       {
         "name": "bWasCollisionEnabled",
         "checksum": 837128152
       },
       {
-        "name": "Actor",
-        "checksum": 1076274429
+        "name": "bWasDormant",
+        "checksum": 1750575751
+      },
+      {
+        "name": "CurrentObjectInteractionBehvaior",
+        "checksum": 3640511693
       },
       {
         "name": "DragStartGridSnapPoint",
         "checksum": 1692225987
       },
       {
-        "name": "bWasDormant",
-        "checksum": 1750575751
-      },
-      {
         "name": "NewSelectedActors",
         "checksum": 2499487705
-      },
-      {
-        "name": "Rotation",
-        "checksum": 3377924984
-      },
-      {
-        "name": "Translation",
-        "checksum": 3379825035
       },
       {
         "name": "OriginalRelevancyDistance",
         "checksum": 3527526646
       },
       {
-        "name": "CurrentObjectInteractionBehvaior",
-        "checksum": 3640511693
+        "name": "Rotation",
+        "checksum": 3377924984
+      },
+      {
+        "name": "Scale3D",
+        "checksum": 480473062
+      },
+      {
+        "name": "Translation",
+        "checksum": 3379825035
       }
     ]
   },
@@ -4200,12 +4200,20 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "Position",
-        "checksum": 709012313
+        "name": "ActiveCreativeRealEstatePlots",
+        "checksum": 2549704993
       },
       {
         "name": "Owner",
         "checksum": 1022089157
+      },
+      {
+        "name": "Plot",
+        "checksum": 3169975364
+      },
+      {
+        "name": "Position",
+        "checksum": 709012313
       },
       {
         "name": "RemoteRole",
@@ -4214,14 +4222,6 @@
       {
         "name": "Role",
         "checksum": 2219226437
-      },
-      {
-        "name": "ActiveCreativeRealEstatePlots",
-        "checksum": 2549704993
-      },
-      {
-        "name": "Plot",
-        "checksum": 3169975364
       }
     ]
   },
@@ -4230,20 +4230,20 @@
     "propertyCount": 4,
     "properties": [
       {
-        "name": "UnclampedBaseValue",
-        "checksum": 208044586
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 437977081
-      },
-      {
         "name": "BaseValue",
         "checksum": 1828845894
       },
       {
         "name": "CurrentValue",
         "checksum": 2455929129
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 208044586
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 437977081
       }
     ]
   },
@@ -4252,96 +4252,96 @@
     "propertyCount": 23,
     "properties": [
       {
+        "name": "A",
+        "checksum": 3868820410
+      },
+      {
         "name": "AlterationInstances",
         "checksum": 589965981
-      },
-      {
-        "name": "GenericAttributeValues",
-        "checksum": 612784426
-      },
-      {
-        "name": "bIsDirty",
-        "checksum": 780761771
-      },
-      {
-        "name": "StateValues",
-        "checksum": 830279508
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
-        "name": "Level",
-        "checksum": 1558356079
-      },
-      {
-        "name": "ReplayPawn",
-        "checksum": 1561060673
-      },
-      {
-        "name": "bIsReplicatedCopy",
-        "checksum": 1727905633
-      },
-      {
-        "name": "bWasGifted",
-        "checksum": 2010366049
-      },
-      {
-        "name": "bUpdateStatsOnCollection",
-        "checksum": 2048751799
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "Handle",
-        "checksum": 2320165289
-      },
-      {
-        "name": "Count",
-        "checksum": 2811891981
-      },
-      {
-        "name": "ItemDefinition",
-        "checksum": 2998690793
-      },
-      {
-        "name": "LoadedAmmo",
-        "checksum": 3442238972
-      },
-      {
-        "name": "Durability",
-        "checksum": 3586444530
-      },
-      {
-        "name": "ParentInventory",
-        "checksum": 3651930737
-      },
-      {
-        "name": "D",
-        "checksum": 3791358675
       },
       {
         "name": "B",
         "checksum": 3829892253
       },
       {
+        "name": "bIsDirty",
+        "checksum": 780761771
+      },
+      {
+        "name": "bIsReplicatedCopy",
+        "checksum": 1727905633
+      },
+      {
+        "name": "bUpdateStatsOnCollection",
+        "checksum": 2048751799
+      },
+      {
+        "name": "bWasGifted",
+        "checksum": 2010366049
+      },
+      {
         "name": "C",
         "checksum": 3857873280
       },
       {
-        "name": "A",
-        "checksum": 3868820410
+        "name": "Count",
+        "checksum": 2811891981
+      },
+      {
+        "name": "D",
+        "checksum": 3791358675
+      },
+      {
+        "name": "Durability",
+        "checksum": 3586444530
+      },
+      {
+        "name": "GenericAttributeValues",
+        "checksum": 612784426
+      },
+      {
+        "name": "Handle",
+        "checksum": 2320165289
       },
       {
         "name": "inventory_overflow_date",
         "checksum": 4104819693
+      },
+      {
+        "name": "ItemDefinition",
+        "checksum": 2998690793
+      },
+      {
+        "name": "Level",
+        "checksum": 1558356079
+      },
+      {
+        "name": "LoadedAmmo",
+        "checksum": 3442238972
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "ParentInventory",
+        "checksum": 3651930737
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "ReplayPawn",
+        "checksum": 1561060673
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
+      },
+      {
+        "name": "StateValues",
+        "checksum": 830279508
       }
     ]
   },
@@ -4350,28 +4350,60 @@
     "propertyCount": 26,
     "properties": [
       {
-        "name": "Locale",
-        "checksum": 206044457
+        "name": "AccountId",
+        "checksum": 555901454
       },
       {
-        "name": "TextLiteral",
-        "checksum": 241259048
+        "name": "AccountIdOfOwner",
+        "checksum": 3974476848
+      },
+      {
+        "name": "AltTitle",
+        "checksum": 4216060266
+      },
+      {
+        "name": "bCurated",
+        "checksum": 1235093656
+      },
+      {
+        "name": "bIsActive",
+        "checksum": 2967469237
+      },
+      {
+        "name": "bIsLoaded",
+        "checksum": 3451615862
+      },
+      {
+        "name": "CreatorName",
+        "checksum": 3146968563
+      },
+      {
+        "name": "ImageUrl",
+        "checksum": 2472051319
+      },
+      {
+        "name": "IslandIntroduction",
+        "checksum": 1936562171
+      },
+      {
+        "name": "IslandType",
+        "checksum": 1401797067
       },
       {
         "name": "LastCheckpointDateUtc",
         "checksum": 292428947
       },
       {
-        "name": "SupportCode",
-        "checksum": 456687141
+        "name": "LinkTagline",
+        "checksum": 2647180914
       },
       {
-        "name": "AccountId",
-        "checksum": 555901454
+        "name": "LinkTitle",
+        "checksum": 4256295071
       },
       {
-        "name": "WhiteList",
-        "checksum": 721823139
+        "name": "LinkYoutubeId",
+        "checksum": 2546916099
       },
       {
         "name": "LoadedPlotInstanceId",
@@ -4379,23 +4411,27 @@
       },
       {
         "name": "Locale",
+        "checksum": 206044457
+      },
+      {
+        "name": "Locale",
         "checksum": 775062380
       },
       {
-        "name": "WhiteList",
-        "checksum": 784997349
+        "name": "Locale",
+        "checksum": 4160881246
       },
       {
-        "name": "bCurated",
-        "checksum": 1235093656
+        "name": "Mnemonic",
+        "checksum": 3853510751
       },
       {
-        "name": "Version",
-        "checksum": 1271837344
+        "name": "SupportCode",
+        "checksum": 456687141
       },
       {
-        "name": "IslandType",
-        "checksum": 1401797067
+        "name": "TextLiteral",
+        "checksum": 241259048
       },
       {
         "name": "TextLiteral",
@@ -4406,52 +4442,16 @@
         "checksum": 1927312376
       },
       {
-        "name": "IslandIntroduction",
-        "checksum": 1936562171
+        "name": "Version",
+        "checksum": 1271837344
       },
       {
-        "name": "ImageUrl",
-        "checksum": 2472051319
+        "name": "WhiteList",
+        "checksum": 721823139
       },
       {
-        "name": "LinkYoutubeId",
-        "checksum": 2546916099
-      },
-      {
-        "name": "LinkTagline",
-        "checksum": 2647180914
-      },
-      {
-        "name": "bIsActive",
-        "checksum": 2967469237
-      },
-      {
-        "name": "CreatorName",
-        "checksum": 3146968563
-      },
-      {
-        "name": "bIsLoaded",
-        "checksum": 3451615862
-      },
-      {
-        "name": "Mnemonic",
-        "checksum": 3853510751
-      },
-      {
-        "name": "AccountIdOfOwner",
-        "checksum": 3974476848
-      },
-      {
-        "name": "Locale",
-        "checksum": 4160881246
-      },
-      {
-        "name": "AltTitle",
-        "checksum": 4216060266
-      },
-      {
-        "name": "LinkTitle",
-        "checksum": 4256295071
+        "name": "WhiteList",
+        "checksum": 784997349
       }
     ]
   },
@@ -4510,56 +4510,12 @@
     "propertyCount": 28,
     "properties": [
       {
-        "name": "CurrentValue",
-        "checksum": 37582613
-      },
-      {
         "name": "BaseValue",
         "checksum": 71786136
       },
       {
-        "name": "UnclampedCurrentValue",
-        "checksum": 181693951
-      },
-      {
-        "name": "CurrentValue",
-        "checksum": 230467837
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 255853396
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 279416059
-      },
-      {
-        "name": "CurrentValue",
-        "checksum": 370460728
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 544765817
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 567532075
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 988126549
-      },
-      {
         "name": "BaseValue",
         "checksum": 995985305
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 1392277894
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 1508017469
       },
       {
         "name": "BaseValue",
@@ -4570,16 +4526,28 @@
         "checksum": 1962688437
       },
       {
-        "name": "UnclampedCurrentValue",
-        "checksum": 2249697639
+        "name": "BaseValue",
+        "checksum": 3645467085
       },
       {
-        "name": "UnclampedBaseValue",
-        "checksum": 2290447195
+        "name": "BaseValue",
+        "checksum": 3794538358
       },
       {
-        "name": "UnclampedCurrentValue",
-        "checksum": 2626306891
+        "name": "BaseValue",
+        "checksum": 3847469696
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 37582613
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 230467837
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 370460728
       },
       {
         "name": "CurrentValue",
@@ -4594,6 +4562,30 @@
         "checksum": 3267718486
       },
       {
+        "name": "CurrentValue",
+        "checksum": 3832700412
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 279416059
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 544765817
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 988126549
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 1508017469
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 2290447195
+      },
+      {
         "name": "UnclampedBaseValue",
         "checksum": 3342150453
       },
@@ -4602,20 +4594,28 @@
         "checksum": 3585413167
       },
       {
-        "name": "BaseValue",
-        "checksum": 3645467085
+        "name": "UnclampedCurrentValue",
+        "checksum": 181693951
       },
       {
-        "name": "BaseValue",
-        "checksum": 3794538358
+        "name": "UnclampedCurrentValue",
+        "checksum": 255853396
       },
       {
-        "name": "CurrentValue",
-        "checksum": 3832700412
+        "name": "UnclampedCurrentValue",
+        "checksum": 567532075
       },
       {
-        "name": "BaseValue",
-        "checksum": 3847469696
+        "name": "UnclampedCurrentValue",
+        "checksum": 1392277894
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 2249697639
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 2626306891
       },
       {
         "name": "UnclampedCurrentValue",
@@ -4628,24 +4628,24 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "PropertyName",
-        "checksum": 174076142
-      },
-      {
-        "name": "PropertyData",
-        "checksum": 1585299750
-      },
-      {
-        "name": "PropertyOverrides",
-        "checksum": 2829699277
+        "name": "DefaultPropertyData",
+        "checksum": 3872224250
       },
       {
         "name": "OverrideMode",
         "checksum": 3151172000
       },
       {
-        "name": "DefaultPropertyData",
-        "checksum": 3872224250
+        "name": "PropertyData",
+        "checksum": 1585299750
+      },
+      {
+        "name": "PropertyName",
+        "checksum": 174076142
+      },
+      {
+        "name": "PropertyOverrides",
+        "checksum": 2829699277
       },
       {
         "name": "PropertyScope",
@@ -4658,40 +4658,16 @@
     "propertyCount": 14,
     "properties": [
       {
-        "name": "bIsFatal",
-        "checksum": 73474297
-      },
-      {
-        "name": "Normal",
-        "checksum": 84408805
-      },
-      {
-        "name": "HitActor",
-        "checksum": 269202710
-      },
-      {
-        "name": "NonPlayerbIsCritical",
-        "checksum": 1052427909
+        "name": "bIsBallistic",
+        "checksum": 2616707392
       },
       {
         "name": "bIsCritical",
         "checksum": 1252540014
       },
       {
-        "name": "NonPlayerbIsFatal",
-        "checksum": 1273693939
-      },
-      {
-        "name": "bWeaponActivate",
-        "checksum": 1467349664
-      },
-      {
-        "name": "bIsShieldDestroyed",
-        "checksum": 1609441920
-      },
-      {
-        "name": "bIsBallistic",
-        "checksum": 2616707392
+        "name": "bIsFatal",
+        "checksum": 73474297
       },
       {
         "name": "bIsShield",
@@ -4702,16 +4678,40 @@
         "checksum": 3160801089
       },
       {
+        "name": "bIsShieldDestroyed",
+        "checksum": 1609441920
+      },
+      {
+        "name": "bWeaponActivate",
+        "checksum": 1467349664
+      },
+      {
+        "name": "HitActor",
+        "checksum": 269202710
+      },
+      {
         "name": "Location",
         "checksum": 3299560709
+      },
+      {
+        "name": "Magnitude",
+        "checksum": 4091915056
+      },
+      {
+        "name": "NonPlayerbIsCritical",
+        "checksum": 1052427909
+      },
+      {
+        "name": "NonPlayerbIsFatal",
+        "checksum": 1273693939
       },
       {
         "name": "NonPlayerHitActor",
         "checksum": 3850959796
       },
       {
-        "name": "Magnitude",
-        "checksum": 4091915056
+        "name": "Normal",
+        "checksum": 84408805
       }
     ]
   },
@@ -4720,16 +4720,16 @@
     "propertyCount": 3,
     "properties": [
       {
+        "name": "GameplayCueTag",
+        "checksum": 3549897486
+      },
+      {
         "name": "Parameters",
         "checksum": 910256769
       },
       {
         "name": "PredictionKey",
         "checksum": 3275717157
-      },
-      {
-        "name": "GameplayCueTag",
-        "checksum": 3549897486
       }
     ]
   },
@@ -4738,8 +4738,8 @@
     "propertyCount": 4,
     "properties": [
       {
-        "name": "UnclampedCurrentValue",
-        "checksum": 36959671
+        "name": "BaseValue",
+        "checksum": 2482511721
       },
       {
         "name": "CurrentValue",
@@ -4750,8 +4750,8 @@
         "checksum": 2342037387
       },
       {
-        "name": "BaseValue",
-        "checksum": 2482511721
+        "name": "UnclampedCurrentValue",
+        "checksum": 36959671
       }
     ]
   },
@@ -4760,100 +4760,72 @@
     "propertyCount": 33,
     "properties": [
       {
-        "name": "PlayerRole",
-        "checksum": 327025759
-      },
-      {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
-        "name": "Level",
-        "checksum": 389698847
-      },
-      {
-        "name": "CharacterBodyType",
-        "checksum": 630280901
-      },
-      {
-        "name": "Parts",
-        "checksum": 705045015
-      },
-      {
-        "name": "PlayerTeamPrivate",
-        "checksum": 756921039
-      },
-      {
-        "name": "HeroType",
-        "checksum": 887311254
-      },
-      {
-        "name": "Parts",
-        "checksum": 951291385
+        "name": "bHasEverSkydivedFromBus",
+        "checksum": 2997308106
       },
       {
         "name": "bHasEverSkydivedFromBusAndLanded",
         "checksum": 998702602
       },
       {
-        "name": "Owner",
-        "checksum": 1022089157
+        "name": "bHasFinishedLoading",
+        "checksum": 3946197037
       },
       {
-        "name": "UniqueId",
-        "checksum": 1496955607
+        "name": "bHasStartedPlaying",
+        "checksum": 4232668705
       },
       {
-        "name": "CharacterGender",
-        "checksum": 1675769946
-      },
-      {
-        "name": "IconId",
-        "checksum": 1966258539
-      },
-      {
-        "name": "RemoteRole",
-        "checksum": 2120798060
-      },
-      {
-        "name": "Parts",
-        "checksum": 2148526748
-      },
-      {
-        "name": "Role",
-        "checksum": 2219226437
-      },
-      {
-        "name": "Platform",
-        "checksum": 2367070105
-      },
-      {
-        "name": "PlayerID",
-        "checksum": 2396673102
-      },
-      {
-        "name": "StreamerModeName",
-        "checksum": 2427541700
-      },
-      {
-        "name": "WasReplicatedFlags",
-        "checksum": 2439862400
-      },
-      {
-        "name": "Parts",
-        "checksum": 2461681010
+        "name": "bIsGameSessionOwner",
+        "checksum": 4030121524
       },
       {
         "name": "bOnlySpectator",
         "checksum": 2951096964
       },
       {
-        "name": "bHasEverSkydivedFromBus",
-        "checksum": 2997308106
+        "name": "CharacterBodyType",
+        "checksum": 630280901
       },
       {
-        "name": "PlayerNamePrivate",
-        "checksum": 3040447831
+        "name": "CharacterGender",
+        "checksum": 1675769946
+      },
+      {
+        "name": "ColorId",
+        "checksum": 4154296167
+      },
+      {
+        "name": "HeroType",
+        "checksum": 887311254
+      },
+      {
+        "name": "IconId",
+        "checksum": 1966258539
+      },
+      {
+        "name": "Level",
+        "checksum": 389698847
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "Parts",
+        "checksum": 705045015
+      },
+      {
+        "name": "Parts",
+        "checksum": 951291385
+      },
+      {
+        "name": "Parts",
+        "checksum": 2148526748
+      },
+      {
+        "name": "Parts",
+        "checksum": 2461681010
       },
       {
         "name": "PartyOwnerUniqueId",
@@ -4864,32 +4836,60 @@
         "checksum": 3474348186
       },
       {
-        "name": "WorldPlayerId",
-        "checksum": 3528606948
+        "name": "Platform",
+        "checksum": 2367070105
+      },
+      {
+        "name": "PlayerID",
+        "checksum": 2396673102
+      },
+      {
+        "name": "PlayerNamePrivate",
+        "checksum": 3040447831
+      },
+      {
+        "name": "PlayerRole",
+        "checksum": 327025759
+      },
+      {
+        "name": "PlayerTeamPrivate",
+        "checksum": 756921039
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 2120798060
+      },
+      {
+        "name": "Role",
+        "checksum": 2219226437
       },
       {
         "name": "SquadId",
         "checksum": 3738570899
       },
       {
-        "name": "bHasFinishedLoading",
-        "checksum": 3946197037
-      },
-      {
-        "name": "bIsGameSessionOwner",
-        "checksum": 4030121524
-      },
-      {
-        "name": "ColorId",
-        "checksum": 4154296167
-      },
-      {
         "name": "StartTime",
         "checksum": 4206510639
       },
       {
-        "name": "bHasStartedPlaying",
-        "checksum": 4232668705
+        "name": "StreamerModeName",
+        "checksum": 2427541700
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
+      },
+      {
+        "name": "UniqueId",
+        "checksum": 1496955607
+      },
+      {
+        "name": "WasReplicatedFlags",
+        "checksum": 2439862400
+      },
+      {
+        "name": "WorldPlayerId",
+        "checksum": 3528606948
       }
     ]
   },
@@ -4898,40 +4898,40 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "PoiTagContainerTable",
-        "checksum": 321112999
-      },
-      {
-        "name": "WorldGridEnd",
-        "checksum": 1222049891
-      },
-      {
-        "name": "PoiTagContainerTable",
-        "checksum": 1394043439
-      },
-      {
-        "name": "WorldGridSpacing",
-        "checksum": 2645415442
-      },
-      {
-        "name": "WorldGridTotalSize",
-        "checksum": 3056168652
-      },
-      {
-        "name": "PoiTagContainerTableSize",
-        "checksum": 3461143655
-      },
-      {
-        "name": "WorldGridStart",
-        "checksum": 3499169594
+        "name": "GridCountX",
+        "checksum": 4278371508
       },
       {
         "name": "GridCountY",
         "checksum": 4273420713
       },
       {
-        "name": "GridCountX",
-        "checksum": 4278371508
+        "name": "PoiTagContainerTable",
+        "checksum": 321112999
+      },
+      {
+        "name": "PoiTagContainerTable",
+        "checksum": 1394043439
+      },
+      {
+        "name": "PoiTagContainerTableSize",
+        "checksum": 3461143655
+      },
+      {
+        "name": "WorldGridEnd",
+        "checksum": 1222049891
+      },
+      {
+        "name": "WorldGridSpacing",
+        "checksum": 2645415442
+      },
+      {
+        "name": "WorldGridStart",
+        "checksum": 3499169594
+      },
+      {
+        "name": "WorldGridTotalSize",
+        "checksum": 3056168652
       }
     ]
   },
@@ -4939,6 +4939,18 @@
     "path": "/Script/FortniteGame.FortPvPMissionManager",
     "propertyCount": 8,
     "properties": [
+      {
+        "name": "AllMissionEnemyClasses",
+        "checksum": 1112471097
+      },
+      {
+        "name": "AllMissionEnemyClasses",
+        "checksum": 4189481891
+      },
+      {
+        "name": "BluGloManager",
+        "checksum": 3839533147
+      },
       {
         "name": "Missions",
         "checksum": 399695826
@@ -4952,24 +4964,12 @@
         "checksum": 1022089157
       },
       {
-        "name": "AllMissionEnemyClasses",
-        "checksum": 1112471097
-      },
-      {
         "name": "RemoteRole",
         "checksum": 2120798060
       },
       {
         "name": "Role",
         "checksum": 2219226437
-      },
-      {
-        "name": "BluGloManager",
-        "checksum": 3839533147
-      },
-      {
-        "name": "AllMissionEnemyClasses",
-        "checksum": 4189481891
       }
     ]
   },
@@ -4978,80 +4978,40 @@
     "propertyCount": 30,
     "properties": [
       {
-        "name": "UnclampedBaseValue",
-        "checksum": 152376441
-      },
-      {
-        "name": "CurrentValue",
-        "checksum": 159608710
-      },
-      {
         "name": "BaseValue",
         "checksum": 171156052
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 480145599
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 809004990
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 866604505
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 934557638
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 947197840
-      },
-      {
-        "name": "Maximum",
-        "checksum": 1055722029
       },
       {
         "name": "BaseValue",
         "checksum": 1100951338
       },
       {
-        "name": "UnclampedBaseValue",
-        "checksum": 1275241199
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 1377794083
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 1771590841
-      },
-      {
         "name": "BaseValue",
         "checksum": 2096426353
       },
       {
+        "name": "BaseValue",
+        "checksum": 3129524333
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 3614988867
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 4099898518
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 4262195990
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 159608710
+      },
+      {
         "name": "CurrentValue",
         "checksum": 2111444546
-      },
-      {
-        "name": "UnclampedBaseValue",
-        "checksum": 2155545782
-      },
-      {
-        "name": "Maximum",
-        "checksum": 2160711052
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 2425510468
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 2479339615
       },
       {
         "name": "CurrentValue",
@@ -5066,36 +5026,76 @@
         "checksum": 3041447457
       },
       {
-        "name": "BaseValue",
-        "checksum": 3129524333
-      },
-      {
-        "name": "UnclampedCurrentValue",
-        "checksum": 3198826171
-      },
-      {
         "name": "CurrentValue",
         "checksum": 3264251261
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 3614988867
       },
       {
         "name": "CurrentValue",
         "checksum": 3816246197
       },
       {
+        "name": "Maximum",
+        "checksum": 1055722029
+      },
+      {
+        "name": "Maximum",
+        "checksum": 2160711052
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 152376441
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 480145599
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 866604505
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 947197840
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 1275241199
+      },
+      {
+        "name": "UnclampedBaseValue",
+        "checksum": 2155545782
+      },
+      {
         "name": "UnclampedBaseValue",
         "checksum": 3899259416
       },
       {
-        "name": "BaseValue",
-        "checksum": 4099898518
+        "name": "UnclampedCurrentValue",
+        "checksum": 809004990
       },
       {
-        "name": "BaseValue",
-        "checksum": 4262195990
+        "name": "UnclampedCurrentValue",
+        "checksum": 934557638
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 1377794083
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 1771590841
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 2425510468
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 2479339615
+      },
+      {
+        "name": "UnclampedCurrentValue",
+        "checksum": 3198826171
       }
     ]
   },
@@ -5130,6 +5130,10 @@
         "checksum": 1341233644
       },
       {
+        "name": "PlayerID",
+        "checksum": 2516233102
+      },
+      {
         "name": "PlayerState",
         "checksum": 2023900612
       },
@@ -5142,10 +5146,6 @@
         "checksum": 2219226437
       },
       {
-        "name": "PlayerID",
-        "checksum": 2516233102
-      },
-      {
         "name": "Value",
         "checksum": 3715948221
       }
@@ -5156,12 +5156,12 @@
     "propertyCount": 2,
     "properties": [
       {
-        "name": "TimeOfDayManager",
-        "checksum": 1000717595
-      },
-      {
         "name": "bShouldOverrideTimeOfDay",
         "checksum": 4275318111
+      },
+      {
+        "name": "TimeOfDayManager",
+        "checksum": 1000717595
       }
     ]
   },
@@ -5188,16 +5188,16 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "TeamIndex",
-        "checksum": 385374885
-      },
-      {
         "name": "MemberUniqueId",
         "checksum": 404746973
       },
       {
         "name": "SquadId",
         "checksum": 3738570899
+      },
+      {
+        "name": "TeamIndex",
+        "checksum": 385374885
       }
     ]
   },
@@ -5205,6 +5205,14 @@
     "path": "/Script/FortniteGame.MinigamePlayer",
     "propertyCount": 10,
     "properties": [
+      {
+        "name": "bHasValidResetData",
+        "checksum": 3069839890
+      },
+      {
+        "name": "bIsLocationBeforeGameStartedBlocked",
+        "checksum": 2576802754
+      },
       {
         "name": "bIsTeleportingOrRespawningForGameplay",
         "checksum": 1219046417
@@ -5214,36 +5222,28 @@
         "checksum": 1534031509
       },
       {
+        "name": "bWasSkydivingBeforeMinigameStarted",
+        "checksum": 3685243530
+      },
+      {
         "name": "ClaimedPlayerStart",
         "checksum": 1695979911
-      },
-      {
-        "name": "UniquePlayerId",
-        "checksum": 2016391943
-      },
-      {
-        "name": "RotationBeforeMinigameStarted",
-        "checksum": 2106045712
       },
       {
         "name": "LocationBeforeMinigameStarted",
         "checksum": 2461781941
       },
       {
-        "name": "bIsLocationBeforeGameStartedBlocked",
-        "checksum": 2576802754
+        "name": "RotationBeforeMinigameStarted",
+        "checksum": 2106045712
       },
       {
         "name": "TeamBeforeMinigameStarted",
         "checksum": 2842230453
       },
       {
-        "name": "bHasValidResetData",
-        "checksum": 3069839890
-      },
-      {
-        "name": "bWasSkydivingBeforeMinigameStarted",
-        "checksum": 3685243530
+        "name": "UniquePlayerId",
+        "checksum": 2016391943
       }
     ]
   },
@@ -5251,6 +5251,10 @@
     "path": "/Script/FortniteGame.PlaysetLevelStreamComponent",
     "propertyCount": 6,
     "properties": [
+      {
+        "name": "bIsActive",
+        "checksum": 2967469237
+      },
       {
         "name": "bValid",
         "checksum": 762138319
@@ -5264,16 +5268,12 @@
         "checksum": 1533263077
       },
       {
-        "name": "UniquePackageName",
-        "checksum": 1882349749
-      },
-      {
-        "name": "bIsActive",
-        "checksum": 2967469237
-      },
-      {
         "name": "Rotation",
         "checksum": 3763686276
+      },
+      {
+        "name": "UniquePackageName",
+        "checksum": 1882349749
       }
     ]
   },
@@ -5282,34 +5282,16 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "GameMemberInfoArray",
-        "checksum": 267702116
+        "name": "ActiveGameplayModifiers",
+        "checksum": 3813425924
       },
       {
         "name": "CurrentPlaylistInfo",
         "checksum": 623523878
       },
       {
-        "name": "ActiveGameplayModifiers",
-        "checksum": 3813425924
-      }
-    ]
-  },
-  {
-    "path": "BGA_IslandPortal_C_ClassNetCache",
-    "propertyCount": 3,
-    "properties": [
-      {
-        "name": "Play Rift Exit Sound",
-        "checksum": 145388276
-      },
-      {
-        "name": "PlayTeleportFX",
-        "checksum": 167282800
-      },
-      {
-        "name": "PlayCosmeticFX",
-        "checksum": 1672473945
+        "name": "GameMemberInfoArray",
+        "checksum": 267702116
       }
     ]
   },
@@ -5324,6 +5306,24 @@
       {
         "name": "RemoteClientsUpdateSelectedActors",
         "checksum": 3728214138
+      }
+    ]
+  },
+  {
+    "path": "BGA_IslandPortal_C_ClassNetCache",
+    "propertyCount": 3,
+    "properties": [
+      {
+        "name": "Play Rift Exit Sound",
+        "checksum": 145388276
+      },
+      {
+        "name": "PlayCosmeticFX",
+        "checksum": 1672473945
+      },
+      {
+        "name": "PlayTeleportFX",
+        "checksum": 167282800
       }
     ]
   },
@@ -5360,12 +5360,12 @@
     "propertyCount": 2,
     "properties": [
       {
-        "name": "RepData",
-        "checksum": 3077767360
-      },
-      {
         "name": "LatentTeamRepData",
         "checksum": 3679752244
+      },
+      {
+        "name": "RepData",
+        "checksum": 3077767360
       }
     ]
   },
@@ -5394,12 +5394,12 @@
     "propertyCount": 2,
     "properties": [
       {
-        "name": "NetMulticast_InvokeGameplayCueAdded_WithParams",
-        "checksum": 1616888296
-      },
-      {
         "name": "NetMulticast_Athena_BatchedDamageCues",
         "checksum": 2733521533
+      },
+      {
+        "name": "NetMulticast_InvokeGameplayCueAdded_WithParams",
+        "checksum": 1616888296
       }
     ]
   }

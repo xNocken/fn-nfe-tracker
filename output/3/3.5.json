@@ -4,24 +4,32 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "A",
+        "checksum": 800551359
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "Owner",
@@ -30,14 +38,6 @@
       {
         "name": "WeaponData",
         "checksum": 1473697397
-      },
-      {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
       }
     ]
   },
@@ -46,36 +46,36 @@
     "propertyCount": 12,
     "properties": [
       {
-        "name": "DropStartTime",
-        "checksum": 174407111
+        "name": "DropEndTime",
+        "checksum": 2668025370
       },
       {
-        "name": "JumpFlashCount",
-        "checksum": 802142971
+        "name": "DropStartTime",
+        "checksum": 174407111
       },
       {
         "name": "FlightEndTime",
         "checksum": 1849427331
       },
       {
-        "name": "FlightStartTime",
-        "checksum": 1882511075
-      },
-      {
-        "name": "TimeTillDropStart",
-        "checksum": 2013185231
-      },
-      {
-        "name": "TimeTillFlightEnd",
-        "checksum": 2138870550
-      },
-      {
-        "name": "DropEndTime",
-        "checksum": 2668025370
+        "name": "FlightSpeed",
+        "checksum": 3928677508
       },
       {
         "name": "FlightStartLocation",
         "checksum": 3189280857
+      },
+      {
+        "name": "FlightStartRotation",
+        "checksum": 4171099532
+      },
+      {
+        "name": "FlightStartTime",
+        "checksum": 1882511075
+      },
+      {
+        "name": "JumpFlashCount",
+        "checksum": 802142971
       },
       {
         "name": "ReplicatedFlightTimestamp",
@@ -86,12 +86,12 @@
         "checksum": 3901975329
       },
       {
-        "name": "FlightSpeed",
-        "checksum": 3928677508
+        "name": "TimeTillDropStart",
+        "checksum": 2013185231
       },
       {
-        "name": "FlightStartRotation",
-        "checksum": 4171099532
+        "name": "TimeTillFlightEnd",
+        "checksum": 2138870550
       }
     ]
   },
@@ -100,136 +100,64 @@
     "propertyCount": 41,
     "properties": [
       {
-        "name": "PlayerSharedMaxTrapAttributes",
-        "checksum": 23103790
-      },
-      {
-        "name": "bAircraftIsLocked",
-        "checksum": 143344393
-      },
-      {
-        "name": "CurrentPlaylistData",
-        "checksum": 182360564
-      },
-      {
-        "name": "GameSessionID",
-        "checksum": 222187157
-      },
-      {
-        "name": "MusicManagerSubclass",
-        "checksum": 443145310
-      },
-      {
-        "name": "GlobalEnvironmentAbilityActor",
-        "checksum": 466666054
-      },
-      {
-        "name": "PlayerSharedMaxTrapAttributes",
-        "checksum": 825160032
-      },
-      {
-        "name": "TeamsLeft",
-        "checksum": 938228960
-      },
-      {
         "name": "Aircrafts",
         "checksum": 1021866166
-      },
-      {
-        "name": "UIMapManager",
-        "checksum": 1100988001
-      },
-      {
-        "name": "bAllowUserPickedCosmeticBattleBus",
-        "checksum": 1237051726
-      },
-      {
-        "name": "WorldManager",
-        "checksum": 1309464832
-      },
-      {
-        "name": "SafeZoneIndicator",
-        "checksum": 1537036241
-      },
-      {
-        "name": "SafeZonesStartTime",
-        "checksum": 1711709315
       },
       {
         "name": "Aircrafts",
         "checksum": 1742475842
       },
       {
-        "name": "TeamFlightPaths",
-        "checksum": 1932122883
-      },
-      {
-        "name": "TimeTillDropStart",
-        "checksum": 2176022369
-      },
-      {
-        "name": "CraftingBonus",
-        "checksum": 2184223992
-      },
-      {
-        "name": "MapInfo",
-        "checksum": 2246666759
-      },
-      {
-        "name": "TimeTillFlightEnd",
-        "checksum": 2301698232
-      },
-      {
-        "name": "CurrentPlaylistId",
-        "checksum": 2312957719
-      },
-      {
-        "name": "ReplicatedWorldTimeSeconds",
-        "checksum": 2373686367
-      },
-      {
-        "name": "TeamSize",
-        "checksum": 2400925623
-      },
-      {
-        "name": "SafeZonePhase",
-        "checksum": 2512056189
+        "name": "AircraftStartTime",
+        "checksum": 3041558131
       },
       {
         "name": "AnnouncementManager",
         "checksum": 2601962830
       },
       {
+        "name": "bAircraftIsLocked",
+        "checksum": 143344393
+      },
+      {
+        "name": "bAllowUserPickedCosmeticBattleBus",
+        "checksum": 1237051726
+      },
+      {
         "name": "bReplicatedHasBegunPlay",
         "checksum": 2622764780
       },
       {
-        "name": "PawnForReplayRelevancy",
-        "checksum": 2701652850
+        "name": "CraftingBonus",
+        "checksum": 2184223992
+      },
+      {
+        "name": "CurrentPlaylistData",
+        "checksum": 182360564
+      },
+      {
+        "name": "CurrentPlaylistId",
+        "checksum": 2312957719
       },
       {
         "name": "DefaultBattleBus",
         "checksum": 2858854129
       },
       {
-        "name": "FlightStartRotation",
-        "checksum": 2898503731
-      },
-      {
-        "name": "AircraftStartTime",
-        "checksum": 3041558131
-      },
-      {
-        "name": "PlayersLeft",
-        "checksum": 3072500117
-      },
-      {
         "name": "FlightSpeed",
         "checksum": 3421728973
       },
       {
-        "name": "TeamCount",
-        "checksum": 3491059331
+        "name": "FlightStartLocation",
+        "checksum": 3855981860
+      },
+      {
+        "name": "FlightStartRotation",
+        "checksum": 2898503731
+      },
+      {
+        "name": "FortTimeOfDayManager",
+        "checksum": 4034469340
       },
       {
         "name": "GameModeClass",
@@ -240,28 +168,100 @@
         "checksum": 3812596277
       },
       {
-        "name": "FlightStartLocation",
-        "checksum": 3855981860
+        "name": "GameSessionID",
+        "checksum": 222187157
       },
       {
-        "name": "WarmupCountdownEndTime",
-        "checksum": 4007856434
+        "name": "GlobalEnvironmentAbilityActor",
+        "checksum": 466666054
       },
       {
-        "name": "FortTimeOfDayManager",
-        "checksum": 4034469340
+        "name": "MapInfo",
+        "checksum": 2246666759
       },
       {
-        "name": "TimeTillDropEnd",
-        "checksum": 4243045771
+        "name": "MatchState",
+        "checksum": 4269466447
+      },
+      {
+        "name": "MusicManagerSubclass",
+        "checksum": 443145310
+      },
+      {
+        "name": "PawnForReplayRelevancy",
+        "checksum": 2701652850
+      },
+      {
+        "name": "PlayerSharedMaxTrapAttributes",
+        "checksum": 23103790
+      },
+      {
+        "name": "PlayerSharedMaxTrapAttributes",
+        "checksum": 825160032
+      },
+      {
+        "name": "PlayersLeft",
+        "checksum": 3072500117
+      },
+      {
+        "name": "ReplicatedWorldTimeSeconds",
+        "checksum": 2373686367
+      },
+      {
+        "name": "SafeZoneIndicator",
+        "checksum": 1537036241
+      },
+      {
+        "name": "SafeZonePhase",
+        "checksum": 2512056189
+      },
+      {
+        "name": "SafeZonesStartTime",
+        "checksum": 1711709315
       },
       {
         "name": "SpectatorClass",
         "checksum": 4260609379
       },
       {
-        "name": "MatchState",
-        "checksum": 4269466447
+        "name": "TeamCount",
+        "checksum": 3491059331
+      },
+      {
+        "name": "TeamFlightPaths",
+        "checksum": 1932122883
+      },
+      {
+        "name": "TeamSize",
+        "checksum": 2400925623
+      },
+      {
+        "name": "TeamsLeft",
+        "checksum": 938228960
+      },
+      {
+        "name": "TimeTillDropEnd",
+        "checksum": 4243045771
+      },
+      {
+        "name": "TimeTillDropStart",
+        "checksum": 2176022369
+      },
+      {
+        "name": "TimeTillFlightEnd",
+        "checksum": 2301698232
+      },
+      {
+        "name": "UIMapManager",
+        "checksum": 1100988001
+      },
+      {
+        "name": "WarmupCountdownEndTime",
+        "checksum": 4007856434
+      },
+      {
+        "name": "WorldManager",
+        "checksum": 1309464832
       }
     ]
   },
@@ -270,12 +270,12 @@
     "propertyCount": 2,
     "properties": [
       {
-        "name": "ReplicatedMovement",
-        "checksum": 2749104612
-      },
-      {
         "name": "bEditorPlaced",
         "checksum": 3640876186
+      },
+      {
+        "name": "ReplicatedMovement",
+        "checksum": 2749104612
       }
     ]
   },
@@ -284,28 +284,8 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AbilitySystemComponent",
@@ -316,12 +296,32 @@
         "checksum": 2964843205
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       }
     ]
   },
@@ -330,32 +330,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AttachmentPlacementBlockingActors",
         "checksum": 2964843205
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
+      },
+      {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -364,32 +364,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AttachmentPlacementBlockingActors",
         "checksum": 2964843205
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
+      },
+      {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -408,28 +408,8 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AbilitySystemComponent",
@@ -440,12 +420,32 @@
         "checksum": 2964843205
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       }
     ]
   },
@@ -454,24 +454,8 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AbilitySystemComponent",
@@ -482,12 +466,28 @@
         "checksum": 2964843205
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -496,28 +496,28 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "AttachSocket",
-        "checksum": 435804554
-      },
-      {
         "name": "AttachComponent",
         "checksum": 924082277
       },
       {
-        "name": "RelativeScale3D",
-        "checksum": 1992268157
+        "name": "AttachParent",
+        "checksum": 3846863854
       },
       {
-        "name": "PlayerPawn",
-        "checksum": 2275772554
+        "name": "AttachSocket",
+        "checksum": 435804554
       },
       {
         "name": "ParachuteItemDef",
         "checksum": 3070183005
       },
       {
-        "name": "AttachParent",
-        "checksum": 3846863854
+        "name": "PlayerPawn",
+        "checksum": 2275772554
+      },
+      {
+        "name": "RelativeScale3D",
+        "checksum": 1992268157
       }
     ]
   },
@@ -526,28 +526,8 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AbilitySystemComponent",
@@ -558,12 +538,32 @@
         "checksum": 2964843205
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       }
     ]
   },
@@ -572,36 +572,36 @@
     "propertyCount": 8,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
       },
       {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
         "name": "BuildingAttributeSet",
         "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -610,28 +610,8 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AbilitySystemComponent",
@@ -642,12 +622,32 @@
         "checksum": 2964843205
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       }
     ]
   },
@@ -656,28 +656,8 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AbilitySystemComponent",
@@ -688,12 +668,32 @@
         "checksum": 2964843205
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       }
     ]
   },
@@ -702,14 +702,6 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -722,8 +714,16 @@
         "checksum": 1730917573
       },
       {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "LevelToStream",
         "checksum": 3044933830
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -732,14 +732,6 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -752,8 +744,16 @@
         "checksum": 1730917573
       },
       {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "LevelToStream",
         "checksum": 3044933830
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -762,14 +762,6 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -782,8 +774,16 @@
         "checksum": 1730917573
       },
       {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "LevelToStream",
         "checksum": 3044933830
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -792,14 +792,6 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -812,8 +804,16 @@
         "checksum": 1730917573
       },
       {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "LevelToStream",
         "checksum": 3044933830
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -822,14 +822,6 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -842,8 +834,16 @@
         "checksum": 1730917573
       },
       {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "LevelToStream",
         "checksum": 3044933830
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -852,10 +852,6 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -866,6 +862,10 @@
       {
         "name": "C",
         "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       },
       {
         "name": "LevelToStream",
@@ -878,14 +878,6 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -898,8 +890,16 @@
         "checksum": 1730917573
       },
       {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "LevelToStream",
         "checksum": 3044933830
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -908,10 +908,6 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -922,6 +918,10 @@
       {
         "name": "C",
         "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       },
       {
         "name": "LevelToStream",
@@ -934,10 +934,6 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -948,6 +944,10 @@
       {
         "name": "C",
         "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       },
       {
         "name": "LevelToStream",
@@ -960,10 +960,6 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -974,6 +970,10 @@
       {
         "name": "C",
         "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       },
       {
         "name": "LevelToStream",
@@ -986,10 +986,6 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -1000,6 +996,10 @@
       {
         "name": "C",
         "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       },
       {
         "name": "LevelToStream",
@@ -1012,32 +1012,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AttachmentPlacementBlockingActors",
         "checksum": 2964843205
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
+      },
+      {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -1070,20 +1070,16 @@
         "checksum": 51705181
       },
       {
-        "name": "Team",
-        "checksum": 354573869
-      },
-      {
-        "name": "TrapData",
-        "checksum": 1779120881
-      },
-      {
-        "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "name": "bEditorPlaced",
+        "checksum": 3640876186
       },
       {
         "name": "bIsInitiallyBuilding",
         "checksum": 3219241816
+      },
+      {
+        "name": "bUnderConstruction",
+        "checksum": 2604190565
       },
       {
         "name": "LaunchedPawn",
@@ -1094,8 +1090,12 @@
         "checksum": 3628004184
       },
       {
-        "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "name": "Team",
+        "checksum": 354573869
+      },
+      {
+        "name": "TrapData",
+        "checksum": 1779120881
       }
     ]
   },
@@ -1104,28 +1104,28 @@
     "propertyCount": 44,
     "properties": [
       {
-        "name": "PackedReplicatedSlopeAngles",
-        "checksum": 163893122
+        "name": "AccelerationPack",
+        "checksum": 2751148021
       },
       {
-        "name": "Instigator",
-        "checksum": 220456479
+        "name": "AccelerationZPack",
+        "checksum": 2903149247
       },
       {
-        "name": "ReplayViewRotation",
-        "checksum": 223718663
+        "name": "AnimMontage",
+        "checksum": 4287769663
       },
       {
-        "name": "bIsTargeting",
-        "checksum": 336789266
+        "name": "bCanBeDamaged",
+        "checksum": 1648776127
       },
       {
-        "name": "PlayRate",
-        "checksum": 378147694
+        "name": "bCanBeInterrupted",
+        "checksum": 3881237144
       },
       {
-        "name": "bIsSlopeSliding",
-        "checksum": 387632358
+        "name": "bCanQue",
+        "checksum": 3809269181
       },
       {
         "name": "bInterruptCurrentLine",
@@ -1136,148 +1136,148 @@
         "checksum": 737983904
       },
       {
-        "name": "Pickaxe",
-        "checksum": 832385590
-      },
-      {
-        "name": "bServerHasBaseComponent",
-        "checksum": 948192076
-      },
-      {
-        "name": "bIsSkydiving",
-        "checksum": 986964207
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
-        "name": "Controller",
-        "checksum": 1134544246
-      },
-      {
-        "name": "PawnMontage",
-        "checksum": 1316577979
-      },
-      {
-        "name": "bWeaponHolstered",
-        "checksum": 1472532622
-      },
-      {
-        "name": "bCanBeDamaged",
-        "checksum": 1648776127
-      },
-      {
-        "name": "BuildingState",
-        "checksum": 1894220688
-      },
-      {
-        "name": "RemoteViewPitch",
-        "checksum": 1991026506
-      },
-      {
-        "name": "BlendTime",
-        "checksum": 2018381902
+        "name": "bIsParachuteForcedOpen",
+        "checksum": 4230365908
       },
       {
         "name": "bIsParachuteOpen",
         "checksum": 2097398135
       },
       {
-        "name": "RepAnimMontageStartSection",
-        "checksum": 2109551477
-      },
-      {
-        "name": "CurrentMovementStyle",
-        "checksum": 2131771821
-      },
-      {
-        "name": "Glider",
-        "checksum": 2216194617
-      },
-      {
-        "name": "ParachuteAttachment",
-        "checksum": 2245898982
-      },
-      {
-        "name": "bProxyIsJumpForceApplied",
-        "checksum": 2286453419
-      },
-      {
-        "name": "IsStopped",
-        "checksum": 2368095229
-      },
-      {
-        "name": "PawnUniqueID",
-        "checksum": 2589469719
-      },
-      {
-        "name": "MovementBase",
-        "checksum": 2645773312
-      },
-      {
-        "name": "AccelerationPack",
-        "checksum": 2751148021
-      },
-      {
-        "name": "FeedbackAudioComponent",
-        "checksum": 2894669910
-      },
-      {
-        "name": "AccelerationZPack",
-        "checksum": 2903149247
-      },
-      {
-        "name": "ReplicatedMovementMode",
-        "checksum": 2968399126
-      },
-      {
-        "name": "EncryptedPawnReplayData",
-        "checksum": 3069239894
-      },
-      {
-        "name": "JumpFlashCount",
-        "checksum": 3443787697
-      },
-      {
-        "name": "VocalChords",
-        "checksum": 3673018051
-      },
-      {
-        "name": "ForcePlayBit",
-        "checksum": 3716600989
-      },
-      {
-        "name": "bCanQue",
-        "checksum": 3809269181
-      },
-      {
-        "name": "bCanBeInterrupted",
-        "checksum": 3881237144
-      },
-      {
-        "name": "PlayerState",
-        "checksum": 3964024390
+        "name": "bIsSkydiving",
+        "checksum": 986964207
       },
       {
         "name": "bIsSkydivingFromBus",
         "checksum": 4139136742
       },
       {
-        "name": "CurrentWeapon",
-        "checksum": 4166280574
+        "name": "bIsSlopeSliding",
+        "checksum": 387632358
       },
       {
-        "name": "bIsParachuteForcedOpen",
-        "checksum": 4230365908
+        "name": "bIsTargeting",
+        "checksum": 336789266
+      },
+      {
+        "name": "BlendTime",
+        "checksum": 2018381902
       },
       {
         "name": "bPlayBit",
         "checksum": 4281423177
       },
       {
-        "name": "AnimMontage",
-        "checksum": 4287769663
+        "name": "bProxyIsJumpForceApplied",
+        "checksum": 2286453419
+      },
+      {
+        "name": "bServerHasBaseComponent",
+        "checksum": 948192076
+      },
+      {
+        "name": "BuildingState",
+        "checksum": 1894220688
+      },
+      {
+        "name": "bWeaponHolstered",
+        "checksum": 1472532622
+      },
+      {
+        "name": "Controller",
+        "checksum": 1134544246
+      },
+      {
+        "name": "CurrentMovementStyle",
+        "checksum": 2131771821
+      },
+      {
+        "name": "CurrentWeapon",
+        "checksum": 4166280574
+      },
+      {
+        "name": "EncryptedPawnReplayData",
+        "checksum": 3069239894
+      },
+      {
+        "name": "FeedbackAudioComponent",
+        "checksum": 2894669910
+      },
+      {
+        "name": "ForcePlayBit",
+        "checksum": 3716600989
+      },
+      {
+        "name": "Glider",
+        "checksum": 2216194617
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
+      },
+      {
+        "name": "IsStopped",
+        "checksum": 2368095229
+      },
+      {
+        "name": "JumpFlashCount",
+        "checksum": 3443787697
+      },
+      {
+        "name": "MovementBase",
+        "checksum": 2645773312
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "PackedReplicatedSlopeAngles",
+        "checksum": 163893122
+      },
+      {
+        "name": "ParachuteAttachment",
+        "checksum": 2245898982
+      },
+      {
+        "name": "PawnMontage",
+        "checksum": 1316577979
+      },
+      {
+        "name": "PawnUniqueID",
+        "checksum": 2589469719
+      },
+      {
+        "name": "Pickaxe",
+        "checksum": 832385590
+      },
+      {
+        "name": "PlayerState",
+        "checksum": 3964024390
+      },
+      {
+        "name": "PlayRate",
+        "checksum": 378147694
+      },
+      {
+        "name": "RemoteViewPitch",
+        "checksum": 1991026506
+      },
+      {
+        "name": "RepAnimMontageStartSection",
+        "checksum": 2109551477
+      },
+      {
+        "name": "ReplayViewRotation",
+        "checksum": 223718663
+      },
+      {
+        "name": "ReplicatedMovementMode",
+        "checksum": 2968399126
+      },
+      {
+        "name": "VocalChords",
+        "checksum": 3673018051
       }
     ]
   },
@@ -1296,32 +1296,32 @@
     "propertyCount": 8,
     "properties": [
       {
-        "name": "NextCenter",
-        "checksum": 94893030
+        "name": "LastCenter",
+        "checksum": 3125544095
       },
       {
         "name": "LastRadius",
         "checksum": 1119979651
       },
       {
-        "name": "NextNextCenter",
-        "checksum": 1682976951
+        "name": "NextCenter",
+        "checksum": 94893030
       },
       {
-        "name": "SafeZoneFinishShrinkTime",
-        "checksum": 2611373848
+        "name": "NextNextCenter",
+        "checksum": 1682976951
       },
       {
         "name": "NextNextRadius",
         "checksum": 2878351201
       },
       {
-        "name": "LastCenter",
-        "checksum": 3125544095
-      },
-      {
         "name": "NextRadius",
         "checksum": 3496036759
+      },
+      {
+        "name": "SafeZoneFinishShrinkTime",
+        "checksum": 2611373848
       },
       {
         "name": "SafeZoneStartShrinkTime",
@@ -1334,20 +1334,20 @@
     "propertyCount": 4,
     "properties": [
       {
-        "name": "ReplicatedMovement",
-        "checksum": 2749104612
+        "name": "BalloonFallSpeed",
+        "checksum": 3754425832
       },
       {
         "name": "bEditorPlaced",
         "checksum": 3640876186
       },
       {
-        "name": "BalloonFallSpeed",
-        "checksum": 3754425832
-      },
-      {
         "name": "LandingLocation",
         "checksum": 4076559660
+      },
+      {
+        "name": "ReplicatedMovement",
+        "checksum": 2749104612
       }
     ]
   },
@@ -1356,36 +1356,36 @@
     "propertyCount": 8,
     "properties": [
       {
+        "name": "A",
+        "checksum": 1681936127
+      },
+      {
         "name": "AttachComponent",
         "checksum": 924082277
       },
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
-        "name": "A",
-        "checksum": 1681936127
+        "name": "AttachParent",
+        "checksum": 3846863854
       },
       {
         "name": "B",
         "checksum": 1721649624
       },
       {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "RelativeScale3D",
-        "checksum": 1992268157
-      },
-      {
         "name": "bEditorPlaced",
         "checksum": 3640876186
       },
       {
-        "name": "AttachParent",
-        "checksum": 3846863854
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "RelativeScale3D",
+        "checksum": 1992268157
       }
     ]
   },
@@ -1408,40 +1408,40 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "bAlreadySearched",
-        "checksum": 805708689
-      },
-      {
-        "name": "bDestroyOnPlayerBuildingPlacement",
-        "checksum": 1427628438
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AttachmentPlacementBlockingActors",
         "checksum": 2964843205
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bAlreadySearched",
+        "checksum": 805708689
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
+      },
+      {
+        "name": "bDestroyOnPlayerBuildingPlacement",
+        "checksum": 1427628438
+      },
+      {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -1450,14 +1450,6 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "bAlreadySearched",
-        "checksum": 805708689
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -1466,8 +1458,16 @@
         "checksum": 1721649624
       },
       {
+        "name": "bAlreadySearched",
+        "checksum": 805708689
+      },
+      {
         "name": "C",
         "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -1476,32 +1476,32 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "bCanBeDamaged",
-        "checksum": 1648776127
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
       },
       {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bCanBeDamaged",
+        "checksum": 1648776127
+      },
+      {
         "name": "BuildingAttributeSet",
         "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -1510,28 +1510,28 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
       },
       {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
         "name": "BuildingAttributeSet",
         "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -1540,32 +1540,8 @@
     "propertyCount": 11,
     "properties": [
       {
-        "name": "TextureData",
-        "checksum": 1191174783
-      },
-      {
-        "name": "ResourceType",
-        "checksum": 1603263899
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AbilitySystemComponent",
@@ -1576,12 +1552,36 @@
         "checksum": 2964843205
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ResourceType",
+        "checksum": 1603263899
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
       }
     ]
   },
@@ -1589,10 +1589,6 @@
     "path": "/Game/Building/ActorBlueprints/Player/Stone/L1/PBWA_S1_Solid.PBWA_S1_Solid_C",
     "propertyCount": 4,
     "properties": [
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
       {
         "name": "A",
         "checksum": 1681936127
@@ -1604,6 +1600,10 @@
       {
         "name": "C",
         "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -1612,12 +1612,16 @@
     "propertyCount": 11,
     "properties": [
       {
-        "name": "Team",
-        "checksum": 354573869
+        "name": "AbilitySystemComponent",
+        "checksum": 2334113147
       },
       {
-        "name": "Owner",
-        "checksum": 1022089157
+        "name": "AttachmentPlacementBlockingActors",
+        "checksum": 2250888588
+      },
+      {
+        "name": "AttachmentPlacementBlockingActors",
+        "checksum": 2964843205
       },
       {
         "name": "bCollisionBlockedByPawns",
@@ -1628,20 +1632,8 @@
         "checksum": 1836540632
       },
       {
-        "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2250888588
-      },
-      {
-        "name": "AbilitySystemComponent",
-        "checksum": 2334113147
-      },
-      {
-        "name": "bUnderConstruction",
-        "checksum": 2604190565
-      },
-      {
-        "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "name": "bEditorPlaced",
+        "checksum": 3640876186
       },
       {
         "name": "bIsInitiallyBuilding",
@@ -1652,8 +1644,16 @@
         "checksum": 3253733464
       },
       {
-        "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "name": "bUnderConstruction",
+        "checksum": 2604190565
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "Team",
+        "checksum": 354573869
       }
     ]
   },
@@ -1662,32 +1662,28 @@
     "propertyCount": 11,
     "properties": [
       {
-        "name": "Team",
-        "checksum": 354573869
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
+        "name": "AbilitySystemComponent",
+        "checksum": 2334113147
       },
       {
         "name": "AttachmentPlacementBlockingActors",
         "checksum": 2250888588
       },
       {
-        "name": "AbilitySystemComponent",
-        "checksum": 2334113147
-      },
-      {
-        "name": "bUnderConstruction",
-        "checksum": 2604190565
-      },
-      {
         "name": "AttachmentPlacementBlockingActors",
         "checksum": 2964843205
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
+      },
+      {
+        "name": "bEditorPlaced",
+        "checksum": 3640876186
+      },
+      {
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
         "name": "bIsInitiallyBuilding",
@@ -1698,12 +1694,16 @@
         "checksum": 3253733464
       },
       {
-        "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "name": "bUnderConstruction",
+        "checksum": 2604190565
       },
       {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "Team",
+        "checksum": 354573869
       }
     ]
   },
@@ -1712,32 +1712,20 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "Team",
-        "checksum": 354573869
+        "name": "AbilitySystemComponent",
+        "checksum": 2334113147
       },
       {
-        "name": "EditingPlayer",
-        "checksum": 794637470
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
+        "name": "AttachmentPlacementBlockingActors",
+        "checksum": 2964843205
       },
       {
         "name": "bDestroyed",
         "checksum": 1836540632
       },
       {
-        "name": "AbilitySystemComponent",
-        "checksum": 2334113147
-      },
-      {
-        "name": "bUnderConstruction",
-        "checksum": 2604190565
-      },
-      {
-        "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "name": "bEditorPlaced",
+        "checksum": 3640876186
       },
       {
         "name": "bIsInitiallyBuilding",
@@ -1748,8 +1736,20 @@
         "checksum": 3253733464
       },
       {
-        "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "name": "bUnderConstruction",
+        "checksum": 2604190565
+      },
+      {
+        "name": "EditingPlayer",
+        "checksum": 794637470
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "Team",
+        "checksum": 354573869
       }
     ]
   },
@@ -1758,24 +1758,12 @@
     "propertyCount": 8,
     "properties": [
       {
-        "name": "Team",
-        "checksum": 354573869
-      },
-      {
-        "name": "EditingPlayer",
-        "checksum": 794637470
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
-        "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "name": "bEditorPlaced",
+        "checksum": 3640876186
       },
       {
         "name": "bIsInitiallyBuilding",
@@ -1786,8 +1774,20 @@
         "checksum": 3253733464
       },
       {
-        "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "name": "bUnderConstruction",
+        "checksum": 2604190565
+      },
+      {
+        "name": "EditingPlayer",
+        "checksum": 794637470
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "Team",
+        "checksum": 354573869
       }
     ]
   },
@@ -1796,8 +1796,32 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "Team",
-        "checksum": 354573869
+        "name": "AbilitySystemComponent",
+        "checksum": 2334113147
+      },
+      {
+        "name": "AttachmentPlacementBlockingActors",
+        "checksum": 2964843205
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
+      },
+      {
+        "name": "bEditorPlaced",
+        "checksum": 3640876186
+      },
+      {
+        "name": "bIsInitiallyBuilding",
+        "checksum": 3219241816
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "bUnderConstruction",
+        "checksum": 2604190565
       },
       {
         "name": "EditingPlayer",
@@ -1808,32 +1832,8 @@
         "checksum": 1022089157
       },
       {
-        "name": "bDestroyed",
-        "checksum": 1836540632
-      },
-      {
-        "name": "AbilitySystemComponent",
-        "checksum": 2334113147
-      },
-      {
-        "name": "bUnderConstruction",
-        "checksum": 2604190565
-      },
-      {
-        "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
-      },
-      {
-        "name": "bIsInitiallyBuilding",
-        "checksum": 3219241816
-      },
-      {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
-      },
-      {
-        "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "name": "Team",
+        "checksum": 354573869
       }
     ]
   },
@@ -1842,28 +1842,24 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "Team",
-        "checksum": 354573869
+        "name": "AbilitySystemComponent",
+        "checksum": 2334113147
       },
       {
-        "name": "Owner",
-        "checksum": 1022089157
+        "name": "AttachmentPlacementBlockingActors",
+        "checksum": 2964843205
       },
       {
         "name": "bDestroyed",
         "checksum": 1836540632
       },
       {
-        "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "name": "bEditorPlaced",
+        "checksum": 3640876186
       },
       {
-        "name": "bUnderConstruction",
-        "checksum": 2604190565
-      },
-      {
-        "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "name": "bHidden",
+        "checksum": 4123802426
       },
       {
         "name": "bIsInitiallyBuilding",
@@ -1874,12 +1870,16 @@
         "checksum": 3253733464
       },
       {
-        "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "name": "bUnderConstruction",
+        "checksum": 2604190565
       },
       {
-        "name": "bHidden",
-        "checksum": 4123802426
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "Team",
+        "checksum": 354573869
       }
     ]
   },
@@ -1888,28 +1888,8 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AbilitySystemComponent",
@@ -1920,12 +1900,32 @@
         "checksum": 2964843205
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       }
     ]
   },
@@ -1934,40 +1934,40 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "TextureData",
-        "checksum": 1191174783
-      },
-      {
-        "name": "bCanBeDamaged",
-        "checksum": 1648776127
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
       },
       {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bCanBeDamaged",
+        "checksum": 1648776127
+      },
+      {
         "name": "BuildingAttributeSet",
         "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
       }
     ]
   },
@@ -1976,28 +1976,28 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
       },
       {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
         "name": "BuildingAttributeSet",
         "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -2006,36 +2006,36 @@
     "propertyCount": 8,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AttachmentPlacementBlockingActors",
         "checksum": 2964843205
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
+      },
+      {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       }
     ]
   },
@@ -2044,36 +2044,36 @@
     "propertyCount": 8,
     "properties": [
       {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "bCanBeDamaged",
-        "checksum": 1648776127
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
       },
       {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bCanBeDamaged",
+        "checksum": 1648776127
+      },
+      {
         "name": "BuildingAttributeSet",
         "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
       }
     ]
   },
@@ -2082,74 +2082,28 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
       },
       {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
-      }
-    ]
-  },
-  {
-    "path": "/Game/Building/ActorBlueprints/Roof/FORT_Roof_Corner_In.FORT_Roof_Corner_In_C",
-    "propertyCount": 10,
-    "properties": [
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
-        "name": "A",
-        "checksum": 1681936127
-      },
-      {
         "name": "B",
         "checksum": 1721649624
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
       },
       {
         "name": "C",
         "checksum": 1730917573
       },
       {
-        "name": "bDestroyed",
-        "checksum": 1836540632
-      },
-      {
-        "name": "AbilitySystemComponent",
-        "checksum": 2334113147
-      },
-      {
-        "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
-      },
-      {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
-      },
-      {
-        "name": "TextureData",
-        "checksum": 4265837850
+        "name": "D",
+        "checksum": 1663190934
       }
     ]
   },
@@ -2158,28 +2112,8 @@
     "propertyCount": 11,
     "properties": [
       {
-        "name": "TextureData",
-        "checksum": 1191174783
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDestroyed",
-        "checksum": 1836540632
       },
       {
         "name": "AbilitySystemComponent",
@@ -2190,12 +2124,78 @@
         "checksum": 2964843205
       },
       {
-        "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
+      },
+      {
+        "name": "TextureData",
+        "checksum": 4265837850
+      }
+    ]
+  },
+  {
+    "path": "/Game/Building/ActorBlueprints/Roof/FORT_Roof_Corner_In.FORT_Roof_Corner_In_C",
+    "propertyCount": 10,
+    "properties": [
+      {
+        "name": "A",
+        "checksum": 1681936127
+      },
+      {
+        "name": "AbilitySystemComponent",
+        "checksum": 2334113147
+      },
+      {
+        "name": "AttachmentPlacementBlockingActors",
+        "checksum": 2964843205
+      },
+      {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDestroyed",
+        "checksum": 1836540632
+      },
+      {
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "BuildingAttributeSet",
+        "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       },
       {
         "name": "TextureData",
@@ -2208,36 +2208,36 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "TextureData",
-        "checksum": 1191174783
-      },
-      {
-        "name": "ResourceType",
-        "checksum": 1603263899
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
       },
       {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
         "name": "BuildingAttributeSet",
         "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "ResourceType",
+        "checksum": 1603263899
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
       },
       {
         "name": "TextureData",
@@ -2250,30 +2250,6 @@
     "propertyCount": 13,
     "properties": [
       {
-        "name": "DoorDesiredRotOffset",
-        "checksum": 293489676
-      },
-      {
-        "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
-      },
-      {
-        "name": "TextureData",
-        "checksum": 1191174783
-      },
-      {
-        "name": "ResourceType",
-        "checksum": 1603263899
-      },
-      {
-        "name": "bCanBeDamaged",
-        "checksum": 1648776127
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -2282,20 +2258,44 @@
         "checksum": 1721649624
       },
       {
-        "name": "C",
-        "checksum": 1730917573
+        "name": "bCanBeDamaged",
+        "checksum": 1648776127
       },
       {
-        "name": "bMirrored",
-        "checksum": 2367764837
+        "name": "bDoorCollisionDisabled",
+        "checksum": 3873702948
       },
       {
         "name": "bDoorOpen",
         "checksum": 3169319315
       },
       {
-        "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
+        "name": "bMirrored",
+        "checksum": 2367764837
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "DoorDesiredRotOffset",
+        "checksum": 293489676
+      },
+      {
+        "name": "ReplicatedDrawScale3D",
+        "checksum": 692768232
+      },
+      {
+        "name": "ResourceType",
+        "checksum": 1603263899
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
       },
       {
         "name": "TextureData",
@@ -2308,6 +2308,34 @@
     "propertyCount": 11,
     "properties": [
       {
+        "name": "A",
+        "checksum": 1681936127
+      },
+      {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDoorCollisionDisabled",
+        "checksum": 3873702948
+      },
+      {
+        "name": "bDoorOpen",
+        "checksum": 3169319315
+      },
+      {
+        "name": "bMirrored",
+        "checksum": 2367764837
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "DoorDesiredRotOffset",
         "checksum": 293489676
       },
@@ -2318,34 +2346,6 @@
       {
         "name": "TextureData",
         "checksum": 1191174783
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
-        "name": "A",
-        "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bMirrored",
-        "checksum": 2367764837
-      },
-      {
-        "name": "bDoorOpen",
-        "checksum": 3169319315
-      },
-      {
-        "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
       },
       {
         "name": "TextureData",
@@ -2358,18 +2358,6 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "DoorDesiredRotOffset",
-        "checksum": 293489676
-      },
-      {
-        "name": "TextureData",
-        "checksum": 1191174783
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -2378,16 +2366,28 @@
         "checksum": 1721649624
       },
       {
-        "name": "C",
-        "checksum": 1730917573
+        "name": "bDoorCollisionDisabled",
+        "checksum": 3873702948
       },
       {
         "name": "bDoorOpen",
         "checksum": 3169319315
       },
       {
-        "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "DoorDesiredRotOffset",
+        "checksum": 293489676
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
       },
       {
         "name": "TextureData",
@@ -2400,36 +2400,36 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "TextureData",
-        "checksum": 1191174783
-      },
-      {
-        "name": "bCanBeDamaged",
-        "checksum": 1648776127
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
       },
       {
         "name": "AbilitySystemComponent",
         "checksum": 2334113147
       },
       {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bCanBeDamaged",
+        "checksum": 1648776127
+      },
+      {
         "name": "BuildingAttributeSet",
         "checksum": 3253733464
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "TextureData",
+        "checksum": 1191174783
       },
       {
         "name": "TextureData",
@@ -2438,9 +2438,71 @@
     ]
   },
   {
+    "path": "/Game/Building/ActorBlueprints/Wall/SM_Prison_Walls_CellDoorWay_Circle22.SM_Prison_Walls_CellDoorWay_Circle22_C",
+    "propertyCount": 7,
+    "properties": [
+      {
+        "name": "A",
+        "checksum": 1681936127
+      },
+      {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDoorCollisionDisabled",
+        "checksum": 3873702948
+      },
+      {
+        "name": "bDoorOpen",
+        "checksum": 3169319315
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "DoorDesiredRotOffset",
+        "checksum": 293489676
+      }
+    ]
+  },
+  {
     "path": "/Game/Building/ActorBlueprints/Wall/SM_Prison_Walls_CellDoorWay2.SM_Prison_Walls_CellDoorWay2_C",
     "propertyCount": 9,
     "properties": [
+      {
+        "name": "A",
+        "checksum": 1681936127
+      },
+      {
+        "name": "B",
+        "checksum": 1721649624
+      },
+      {
+        "name": "bDoorCollisionDisabled",
+        "checksum": 3873702948
+      },
+      {
+        "name": "bDoorOpen",
+        "checksum": 3169319315
+      },
+      {
+        "name": "bMirrored",
+        "checksum": 2367764837
+      },
+      {
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
       {
         "name": "DoorDesiredRotOffset",
         "checksum": 293489676
@@ -2448,68 +2510,6 @@
       {
         "name": "ReplicatedDrawScale3D",
         "checksum": 692768232
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
-        "name": "A",
-        "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bMirrored",
-        "checksum": 2367764837
-      },
-      {
-        "name": "bDoorOpen",
-        "checksum": 3169319315
-      },
-      {
-        "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
-      }
-    ]
-  },
-  {
-    "path": "/Game/Building/ActorBlueprints/Wall/SM_Prison_Walls_CellDoorWay_Circle22.SM_Prison_Walls_CellDoorWay_Circle22_C",
-    "propertyCount": 7,
-    "properties": [
-      {
-        "name": "DoorDesiredRotOffset",
-        "checksum": 293489676
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
-        "name": "A",
-        "checksum": 1681936127
-      },
-      {
-        "name": "B",
-        "checksum": 1721649624
-      },
-      {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "bDoorOpen",
-        "checksum": 3169319315
-      },
-      {
-        "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
       }
     ]
   },
@@ -2518,40 +2518,40 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "AttachedTo",
-        "checksum": 51705181
-      },
-      {
-        "name": "Team",
-        "checksum": 354573869
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
+      },
+      {
+        "name": "AttachedTo",
+        "checksum": 51705181
       },
       {
         "name": "B",
         "checksum": 1721649624
       },
       {
-        "name": "C",
-        "checksum": 1730917573
-      },
-      {
-        "name": "TrapData",
-        "checksum": 1779120881
+        "name": "bEditorPlaced",
+        "checksum": 3640876186
       },
       {
         "name": "bIsInitiallyBuilding",
         "checksum": 3219241816
       },
       {
-        "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "name": "C",
+        "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
+        "name": "Team",
+        "checksum": 354573869
+      },
+      {
+        "name": "TrapData",
+        "checksum": 1779120881
       }
     ]
   },
@@ -2560,16 +2560,16 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "SpawnLocation",
-        "checksum": 1139493118
+        "name": "PlayerState",
+        "checksum": 3964024390
       },
       {
         "name": "RemoteRole",
         "checksum": 2120798060
       },
       {
-        "name": "PlayerState",
-        "checksum": 3964024390
+        "name": "SpawnLocation",
+        "checksum": 1139493118
       }
     ]
   },
@@ -2578,20 +2578,20 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "TimeOfDayReplicated",
-        "checksum": 522261181
+        "name": "bHeightFogEnabled",
+        "checksum": 2001440707
       },
       {
         "name": "Owner",
         "checksum": 1022089157
       },
       {
-        "name": "bHeightFogEnabled",
-        "checksum": 2001440707
-      },
-      {
         "name": "TimeOfDay",
         "checksum": 2157960238
+      },
+      {
+        "name": "TimeOfDayReplicated",
+        "checksum": 522261181
       },
       {
         "name": "TimeOfDaySpeed",
@@ -2604,24 +2604,32 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "A",
+        "checksum": 800551359
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "Owner",
@@ -2630,14 +2638,6 @@
       {
         "name": "WeaponData",
         "checksum": 1473697397
-      },
-      {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
       }
     ]
   },
@@ -2646,24 +2646,32 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "A",
+        "checksum": 800551359
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "Owner",
@@ -2672,14 +2680,6 @@
       {
         "name": "WeaponData",
         "checksum": 1473697397
-      },
-      {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
       }
     ]
   },
@@ -2688,24 +2688,28 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "A",
+        "checksum": 800551359
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "ItemDefinition",
@@ -2718,10 +2722,6 @@
       {
         "name": "WeaponData",
         "checksum": 1473697397
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
       }
     ]
   },
@@ -2730,28 +2730,40 @@
     "propertyCount": 11,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
+        "name": "A",
+        "checksum": 800551359
       },
       {
         "name": "AppliedAlterations",
         "checksum": 313956765
       },
       {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "AppliedAlterations",
+        "checksum": 2379401561
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "Owner",
@@ -2760,18 +2772,6 @@
       {
         "name": "WeaponData",
         "checksum": 1473697397
-      },
-      {
-        "name": "AppliedAlterations",
-        "checksum": 2379401561
-      },
-      {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
       }
     ]
   },
@@ -2780,56 +2780,56 @@
     "propertyCount": 13,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "AppliedAlterations",
-        "checksum": 313956765
-      },
-      {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
-      },
-      {
-        "name": "B",
-        "checksum": 761886360
-      },
-      {
         "name": "A",
         "checksum": 800551359
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
-        "name": "bIsReloadingWeapon",
-        "checksum": 1208259079
-      },
-      {
-        "name": "WeaponData",
-        "checksum": 1473697397
-      },
-      {
-        "name": "AppliedAlterations",
-        "checksum": 2379401561
       },
       {
         "name": "AmmoCount",
         "checksum": 2403689238
       },
       {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "name": "AppliedAlterations",
+        "checksum": 313956765
+      },
+      {
+        "name": "AppliedAlterations",
+        "checksum": 2379401561
+      },
+      {
+        "name": "B",
+        "checksum": 761886360
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "bIsReloadingWeapon",
+        "checksum": 1208259079
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "WeaponData",
+        "checksum": 1473697397
       }
     ]
   },
@@ -2838,28 +2838,40 @@
     "propertyCount": 11,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
+        "name": "A",
+        "checksum": 800551359
+      },
+      {
+        "name": "AmmoCount",
+        "checksum": 2403689238
       },
       {
         "name": "AppliedAlterations",
         "checksum": 313956765
       },
       {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
+        "name": "AppliedAlterations",
+        "checksum": 2379401561
       },
       {
         "name": "B",
         "checksum": 761886360
       },
       {
-        "name": "A",
-        "checksum": 800551359
+        "name": "bHidden",
+        "checksum": 4123802426
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
       },
       {
         "name": "Owner",
@@ -2868,18 +2880,6 @@
       {
         "name": "WeaponData",
         "checksum": 1473697397
-      },
-      {
-        "name": "AppliedAlterations",
-        "checksum": 2379401561
-      },
-      {
-        "name": "AmmoCount",
-        "checksum": 2403689238
-      },
-      {
-        "name": "bHidden",
-        "checksum": 4123802426
       }
     ]
   },
@@ -2888,56 +2888,56 @@
     "propertyCount": 13,
     "properties": [
       {
-        "name": "Instigator",
-        "checksum": 220456479
-      },
-      {
-        "name": "AppliedAlterations",
-        "checksum": 313956765
-      },
-      {
-        "name": "D",
-        "checksum": 685078742
-      },
-      {
-        "name": "C",
-        "checksum": 752651141
-      },
-      {
-        "name": "B",
-        "checksum": 761886360
-      },
-      {
         "name": "A",
         "checksum": 800551359
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
-        "name": "bIsReloadingWeapon",
-        "checksum": 1208259079
-      },
-      {
-        "name": "WeaponData",
-        "checksum": 1473697397
-      },
-      {
-        "name": "AppliedAlterations",
-        "checksum": 2379401561
       },
       {
         "name": "AmmoCount",
         "checksum": 2403689238
       },
       {
-        "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "name": "AppliedAlterations",
+        "checksum": 313956765
+      },
+      {
+        "name": "AppliedAlterations",
+        "checksum": 2379401561
+      },
+      {
+        "name": "B",
+        "checksum": 761886360
       },
       {
         "name": "bHidden",
         "checksum": 4123802426
+      },
+      {
+        "name": "bIsEquippingWeapon",
+        "checksum": 4097934934
+      },
+      {
+        "name": "bIsReloadingWeapon",
+        "checksum": 1208259079
+      },
+      {
+        "name": "C",
+        "checksum": 752651141
+      },
+      {
+        "name": "D",
+        "checksum": 685078742
+      },
+      {
+        "name": "Instigator",
+        "checksum": 220456479
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
+        "name": "WeaponData",
+        "checksum": 1473697397
       }
     ]
   },
@@ -2946,14 +2946,6 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -2966,8 +2958,16 @@
         "checksum": 1730917573
       },
       {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "LevelToStream",
         "checksum": 3044933830
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -2976,10 +2976,6 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -2990,6 +2986,10 @@
       {
         "name": "C",
         "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       },
       {
         "name": "LevelToStream",
@@ -3002,10 +3002,6 @@
     "propertyCount": 5,
     "properties": [
       {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -3016,6 +3012,10 @@
       {
         "name": "C",
         "checksum": 1730917573
+      },
+      {
+        "name": "D",
+        "checksum": 1663190934
       },
       {
         "name": "LevelToStream",
@@ -3028,14 +3028,6 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -3048,8 +3040,16 @@
         "checksum": 1730917573
       },
       {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "LevelToStream",
         "checksum": 3044933830
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -3058,14 +3058,6 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "ReplicatedMIC",
-        "checksum": 879364213
-      },
-      {
-        "name": "D",
-        "checksum": 1663190934
-      },
-      {
         "name": "A",
         "checksum": 1681936127
       },
@@ -3078,8 +3070,16 @@
         "checksum": 1730917573
       },
       {
+        "name": "D",
+        "checksum": 1663190934
+      },
+      {
         "name": "LevelToStream",
         "checksum": 3044933830
+      },
+      {
+        "name": "ReplicatedMIC",
+        "checksum": 879364213
       }
     ]
   },
@@ -3124,16 +3124,16 @@
         "checksum": 1829222345
       },
       {
+        "name": "OwnerActor",
+        "checksum": 3069409379
+      },
+      {
         "name": "SimulatedTasks",
         "checksum": 1851923830
       },
       {
         "name": "SimulatedTasks",
         "checksum": 2688965388
-      },
-      {
-        "name": "OwnerActor",
-        "checksum": 3069409379
       },
       {
         "name": "SpawnedAttributes",
@@ -3150,12 +3150,12 @@
     "propertyCount": 2,
     "properties": [
       {
-        "name": "CurrentValue",
-        "checksum": 473524852
-      },
-      {
         "name": "BaseValue",
         "checksum": 1180301697
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 473524852
       }
     ]
   },
@@ -3164,8 +3164,20 @@
     "propertyCount": 10,
     "properties": [
       {
-        "name": "CurrentValue",
-        "checksum": 159608710
+        "name": "BaseValue",
+        "checksum": 1071507488
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 2223735173
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 3129524333
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 4099898518
       },
       {
         "name": "bIsClamped",
@@ -3173,35 +3185,23 @@
       },
       {
         "name": "CurrentValue",
+        "checksum": 159608710
+      },
+      {
+        "name": "CurrentValue",
         "checksum": 603739645
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 1071507488
-      },
-      {
-        "name": "Maximum",
-        "checksum": 2160711052
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 2223735173
       },
       {
         "name": "CurrentValue",
         "checksum": 2517341703
       },
       {
-        "name": "BaseValue",
-        "checksum": 3129524333
-      },
-      {
         "name": "CurrentValue",
         "checksum": 3264251261
       },
       {
-        "name": "BaseValue",
-        "checksum": 4099898518
+        "name": "Maximum",
+        "checksum": 2160711052
       }
     ]
   },
@@ -3210,28 +3210,28 @@
     "propertyCount": 6,
     "properties": [
       {
-        "name": "CurrentValue",
-        "checksum": 159608710
+        "name": "BaseValue",
+        "checksum": 3129524333
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 4099898518
       },
       {
         "name": "bIsClamped",
         "checksum": 397345901
       },
       {
-        "name": "Maximum",
-        "checksum": 2160711052
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 3129524333
+        "name": "CurrentValue",
+        "checksum": 159608710
       },
       {
         "name": "CurrentValue",
         "checksum": 3264251261
       },
       {
-        "name": "BaseValue",
-        "checksum": 4099898518
+        "name": "Maximum",
+        "checksum": 2160711052
       }
     ]
   },
@@ -3240,12 +3240,12 @@
     "propertyCount": 2,
     "properties": [
       {
-        "name": "CurrentValue",
-        "checksum": 2210809203
-      },
-      {
         "name": "BaseValue",
         "checksum": 3637519040
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 2210809203
       }
     ]
   },
@@ -3254,16 +3254,16 @@
     "propertyCount": 3,
     "properties": [
       {
-        "name": "bIsHealthBarVisible",
-        "checksum": 194626888
+        "name": "AttachParent",
+        "checksum": 4168371630
       },
       {
         "name": "bIsActive",
         "checksum": 2967469237
       },
       {
-        "name": "AttachParent",
-        "checksum": 4168371630
+        "name": "bIsHealthBarVisible",
+        "checksum": 194626888
       }
     ]
   },
@@ -3282,88 +3282,88 @@
     "propertyCount": 21,
     "properties": [
       {
-        "name": "Durability",
-        "checksum": 637617030
-      },
-      {
-        "name": "StateValues",
-        "checksum": 696823727
-      },
-      {
-        "name": "PlayerName",
-        "checksum": 795805955
-      },
-      {
-        "name": "Count",
-        "checksum": 843381270
-      },
-      {
-        "name": "ItemDefinition",
-        "checksum": 979059316
-      },
-      {
-        "name": "LoadedAmmo",
-        "checksum": 1055517320
-      },
-      {
-        "name": "bIsDirty",
-        "checksum": 1059942404
-      },
-      {
-        "name": "GenericAttributeValue",
-        "checksum": 1289022563
-      },
-      {
-        "name": "bIsReplicatedCopy",
-        "checksum": 2051294057
-      },
-      {
-        "name": "ItemSource",
-        "checksum": 2154753494
+        "name": "A",
+        "checksum": 3280393308
       },
       {
         "name": "AlterationDefinitions",
         "checksum": 2277793310
       },
       {
-        "name": "inventory_overflow_date",
-        "checksum": 2542414030
-      },
-      {
-        "name": "ParentInventory",
-        "checksum": 2907643569
-      },
-      {
-        "name": "C",
-        "checksum": 3236769382
+        "name": "AlterationInstances",
+        "checksum": 4116282646
       },
       {
         "name": "B",
         "checksum": 3243823995
       },
       {
-        "name": "A",
-        "checksum": 3280393308
+        "name": "bIsDirty",
+        "checksum": 1059942404
+      },
+      {
+        "name": "bIsReplicatedCopy",
+        "checksum": 2051294057
+      },
+      {
+        "name": "C",
+        "checksum": 3236769382
+      },
+      {
+        "name": "Count",
+        "checksum": 843381270
       },
       {
         "name": "D",
         "checksum": 3303333173
       },
       {
-        "name": "Level",
-        "checksum": 3376171892
+        "name": "Durability",
+        "checksum": 637617030
+      },
+      {
+        "name": "GenericAttributeValue",
+        "checksum": 1289022563
       },
       {
         "name": "Handle",
         "checksum": 3541909752
       },
       {
-        "name": "AlterationInstances",
-        "checksum": 4116282646
-      },
-      {
         "name": "HeroType",
         "checksum": 4161371673
+      },
+      {
+        "name": "inventory_overflow_date",
+        "checksum": 2542414030
+      },
+      {
+        "name": "ItemDefinition",
+        "checksum": 979059316
+      },
+      {
+        "name": "ItemSource",
+        "checksum": 2154753494
+      },
+      {
+        "name": "Level",
+        "checksum": 3376171892
+      },
+      {
+        "name": "LoadedAmmo",
+        "checksum": 1055517320
+      },
+      {
+        "name": "ParentInventory",
+        "checksum": 2907643569
+      },
+      {
+        "name": "PlayerName",
+        "checksum": 795805955
+      },
+      {
+        "name": "StateValues",
+        "checksum": 696823727
       }
     ]
   },
@@ -3372,16 +3372,8 @@
     "propertyCount": 12,
     "properties": [
       {
-        "name": "CurrentValue",
-        "checksum": 37582613
-      },
-      {
         "name": "BaseValue",
         "checksum": 71786136
-      },
-      {
-        "name": "CurrentValue",
-        "checksum": 230467837
       },
       {
         "name": "BaseValue",
@@ -3390,6 +3382,26 @@
       {
         "name": "BaseValue",
         "checksum": 1962688437
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 3645467085
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 3794538358
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 3847469696
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 37582613
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 230467837
       },
       {
         "name": "CurrentValue",
@@ -3404,20 +3416,8 @@
         "checksum": 3267718486
       },
       {
-        "name": "BaseValue",
-        "checksum": 3645467085
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 3794538358
-      },
-      {
         "name": "CurrentValue",
         "checksum": 3832700412
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 3847469696
       }
     ]
   },
@@ -3426,20 +3426,20 @@
     "propertyCount": 4,
     "properties": [
       {
-        "name": "CurrentValue",
-        "checksum": 64988675
-      },
-      {
-        "name": "CurrentValue",
-        "checksum": 2234127135
-      },
-      {
         "name": "BaseValue",
         "checksum": 2482511721
       },
       {
         "name": "BaseValue",
         "checksum": 2747373383
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 64988675
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 2234127135
       }
     ]
   },
@@ -3448,16 +3448,28 @@
     "propertyCount": 9,
     "properties": [
       {
-        "name": "Normal",
-        "checksum": 391863550
-      },
-      {
         "name": "bIsCritical",
         "checksum": 473365748
       },
       {
+        "name": "bIsFatal",
+        "checksum": 1911304158
+      },
+      {
         "name": "bIsShield",
         "checksum": 575003955
+      },
+      {
+        "name": "bIsShieldDestroyed",
+        "checksum": 1804014013
+      },
+      {
+        "name": "bWeaponActivate",
+        "checksum": 3000223507
+      },
+      {
+        "name": "HitActor",
+        "checksum": 4234963737
       },
       {
         "name": "Location",
@@ -3468,20 +3480,8 @@
         "checksum": 1694685231
       },
       {
-        "name": "bIsShieldDestroyed",
-        "checksum": 1804014013
-      },
-      {
-        "name": "bIsFatal",
-        "checksum": 1911304158
-      },
-      {
-        "name": "bWeaponActivate",
-        "checksum": 3000223507
-      },
-      {
-        "name": "HitActor",
-        "checksum": 4234963737
+        "name": "Normal",
+        "checksum": 391863550
       }
     ]
   },
@@ -3490,40 +3490,12 @@
     "propertyCount": 12,
     "properties": [
       {
-        "name": "Def",
-        "checksum": 32800255
-      },
-      {
-        "name": "TotalMagnitude",
-        "checksum": 66305807
-      },
-      {
-        "name": "AggregatedSourceTags",
-        "checksum": 136675807
-      },
-      {
-        "name": "ModifiedAttributes",
-        "checksum": 693664205
-      },
-      {
-        "name": "Level",
-        "checksum": 1038270982
-      },
-      {
-        "name": "AttributeName",
-        "checksum": 1408090502
-      },
-      {
         "name": "AbilityLevel",
         "checksum": 1483881693
       },
       {
-        "name": "EffectContext",
-        "checksum": 2005005840
-      },
-      {
-        "name": "AttributeOwner",
-        "checksum": 2098951271
+        "name": "AggregatedSourceTags",
+        "checksum": 136675807
       },
       {
         "name": "AggregatedTargetTags",
@@ -3534,8 +3506,36 @@
         "checksum": 2467712061
       },
       {
+        "name": "AttributeName",
+        "checksum": 1408090502
+      },
+      {
+        "name": "AttributeOwner",
+        "checksum": 2098951271
+      },
+      {
+        "name": "Def",
+        "checksum": 32800255
+      },
+      {
+        "name": "EffectContext",
+        "checksum": 2005005840
+      },
+      {
+        "name": "Level",
+        "checksum": 1038270982
+      },
+      {
+        "name": "ModifiedAttributes",
+        "checksum": 693664205
+      },
+      {
         "name": "PredictionKey",
         "checksum": 3275717157
+      },
+      {
+        "name": "TotalMagnitude",
+        "checksum": 66305807
       }
     ]
   },
@@ -3548,12 +3548,12 @@
         "checksum": 1432603750
       },
       {
-        "name": "PredictionKey",
-        "checksum": 3275717157
-      },
-      {
         "name": "GameplayCueTag",
         "checksum": 3549897486
+      },
+      {
+        "name": "PredictionKey",
+        "checksum": 3275717157
       }
     ]
   },
@@ -3562,52 +3562,40 @@
     "propertyCount": 19,
     "properties": [
       {
-        "name": "PlayerRole",
-        "checksum": 327025759
+        "name": "bHasFinishedLoading",
+        "checksum": 3946197037
+      },
+      {
+        "name": "bHasStartedPlaying",
+        "checksum": 4232668705
       },
       {
         "name": "bInAircraft",
         "checksum": 464412892
       },
       {
-        "name": "PlayerTeamPrivate",
-        "checksum": 756921039
-      },
-      {
-        "name": "HeroType",
-        "checksum": 887311254
-      },
-      {
-        "name": "Owner",
-        "checksum": 1022089157
-      },
-      {
-        "name": "TeamIndex",
-        "checksum": 1388148019
-      },
-      {
-        "name": "UniqueId",
-        "checksum": 1496955607
+        "name": "bOnlySpectator",
+        "checksum": 2951096964
       },
       {
         "name": "CharacterParts",
         "checksum": 1866355491
       },
       {
-        "name": "Platform",
-        "checksum": 2367070105
+        "name": "CharacterParts",
+        "checksum": 3615634502
       },
       {
-        "name": "PlayerID",
-        "checksum": 2396673102
+        "name": "HeroType",
+        "checksum": 887311254
       },
       {
-        "name": "bOnlySpectator",
-        "checksum": 2951096964
+        "name": "NumRejoins",
+        "checksum": 3922804274
       },
       {
-        "name": "PlayerNamePrivate",
-        "checksum": 3040447831
+        "name": "Owner",
+        "checksum": 1022089157
       },
       {
         "name": "PartyOwnerUniqueId",
@@ -3618,24 +3606,36 @@
         "checksum": 3474348186
       },
       {
-        "name": "CharacterParts",
-        "checksum": 3615634502
+        "name": "Platform",
+        "checksum": 2367070105
+      },
+      {
+        "name": "PlayerID",
+        "checksum": 2396673102
+      },
+      {
+        "name": "PlayerNamePrivate",
+        "checksum": 3040447831
+      },
+      {
+        "name": "PlayerRole",
+        "checksum": 327025759
+      },
+      {
+        "name": "PlayerTeamPrivate",
+        "checksum": 756921039
       },
       {
         "name": "SquadId",
         "checksum": 3738570899
       },
       {
-        "name": "NumRejoins",
-        "checksum": 3922804274
+        "name": "TeamIndex",
+        "checksum": 1388148019
       },
       {
-        "name": "bHasFinishedLoading",
-        "checksum": 3946197037
-      },
-      {
-        "name": "bHasStartedPlaying",
-        "checksum": 4232668705
+        "name": "UniqueId",
+        "checksum": 1496955607
       }
     ]
   },
@@ -3644,52 +3644,116 @@
     "propertyCount": 30,
     "properties": [
       {
-        "name": "D",
-        "checksum": 12122238
-      },
-      {
-        "name": "C",
-        "checksum": 78711597
-      },
-      {
-        "name": "B",
-        "checksum": 84211248
-      },
-      {
         "name": "A",
         "checksum": 131789079
-      },
-      {
-        "name": "AcceptedItemTypes",
-        "checksum": 158174826
-      },
-      {
-        "name": "D",
-        "checksum": 566246969
-      },
-      {
-        "name": "B",
-        "checksum": 612118647
-      },
-      {
-        "name": "C",
-        "checksum": 633982314
       },
       {
         "name": "A",
         "checksum": 648165200
       },
       {
-        "name": "Owner",
-        "checksum": 1022089157
+        "name": "AcceptedItemTypes",
+        "checksum": 158174826
       },
       {
         "name": "AcceptedItemTypes",
         "checksum": 1159059416
       },
       {
+        "name": "AcceptedItemTypes",
+        "checksum": 2413236393
+      },
+      {
+        "name": "AcceptedItemTypes",
+        "checksum": 3484569414
+      },
+      {
+        "name": "B",
+        "checksum": 84211248
+      },
+      {
+        "name": "B",
+        "checksum": 612118647
+      },
+      {
+        "name": "bEnabled",
+        "checksum": 1563757918
+      },
+      {
+        "name": "bEnabled",
+        "checksum": 3166622266
+      },
+      {
+        "name": "bStaticSlot",
+        "checksum": 1668631791
+      },
+      {
+        "name": "bStaticSlot",
+        "checksum": 2293534092
+      },
+      {
+        "name": "C",
+        "checksum": 78711597
+      },
+      {
+        "name": "C",
+        "checksum": 633982314
+      },
+      {
+        "name": "CurrentFocusedSlot",
+        "checksum": 1708216139
+      },
+      {
+        "name": "CurrentFocusedSlot",
+        "checksum": 2083657212
+      },
+      {
+        "name": "D",
+        "checksum": 12122238
+      },
+      {
+        "name": "D",
+        "checksum": 566246969
+      },
+      {
+        "name": "DefaultItem",
+        "checksum": 1939334969
+      },
+      {
+        "name": "DefaultItem",
+        "checksum": 4078572138
+      },
+      {
+        "name": "Items",
+        "checksum": 1868161123
+      },
+      {
+        "name": "Items",
+        "checksum": 3996189313
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157
+      },
+      {
         "name": "PreviousFocusedSlot",
         "checksum": 1378957264
+      },
+      {
+        "name": "PreviousFocusedSlot",
+        "checksum": 2726814330
+      },
+      {
+        "name": "QuickbarSlots",
+        "checksum": 1787555836
+      },
+      {
+        "name": "QuickbarSlots",
+        "checksum": 2888370987
+      },
+      {
+        "name": "SecondaryFocusedSlot",
+        "checksum": 2230898889
       },
       {
         "name": "Slots",
@@ -3698,70 +3762,6 @@
       {
         "name": "Slots",
         "checksum": 1546992039
-      },
-      {
-        "name": "bEnabled",
-        "checksum": 1563757918
-      },
-      {
-        "name": "bStaticSlot",
-        "checksum": 1668631791
-      },
-      {
-        "name": "CurrentFocusedSlot",
-        "checksum": 1708216139
-      },
-      {
-        "name": "QuickbarSlots",
-        "checksum": 1787555836
-      },
-      {
-        "name": "Items",
-        "checksum": 1868161123
-      },
-      {
-        "name": "DefaultItem",
-        "checksum": 1939334969
-      },
-      {
-        "name": "CurrentFocusedSlot",
-        "checksum": 2083657212
-      },
-      {
-        "name": "SecondaryFocusedSlot",
-        "checksum": 2230898889
-      },
-      {
-        "name": "bStaticSlot",
-        "checksum": 2293534092
-      },
-      {
-        "name": "AcceptedItemTypes",
-        "checksum": 2413236393
-      },
-      {
-        "name": "PreviousFocusedSlot",
-        "checksum": 2726814330
-      },
-      {
-        "name": "QuickbarSlots",
-        "checksum": 2888370987
-      },
-      {
-        "name": "bEnabled",
-        "checksum": 3166622266
-      },
-      {
-        "name": "AcceptedItemTypes",
-        "checksum": 3484569414
-      },
-      {
-        "name": "Items",
-        "checksum": 3996189313
-      },
-      {
-        "name": "DefaultItem",
-        "checksum": 4078572138
       }
     ]
   },
@@ -3770,20 +3770,40 @@
     "propertyCount": 24,
     "properties": [
       {
-        "name": "CurrentValue",
-        "checksum": 159608710
-      },
-      {
         "name": "BaseValue",
         "checksum": 171156052
       },
       {
-        "name": "CurrentValue",
-        "checksum": 244918932
+        "name": "BaseValue",
+        "checksum": 350622687
       },
       {
         "name": "BaseValue",
-        "checksum": 350622687
+        "checksum": 1100951338
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 2096426353
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 3129524333
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 3614988867
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 4099898518
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 4244183421
+      },
+      {
+        "name": "BaseValue",
+        "checksum": 4262195990
       },
       {
         "name": "bIsClamped",
@@ -3795,35 +3815,19 @@
       },
       {
         "name": "CurrentValue",
+        "checksum": 159608710
+      },
+      {
+        "name": "CurrentValue",
+        "checksum": 244918932
+      },
+      {
+        "name": "CurrentValue",
         "checksum": 800104705
-      },
-      {
-        "name": "Minimum",
-        "checksum": 1005811491
-      },
-      {
-        "name": "Maximum",
-        "checksum": 1055722029
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 1100951338
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 2096426353
       },
       {
         "name": "CurrentValue",
         "checksum": 2111444546
-      },
-      {
-        "name": "Maximum",
-        "checksum": 2160711052
-      },
-      {
-        "name": "Minimum",
-        "checksum": 2245503106
       },
       {
         "name": "CurrentValue",
@@ -3838,32 +3842,28 @@
         "checksum": 3041447457
       },
       {
-        "name": "BaseValue",
-        "checksum": 3129524333
-      },
-      {
         "name": "CurrentValue",
         "checksum": 3264251261
-      },
-      {
-        "name": "BaseValue",
-        "checksum": 3614988867
       },
       {
         "name": "CurrentValue",
         "checksum": 3816246197
       },
       {
-        "name": "BaseValue",
-        "checksum": 4099898518
+        "name": "Maximum",
+        "checksum": 1055722029
       },
       {
-        "name": "BaseValue",
-        "checksum": 4244183421
+        "name": "Maximum",
+        "checksum": 2160711052
       },
       {
-        "name": "BaseValue",
-        "checksum": 4262195990
+        "name": "Minimum",
+        "checksum": 1005811491
+      },
+      {
+        "name": "Minimum",
+        "checksum": 2245503106
       }
     ]
   },
@@ -3882,16 +3882,16 @@
     "propertyCount": 4,
     "properties": [
       {
+        "name": "LastRepLocation",
+        "checksum": 2605045410
+      },
+      {
         "name": "LastRepYaw",
         "checksum": 1162005441
       },
       {
         "name": "PawnStateMask",
         "checksum": 2158255225
-      },
-      {
-        "name": "LastRepLocation",
-        "checksum": 2605045410
       },
       {
         "name": "PlayerState",
@@ -3904,12 +3904,12 @@
     "propertyCount": 2,
     "properties": [
       {
-        "name": "Value",
-        "checksum": 3546960199
-      },
-      {
         "name": "PlayerID",
         "checksum": 4197416564
+      },
+      {
+        "name": "Value",
+        "checksum": 3546960199
       }
     ]
   },
@@ -3922,12 +3922,12 @@
         "checksum": 1432603750
       },
       {
-        "name": "PredictionKey",
-        "checksum": 3275717157
-      },
-      {
         "name": "GameplayCueTag",
         "checksum": 3549897486
+      },
+      {
+        "name": "PredictionKey",
+        "checksum": 3275717157
       }
     ]
   },
@@ -3936,20 +3936,48 @@
     "propertyCount": 20,
     "properties": [
       {
-        "name": "DynamicAssetTags",
-        "checksum": 4067012
+        "name": "Attribute",
+        "checksum": 1081021207
       },
       {
-        "name": "Duration",
-        "checksum": 11727481
+        "name": "AttributeName",
+        "checksum": 447063680
+      },
+      {
+        "name": "AttributeOwner",
+        "checksum": 1133362610
       },
       {
         "name": "bIsInhibited",
         "checksum": 384211747
       },
       {
-        "name": "AttributeName",
-        "checksum": 447063680
+        "name": "ChanceToApplyToTarget",
+        "checksum": 988194082
+      },
+      {
+        "name": "Def",
+        "checksum": 1934550845
+      },
+      {
+        "name": "Duration",
+        "checksum": 11727481
+      },
+      {
+        "name": "DynamicAssetTags",
+        "checksum": 4067012
+      },
+      {
+        "name": "DynamicGrantedTags",
+        "checksum": 4000055317
+      },
+      {
+        "name": "EffectContext",
+        "checksum": 2128581143
+      },
+      {
+        "name": "EvaluatedMagnitude",
+        "checksum": 4278577482
       },
       {
         "name": "GrantedAbilitySpecs",
@@ -3964,56 +3992,28 @@
         "checksum": 911904455
       },
       {
-        "name": "ChanceToApplyToTarget",
-        "checksum": 988194082
-      },
-      {
-        "name": "Attribute",
-        "checksum": 1081021207
-      },
-      {
-        "name": "AttributeOwner",
-        "checksum": 1133362610
+        "name": "Modifiers",
+        "checksum": 3893998800
       },
       {
         "name": "Period",
         "checksum": 1670139024
       },
       {
-        "name": "StartServerWorldTime",
-        "checksum": 1922856247
-      },
-      {
-        "name": "Def",
-        "checksum": 1934550845
-      },
-      {
-        "name": "EffectContext",
-        "checksum": 2128581143
+        "name": "PredictionKey",
+        "checksum": 3275717157
       },
       {
         "name": "StackCount",
         "checksum": 2539792626
       },
       {
+        "name": "StartServerWorldTime",
+        "checksum": 1922856247
+      },
+      {
         "name": "TotalMagnitude",
         "checksum": 2641114299
-      },
-      {
-        "name": "PredictionKey",
-        "checksum": 3275717157
-      },
-      {
-        "name": "Modifiers",
-        "checksum": 3893998800
-      },
-      {
-        "name": "DynamicGrantedTags",
-        "checksum": 4000055317
-      },
-      {
-        "name": "EvaluatedMagnitude",
-        "checksum": 4278577482
       }
     ]
   },
@@ -4022,20 +4022,24 @@
     "propertyCount": 7,
     "properties": [
       {
-        "name": "ReplicatedInstances",
-        "checksum": 560295766
+        "name": "Ability",
+        "checksum": 3218773842
+      },
+      {
+        "name": "Handle",
+        "checksum": 4198120770
       },
       {
         "name": "InputID",
         "checksum": 2441329372
       },
       {
-        "name": "Ability",
-        "checksum": 3218773842
-      },
-      {
         "name": "Level",
         "checksum": 3376171892
+      },
+      {
+        "name": "ReplicatedInstances",
+        "checksum": 560295766
       },
       {
         "name": "ReplicatedInstances",
@@ -4044,10 +4048,6 @@
       {
         "name": "SourceObject",
         "checksum": 3652934519
-      },
-      {
-        "name": "Handle",
-        "checksum": 4198120770
       }
     ]
   },
@@ -4058,6 +4058,16 @@
       {
         "name": "Multicast_ApplyGravityForFall",
         "checksum": 2703128930
+      }
+    ]
+  },
+  {
+    "path": "FortAbilitySystemComponent_ClassNetCache",
+    "propertyCount": 1,
+    "properties": [
+      {
+        "name": "NetMulticast_InvokeGameplayCueExecuted_WithParams",
+        "checksum": 3822896495
       }
     ]
   },
@@ -4076,16 +4086,6 @@
     ]
   },
   {
-    "path": "FortAbilitySystemComponent_ClassNetCache",
-    "propertyCount": 1,
-    "properties": [
-      {
-        "name": "NetMulticast_InvokeGameplayCueExecuted_WithParams",
-        "checksum": 3822896495
-      }
-    ]
-  },
-  {
     "path": "FortInventory_ClassNetCache",
     "propertyCount": 1,
     "properties": [
@@ -4100,12 +4100,12 @@
     "propertyCount": 2,
     "properties": [
       {
-        "name": "RepData",
-        "checksum": 3077767360
-      },
-      {
         "name": "LatentTeamRepData",
         "checksum": 3679752244
+      },
+      {
+        "name": "RepData",
+        "checksum": 3077767360
       }
     ]
   },
