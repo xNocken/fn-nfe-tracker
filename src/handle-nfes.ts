@@ -126,9 +126,9 @@ export default (nfes: NetFieldExportGroup[], version: Version) => {
       }
     });
 
-    seasonEntry.properties = Object.values(seasonEntry.properties).sort((a, b) => a.checksum - b.checksum);
-    versionEntry.properties = Object.values(versionEntry.properties).sort((a, b) => a.checksum - b.checksum);
-    lifetimeEntry.properties = Object.values(lifetimeEntry.properties).sort((a, b) => a.checksum - b.checksum);
+    seasonEntry.properties = Object.values(seasonEntry.properties).sort((a, b) => a.name.localeCompare(b.name));
+    versionEntry.properties = Object.values(versionEntry.properties).sort((a, b) => a.name.localeCompare(b.name));
+    lifetimeEntry.properties = Object.values(lifetimeEntry.properties).sort((a, b) => a.name.localeCompare(b.name));
   });
 
   if (newSeasonData) {
