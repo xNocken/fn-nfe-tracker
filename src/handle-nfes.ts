@@ -89,6 +89,7 @@ export default (nfes: NetFieldExportGroup[], version: Version) => {
         seasonProp = {
           name: prop.name,
           checksum: prop.compatibleChecksum,
+          checksumHex: prop.compatibleChecksum.toString(16).padStart(8, '0').toUpperCase(),
         };
 
         seasonEntry.properties.push(seasonProp);
@@ -103,6 +104,7 @@ export default (nfes: NetFieldExportGroup[], version: Version) => {
         versionProp = {
           name: prop.name,
           checksum: prop.compatibleChecksum,
+          checksumHex: prop.compatibleChecksum.toString(16).padStart(8, '0').toUpperCase(),
         };
 
         versionEntry.properties.push(versionProp);
@@ -117,6 +119,7 @@ export default (nfes: NetFieldExportGroup[], version: Version) => {
         lifetimeProp = {
           name: prop.name,
           checksum: prop.compatibleChecksum,
+          checksumHex: prop.compatibleChecksum.toString(16).padStart(8, '0').toUpperCase(),
         };
 
         lifetimeEntry.properties.push(lifetimeProp);

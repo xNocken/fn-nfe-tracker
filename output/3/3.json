@@ -5,39 +5,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       }
     ]
   },
@@ -47,51 +56,63 @@
     "properties": [
       {
         "name": "DropEndTime",
-        "checksum": 2668025370
+        "checksum": 2668025370,
+        "checksumHex": "9F06D61A"
       },
       {
         "name": "DropStartTime",
-        "checksum": 174407111
+        "checksum": 174407111,
+        "checksumHex": "0A653DC7"
       },
       {
         "name": "FlightEndTime",
-        "checksum": 1849427331
+        "checksum": 1849427331,
+        "checksumHex": "6E3C0583"
       },
       {
         "name": "FlightSpeed",
-        "checksum": 3928677508
+        "checksum": 3928677508,
+        "checksumHex": "EA2ADC84"
       },
       {
         "name": "FlightStartLocation",
-        "checksum": 3189280857
+        "checksum": 3189280857,
+        "checksumHex": "BE189059"
       },
       {
         "name": "FlightStartRotation",
-        "checksum": 4171099532
+        "checksum": 4171099532,
+        "checksumHex": "F89DED8C"
       },
       {
         "name": "FlightStartTime",
-        "checksum": 1882511075
+        "checksum": 1882511075,
+        "checksumHex": "7034D6E3"
       },
       {
         "name": "JumpFlashCount",
-        "checksum": 802142971
+        "checksum": 802142971,
+        "checksumHex": "2FCFBAFB"
       },
       {
         "name": "ReplicatedFlightTimestamp",
-        "checksum": 3618213513
+        "checksum": 3618213513,
+        "checksumHex": "D7A98E89"
       },
       {
         "name": "TimeTillDropEnd",
-        "checksum": 3901975329
+        "checksum": 3901975329,
+        "checksumHex": "E8936B21"
       },
       {
         "name": "TimeTillDropStart",
-        "checksum": 2013185231
+        "checksum": 2013185231,
+        "checksumHex": "77FEC4CF"
       },
       {
         "name": "TimeTillFlightEnd",
-        "checksum": 2138870550
+        "checksum": 2138870550,
+        "checksumHex": "7F7C9316"
       }
     ]
   },
@@ -101,167 +122,208 @@
     "properties": [
       {
         "name": "Aircrafts",
-        "checksum": 1021866166
+        "checksum": 1021866166,
+        "checksumHex": "3CE870B6"
       },
       {
         "name": "Aircrafts",
-        "checksum": 1742475842
+        "checksum": 1742475842,
+        "checksumHex": "67DC1242"
       },
       {
         "name": "AircraftStartTime",
-        "checksum": 3041558131
+        "checksum": 3041558131,
+        "checksumHex": "B54A7E73"
       },
       {
         "name": "AnnouncementManager",
-        "checksum": 2601962830
+        "checksum": 2601962830,
+        "checksumHex": "9B16CD4E"
       },
       {
         "name": "bAircraftIsLocked",
-        "checksum": 143344393
+        "checksum": 143344393,
+        "checksumHex": "088B4309"
       },
       {
         "name": "bAllowUserPickedCosmeticBattleBus",
-        "checksum": 1237051726
+        "checksum": 1237051726,
+        "checksumHex": "49BBE94E"
       },
       {
         "name": "bReplicatedHasBegunPlay",
-        "checksum": 2622764780
+        "checksum": 2622764780,
+        "checksumHex": "9C5436EC"
       },
       {
         "name": "CraftingBonus",
-        "checksum": 2184223992
+        "checksum": 2184223992,
+        "checksumHex": "82309CF8"
       },
       {
         "name": "CurrentPlaylistData",
-        "checksum": 182360564
+        "checksum": 182360564,
+        "checksumHex": "0ADE99F4"
       },
       {
         "name": "CurrentPlaylistId",
-        "checksum": 2312957719
+        "checksum": 2312957719,
+        "checksumHex": "89DCEF17"
       },
       {
         "name": "DefaultBattleBus",
-        "checksum": 2858854129
+        "checksum": 2858854129,
+        "checksumHex": "AA66A6F1"
       },
       {
         "name": "FlightSpeed",
-        "checksum": 3421728973
+        "checksum": 3421728973,
+        "checksumHex": "CBF370CD"
       },
       {
         "name": "FlightStartLocation",
-        "checksum": 3855981860
+        "checksum": 3855981860,
+        "checksumHex": "E5D59D24"
       },
       {
         "name": "FlightStartRotation",
-        "checksum": 2898503731
+        "checksum": 2898503731,
+        "checksumHex": "ACC3A833"
       },
       {
         "name": "FortTimeOfDayManager",
-        "checksum": 4034469340
+        "checksum": 4034469340,
+        "checksumHex": "F0791DDC"
       },
       {
         "name": "GameModeClass",
-        "checksum": 3576505449
+        "checksum": 3576505449,
+        "checksumHex": "D52D2469"
       },
       {
         "name": "GamePhase",
-        "checksum": 3812596277
+        "checksum": 3812596277,
+        "checksumHex": "E33F9A35"
       },
       {
         "name": "GameSessionID",
-        "checksum": 222187157
+        "checksum": 222187157,
+        "checksumHex": "0D3E4E95"
       },
       {
         "name": "GlobalEnvironmentAbilityActor",
-        "checksum": 466666054
+        "checksum": 466666054,
+        "checksumHex": "1BD0C246"
       },
       {
         "name": "MapInfo",
-        "checksum": 2246666759
+        "checksum": 2246666759,
+        "checksumHex": "85E96A07"
       },
       {
         "name": "MatchState",
-        "checksum": 4269466447
+        "checksum": 4269466447,
+        "checksumHex": "FE7AE34F"
       },
       {
         "name": "MusicManagerSubclass",
-        "checksum": 443145310
+        "checksum": 443145310,
+        "checksumHex": "1A69DC5E"
       },
       {
         "name": "PawnForReplayRelevancy",
-        "checksum": 2701652850
+        "checksum": 2701652850,
+        "checksumHex": "A107F372"
       },
       {
         "name": "PlayerSharedMaxTrapAttributes",
-        "checksum": 23103790
+        "checksum": 23103790,
+        "checksumHex": "0160892E"
       },
       {
         "name": "PlayerSharedMaxTrapAttributes",
-        "checksum": 825160032
+        "checksum": 825160032,
+        "checksumHex": "312EF160"
       },
       {
         "name": "PlayersLeft",
-        "checksum": 3072500117
+        "checksum": 3072500117,
+        "checksumHex": "B722A195"
       },
       {
         "name": "ReplicatedWorldTimeSeconds",
-        "checksum": 2373686367
+        "checksum": 2373686367,
+        "checksumHex": "8D7B945F"
       },
       {
         "name": "SafeZoneIndicator",
-        "checksum": 1537036241
+        "checksum": 1537036241,
+        "checksumHex": "5B9D4FD1"
       },
       {
         "name": "SafeZonePhase",
-        "checksum": 2512056189
+        "checksum": 2512056189,
+        "checksumHex": "95BAEF7D"
       },
       {
         "name": "SafeZonesStartTime",
-        "checksum": 1711709315
+        "checksum": 1711709315,
+        "checksumHex": "66069C83"
       },
       {
         "name": "SpectatorClass",
-        "checksum": 4260609379
+        "checksum": 4260609379,
+        "checksumHex": "FDF3BD63"
       },
       {
         "name": "TeamCount",
-        "checksum": 3491059331
+        "checksum": 3491059331,
+        "checksumHex": "D0155683"
       },
       {
         "name": "TeamFlightPaths",
-        "checksum": 1932122883
+        "checksum": 1932122883,
+        "checksumHex": "7329DB03"
       },
       {
         "name": "TeamSize",
-        "checksum": 2400925623
+        "checksum": 2400925623,
+        "checksumHex": "8F1B37B7"
       },
       {
         "name": "TeamsLeft",
-        "checksum": 938228960
+        "checksum": 938228960,
+        "checksumHex": "37EC3CE0"
       },
       {
         "name": "TimeTillDropEnd",
-        "checksum": 4243045771
+        "checksum": 4243045771,
+        "checksumHex": "FCE7BD8B"
       },
       {
         "name": "TimeTillDropStart",
-        "checksum": 2176022369
+        "checksum": 2176022369,
+        "checksumHex": "81B37761"
       },
       {
         "name": "TimeTillFlightEnd",
-        "checksum": 2301698232
+        "checksum": 2301698232,
+        "checksumHex": "893120B8"
       },
       {
         "name": "UIMapManager",
-        "checksum": 1100988001
+        "checksum": 1100988001,
+        "checksumHex": "419FBE61"
       },
       {
         "name": "WarmupCountdownEndTime",
-        "checksum": 4007856434
+        "checksum": 4007856434,
+        "checksumHex": "EEE30932"
       },
       {
         "name": "WorldManager",
-        "checksum": 1309464832
+        "checksum": 1309464832,
+        "checksumHex": "4E0CD900"
       }
     ]
   },
@@ -271,11 +333,13 @@
     "properties": [
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "ReplicatedMovement",
-        "checksum": 2749104612
+        "checksum": 2749104612,
+        "checksumHex": "A3DC01E4"
       }
     ]
   },
@@ -285,43 +349,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       }
     ]
   },
@@ -331,31 +405,38 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -365,31 +446,38 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -399,7 +487,8 @@
     "properties": [
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       }
     ]
   },
@@ -409,43 +498,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       }
     ]
   },
@@ -455,39 +554,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -497,27 +605,33 @@
     "properties": [
       {
         "name": "AttachComponent",
-        "checksum": 924082277
+        "checksum": 924082277,
+        "checksumHex": "37146065"
       },
       {
         "name": "AttachParent",
-        "checksum": 3846863854
+        "checksum": 3846863854,
+        "checksumHex": "E54A7BEE"
       },
       {
         "name": "AttachSocket",
-        "checksum": 435804554
+        "checksum": 435804554,
+        "checksumHex": "19F9D98A"
       },
       {
         "name": "ParachuteItemDef",
-        "checksum": 3070183005
+        "checksum": 3070183005,
+        "checksumHex": "B6FF465D"
       },
       {
         "name": "PlayerPawn",
-        "checksum": 2275772554
+        "checksum": 2275772554,
+        "checksumHex": "87A5888A"
       },
       {
         "name": "RelativeScale3D",
-        "checksum": 1992268157
+        "checksum": 1992268157,
+        "checksumHex": "76BF997D"
       }
     ]
   },
@@ -527,43 +641,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       }
     ]
   },
@@ -573,35 +697,43 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -611,43 +743,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       }
     ]
   },
@@ -657,43 +799,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       }
     ]
   },
@@ -703,27 +855,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -733,27 +891,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -763,27 +927,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -793,27 +963,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -823,27 +999,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -853,23 +1035,28 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       }
     ]
   },
@@ -879,27 +1066,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -909,23 +1102,28 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       }
     ]
   },
@@ -935,23 +1133,28 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       }
     ]
   },
@@ -961,23 +1164,28 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       }
     ]
   },
@@ -987,23 +1195,28 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       }
     ]
   },
@@ -1013,31 +1226,38 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -1047,7 +1267,8 @@
     "properties": [
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       }
     ]
   },
@@ -1057,7 +1278,8 @@
     "properties": [
       {
         "name": "ActiveInputItem",
-        "checksum": 2338628752
+        "checksum": 2338628752,
+        "checksumHex": "8B64A490"
       }
     ]
   },
@@ -1067,35 +1289,43 @@
     "properties": [
       {
         "name": "AttachedTo",
-        "checksum": 51705181
+        "checksum": 51705181,
+        "checksumHex": "0314F55D"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "bIsInitiallyBuilding",
-        "checksum": 3219241816
+        "checksum": 3219241816,
+        "checksumHex": "BFE1BB58"
       },
       {
         "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "checksum": 2604190565,
+        "checksumHex": "9B38CB65"
       },
       {
         "name": "LaunchedPawn",
-        "checksum": 3345179811
+        "checksum": 3345179811,
+        "checksumHex": "C76364A3"
       },
       {
         "name": "LaunchServerTime",
-        "checksum": 3628004184
+        "checksum": 3628004184,
+        "checksumHex": "D83EF358"
       },
       {
         "name": "Team",
-        "checksum": 354573869
+        "checksum": 354573869,
+        "checksumHex": "15225E2D"
       },
       {
         "name": "TrapData",
-        "checksum": 1779120881
+        "checksum": 1779120881,
+        "checksumHex": "6A0B3AF1"
       }
     ]
   },
@@ -1105,179 +1335,223 @@
     "properties": [
       {
         "name": "AccelerationPack",
-        "checksum": 2751148021
+        "checksum": 2751148021,
+        "checksumHex": "A3FB2FF5"
       },
       {
         "name": "AccelerationZPack",
-        "checksum": 2903149247
+        "checksum": 2903149247,
+        "checksumHex": "AD0A8ABF"
       },
       {
         "name": "AnimMontage",
-        "checksum": 4287769663
+        "checksum": 4287769663,
+        "checksumHex": "FF922C3F"
       },
       {
         "name": "bCanBeDamaged",
-        "checksum": 1648776127
+        "checksum": 1648776127,
+        "checksumHex": "624653BF"
       },
       {
         "name": "bCanBeInterrupted",
-        "checksum": 3881237144
+        "checksum": 3881237144,
+        "checksumHex": "E756FA98"
       },
       {
         "name": "bCanQue",
-        "checksum": 3809269181
+        "checksum": 3809269181,
+        "checksumHex": "E30CD5BD"
       },
       {
         "name": "bInterruptCurrentLine",
-        "checksum": 616363361
+        "checksum": 616363361,
+        "checksumHex": "24BCF561"
       },
       {
         "name": "bIsCrouched",
-        "checksum": 737983904
+        "checksum": 737983904,
+        "checksumHex": "2BFCBDA0"
       },
       {
         "name": "bIsParachuteForcedOpen",
-        "checksum": 4230365908
+        "checksum": 4230365908,
+        "checksumHex": "FC2642D4"
       },
       {
         "name": "bIsParachuteOpen",
-        "checksum": 2097398135
+        "checksum": 2097398135,
+        "checksumHex": "7D03C177"
       },
       {
         "name": "bIsSkydiving",
-        "checksum": 986964207
+        "checksum": 986964207,
+        "checksumHex": "3AD3E0EF"
       },
       {
         "name": "bIsSkydivingFromBus",
-        "checksum": 4139136742
+        "checksum": 4139136742,
+        "checksumHex": "F6B636E6"
       },
       {
         "name": "bIsSlopeSliding",
-        "checksum": 387632358
+        "checksum": 387632358,
+        "checksumHex": "171ACCE6"
       },
       {
         "name": "bIsTargeting",
-        "checksum": 336789266
+        "checksum": 336789266,
+        "checksumHex": "1412FF12"
       },
       {
         "name": "BlendTime",
-        "checksum": 2018381902
+        "checksum": 2018381902,
+        "checksumHex": "784E104E"
       },
       {
         "name": "bPlayBit",
-        "checksum": 4281423177
+        "checksum": 4281423177,
+        "checksumHex": "FF315549"
       },
       {
         "name": "bProxyIsJumpForceApplied",
-        "checksum": 2286453419
+        "checksum": 2286453419,
+        "checksumHex": "884882AB"
       },
       {
         "name": "bServerHasBaseComponent",
-        "checksum": 948192076
+        "checksum": 948192076,
+        "checksumHex": "3884434C"
       },
       {
         "name": "BuildingState",
-        "checksum": 1894220688
+        "checksum": 1894220688,
+        "checksumHex": "70E78390"
       },
       {
         "name": "bWeaponHolstered",
-        "checksum": 1472532622
+        "checksum": 1472532622,
+        "checksumHex": "57C5108E"
       },
       {
         "name": "Controller",
-        "checksum": 1134544246
+        "checksum": 1134544246,
+        "checksumHex": "439FC576"
       },
       {
         "name": "CurrentMovementStyle",
-        "checksum": 2131771821
+        "checksum": 2131771821,
+        "checksumHex": "7F1041AD"
       },
       {
         "name": "CurrentWeapon",
-        "checksum": 4166280574
+        "checksum": 4166280574,
+        "checksumHex": "F854657E"
       },
       {
         "name": "EncryptedPawnReplayData",
-        "checksum": 3069239894
+        "checksum": 3069239894,
+        "checksumHex": "B6F0E256"
       },
       {
         "name": "FeedbackAudioComponent",
-        "checksum": 2894669910
+        "checksum": 2894669910,
+        "checksumHex": "AC892856"
       },
       {
         "name": "ForcePlayBit",
-        "checksum": 3716600989
+        "checksum": 3716600989,
+        "checksumHex": "DD86D49D"
       },
       {
         "name": "Glider",
-        "checksum": 2216194617
+        "checksum": 2216194617,
+        "checksumHex": "84187239"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "IsStopped",
-        "checksum": 2368095229
+        "checksum": 2368095229,
+        "checksumHex": "8D2643FD"
       },
       {
         "name": "JumpFlashCount",
-        "checksum": 3443787697
+        "checksum": 3443787697,
+        "checksumHex": "CD4407B1"
       },
       {
         "name": "MovementBase",
-        "checksum": 2645773312
+        "checksum": 2645773312,
+        "checksumHex": "9DB34C00"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "PackedReplicatedSlopeAngles",
-        "checksum": 163893122
+        "checksum": 163893122,
+        "checksumHex": "09C4CF82"
       },
       {
         "name": "ParachuteAttachment",
-        "checksum": 2245898982
+        "checksum": 2245898982,
+        "checksumHex": "85DDB2E6"
       },
       {
         "name": "PawnMontage",
-        "checksum": 1316577979
+        "checksum": 1316577979,
+        "checksumHex": "4E7962BB"
       },
       {
         "name": "PawnUniqueID",
-        "checksum": 2589469719
+        "checksum": 2589469719,
+        "checksumHex": "9A582C17"
       },
       {
         "name": "Pickaxe",
-        "checksum": 832385590
+        "checksum": 832385590,
+        "checksumHex": "319D3236"
       },
       {
         "name": "PlayerState",
-        "checksum": 3964024390
+        "checksum": 3964024390,
+        "checksumHex": "EC463646"
       },
       {
         "name": "PlayRate",
-        "checksum": 378147694
+        "checksum": 378147694,
+        "checksumHex": "168A136E"
       },
       {
         "name": "RemoteViewPitch",
-        "checksum": 1991026506
+        "checksum": 1991026506,
+        "checksumHex": "76ACA74A"
       },
       {
         "name": "RepAnimMontageStartSection",
-        "checksum": 2109551477
+        "checksum": 2109551477,
+        "checksumHex": "7DBD3375"
       },
       {
         "name": "ReplayViewRotation",
-        "checksum": 223718663
+        "checksum": 223718663,
+        "checksumHex": "0D55AD07"
       },
       {
         "name": "ReplicatedMovementMode",
-        "checksum": 2968399126
+        "checksum": 2968399126,
+        "checksumHex": "B0EE2D16"
       },
       {
         "name": "VocalChords",
-        "checksum": 3673018051
+        "checksum": 3673018051,
+        "checksumHex": "DAEDCEC3"
       }
     ]
   },
@@ -1287,7 +1561,8 @@
     "properties": [
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       }
     ]
   },
@@ -1297,35 +1572,43 @@
     "properties": [
       {
         "name": "LastCenter",
-        "checksum": 3125544095
+        "checksum": 3125544095,
+        "checksumHex": "BA4C049F"
       },
       {
         "name": "LastRadius",
-        "checksum": 1119979651
+        "checksum": 1119979651,
+        "checksumHex": "42C18883"
       },
       {
         "name": "NextCenter",
-        "checksum": 94893030
+        "checksum": 94893030,
+        "checksumHex": "05A7F3E6"
       },
       {
         "name": "NextNextCenter",
-        "checksum": 1682976951
+        "checksum": 1682976951,
+        "checksumHex": "645030B7"
       },
       {
         "name": "NextNextRadius",
-        "checksum": 2878351201
+        "checksum": 2878351201,
+        "checksumHex": "AB902761"
       },
       {
         "name": "NextRadius",
-        "checksum": 3496036759
+        "checksum": 3496036759,
+        "checksumHex": "D0614997"
       },
       {
         "name": "SafeZoneFinishShrinkTime",
-        "checksum": 2611373848
+        "checksum": 2611373848,
+        "checksumHex": "9BA66718"
       },
       {
         "name": "SafeZoneStartShrinkTime",
-        "checksum": 4115127317
+        "checksum": 4115127317,
+        "checksumHex": "F547DC15"
       }
     ]
   },
@@ -1335,19 +1618,23 @@
     "properties": [
       {
         "name": "BalloonFallSpeed",
-        "checksum": 3754425832
+        "checksum": 3754425832,
+        "checksumHex": "DFC7FDE8"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "LandingLocation",
-        "checksum": 4076559660
+        "checksum": 4076559660,
+        "checksumHex": "F2FB5D2C"
       },
       {
         "name": "ReplicatedMovement",
-        "checksum": 2749104612
+        "checksum": 2749104612,
+        "checksumHex": "A3DC01E4"
       }
     ]
   },
@@ -1357,35 +1644,43 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AttachComponent",
-        "checksum": 924082277
+        "checksum": 924082277,
+        "checksumHex": "37146065"
       },
       {
         "name": "AttachParent",
-        "checksum": 3846863854
+        "checksum": 3846863854,
+        "checksumHex": "E54A7BEE"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "RelativeScale3D",
-        "checksum": 1992268157
+        "checksum": 1992268157,
+        "checksumHex": "76BF997D"
       }
     ]
   },
@@ -1395,11 +1690,13 @@
     "properties": [
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "ReplicatedMovement",
-        "checksum": 2749104612
+        "checksum": 2749104612,
+        "checksumHex": "A3DC01E4"
       }
     ]
   },
@@ -1409,39 +1706,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bAlreadySearched",
-        "checksum": 805708689
+        "checksum": 805708689,
+        "checksumHex": "30062391"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bDestroyOnPlayerBuildingPlacement",
-        "checksum": 1427628438
+        "checksum": 1427628438,
+        "checksumHex": "5517E196"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -1451,23 +1757,28 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bAlreadySearched",
-        "checksum": 805708689
+        "checksum": 805708689,
+        "checksumHex": "30062391"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -1477,31 +1788,38 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bCanBeDamaged",
-        "checksum": 1648776127
+        "checksum": 1648776127,
+        "checksumHex": "624653BF"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -1511,27 +1829,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -1541,47 +1865,58 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ResourceType",
-        "checksum": 1603263899
+        "checksum": 1603263899,
+        "checksumHex": "5F8FDD9B"
       },
       {
         "name": "TextureData",
-        "checksum": 1191174783
+        "checksum": 1191174783,
+        "checksumHex": "46FFE27F"
       }
     ]
   },
@@ -1591,19 +1926,23 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -1613,47 +1952,58 @@
     "properties": [
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2250888588
+        "checksum": 2250888588,
+        "checksumHex": "8629D58C"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "bCollisionBlockedByPawns",
-        "checksum": 1135743666
+        "checksum": 1135743666,
+        "checksumHex": "43B212B2"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "bIsInitiallyBuilding",
-        "checksum": 3219241816
+        "checksum": 3219241816,
+        "checksumHex": "BFE1BB58"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "checksum": 2604190565,
+        "checksumHex": "9B38CB65"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "Team",
-        "checksum": 354573869
+        "checksum": 354573869,
+        "checksumHex": "15225E2D"
       }
     ]
   },
@@ -1663,47 +2013,58 @@
     "properties": [
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2250888588
+        "checksum": 2250888588,
+        "checksumHex": "8629D58C"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsInitiallyBuilding",
-        "checksum": 3219241816
+        "checksum": 3219241816,
+        "checksumHex": "BFE1BB58"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "checksum": 2604190565,
+        "checksumHex": "9B38CB65"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "Team",
-        "checksum": 354573869
+        "checksum": 354573869,
+        "checksumHex": "15225E2D"
       }
     ]
   },
@@ -1713,43 +2074,53 @@
     "properties": [
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "bIsInitiallyBuilding",
-        "checksum": 3219241816
+        "checksum": 3219241816,
+        "checksumHex": "BFE1BB58"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "checksum": 2604190565,
+        "checksumHex": "9B38CB65"
       },
       {
         "name": "EditingPlayer",
-        "checksum": 794637470
+        "checksum": 794637470,
+        "checksumHex": "2F5D349E"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "Team",
-        "checksum": 354573869
+        "checksum": 354573869,
+        "checksumHex": "15225E2D"
       }
     ]
   },
@@ -1759,35 +2130,43 @@
     "properties": [
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "bIsInitiallyBuilding",
-        "checksum": 3219241816
+        "checksum": 3219241816,
+        "checksumHex": "BFE1BB58"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "checksum": 2604190565,
+        "checksumHex": "9B38CB65"
       },
       {
         "name": "EditingPlayer",
-        "checksum": 794637470
+        "checksum": 794637470,
+        "checksumHex": "2F5D349E"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "Team",
-        "checksum": 354573869
+        "checksum": 354573869,
+        "checksumHex": "15225E2D"
       }
     ]
   },
@@ -1797,43 +2176,53 @@
     "properties": [
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "bIsInitiallyBuilding",
-        "checksum": 3219241816
+        "checksum": 3219241816,
+        "checksumHex": "BFE1BB58"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "checksum": 2604190565,
+        "checksumHex": "9B38CB65"
       },
       {
         "name": "EditingPlayer",
-        "checksum": 794637470
+        "checksum": 794637470,
+        "checksumHex": "2F5D349E"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "Team",
-        "checksum": 354573869
+        "checksum": 354573869,
+        "checksumHex": "15225E2D"
       }
     ]
   },
@@ -1843,43 +2232,53 @@
     "properties": [
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsInitiallyBuilding",
-        "checksum": 3219241816
+        "checksum": 3219241816,
+        "checksumHex": "BFE1BB58"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "bUnderConstruction",
-        "checksum": 2604190565
+        "checksum": 2604190565,
+        "checksumHex": "9B38CB65"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "Team",
-        "checksum": 354573869
+        "checksum": 354573869,
+        "checksumHex": "15225E2D"
       }
     ]
   },
@@ -1889,43 +2288,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       }
     ]
   },
@@ -1935,39 +2344,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bCanBeDamaged",
-        "checksum": 1648776127
+        "checksum": 1648776127,
+        "checksumHex": "624653BF"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       },
       {
         "name": "TextureData",
-        "checksum": 1191174783
+        "checksum": 1191174783,
+        "checksumHex": "46FFE27F"
       }
     ]
   },
@@ -1977,27 +2395,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -2007,35 +2431,43 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       }
     ]
   },
@@ -2045,35 +2477,43 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bCanBeDamaged",
-        "checksum": 1648776127
+        "checksum": 1648776127,
+        "checksumHex": "624653BF"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       }
     ]
   },
@@ -2083,27 +2523,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       }
     ]
   },
@@ -2113,47 +2559,58 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "TextureData",
-        "checksum": 1191174783
+        "checksum": 1191174783,
+        "checksumHex": "46FFE27F"
       },
       {
         "name": "TextureData",
-        "checksum": 4265837850
+        "checksum": 4265837850,
+        "checksumHex": "FE43851A"
       }
     ]
   },
@@ -2163,43 +2620,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "AttachmentPlacementBlockingActors",
-        "checksum": 2964843205
+        "checksum": 2964843205,
+        "checksumHex": "B0B7EAC5"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "TextureData",
-        "checksum": 4265837850
+        "checksum": 4265837850,
+        "checksumHex": "FE43851A"
       }
     ]
   },
@@ -2209,39 +2676,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "ResourceType",
-        "checksum": 1603263899
+        "checksum": 1603263899,
+        "checksumHex": "5F8FDD9B"
       },
       {
         "name": "TextureData",
-        "checksum": 1191174783
+        "checksum": 1191174783,
+        "checksumHex": "46FFE27F"
       },
       {
         "name": "TextureData",
-        "checksum": 4265837850
+        "checksum": 4265837850,
+        "checksumHex": "FE43851A"
       }
     ]
   },
@@ -2251,55 +2727,68 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bCanBeDamaged",
-        "checksum": 1648776127
+        "checksum": 1648776127,
+        "checksumHex": "624653BF"
       },
       {
         "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
+        "checksum": 3873702948,
+        "checksumHex": "E6E40424"
       },
       {
         "name": "bDoorOpen",
-        "checksum": 3169319315
+        "checksum": 3169319315,
+        "checksumHex": "BCE7F993"
       },
       {
         "name": "bMirrored",
-        "checksum": 2367764837
+        "checksum": 2367764837,
+        "checksumHex": "8D213965"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "DoorDesiredRotOffset",
-        "checksum": 293489676
+        "checksum": 293489676,
+        "checksumHex": "117E4C0C"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       },
       {
         "name": "ResourceType",
-        "checksum": 1603263899
+        "checksum": 1603263899,
+        "checksumHex": "5F8FDD9B"
       },
       {
         "name": "TextureData",
-        "checksum": 1191174783
+        "checksum": 1191174783,
+        "checksumHex": "46FFE27F"
       },
       {
         "name": "TextureData",
-        "checksum": 4265837850
+        "checksum": 4265837850,
+        "checksumHex": "FE43851A"
       }
     ]
   },
@@ -2309,47 +2798,58 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
+        "checksum": 3873702948,
+        "checksumHex": "E6E40424"
       },
       {
         "name": "bDoorOpen",
-        "checksum": 3169319315
+        "checksum": 3169319315,
+        "checksumHex": "BCE7F993"
       },
       {
         "name": "bMirrored",
-        "checksum": 2367764837
+        "checksum": 2367764837,
+        "checksumHex": "8D213965"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "DoorDesiredRotOffset",
-        "checksum": 293489676
+        "checksum": 293489676,
+        "checksumHex": "117E4C0C"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       },
       {
         "name": "TextureData",
-        "checksum": 1191174783
+        "checksum": 1191174783,
+        "checksumHex": "46FFE27F"
       },
       {
         "name": "TextureData",
-        "checksum": 4265837850
+        "checksum": 4265837850,
+        "checksumHex": "FE43851A"
       }
     ]
   },
@@ -2359,39 +2859,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
+        "checksum": 3873702948,
+        "checksumHex": "E6E40424"
       },
       {
         "name": "bDoorOpen",
-        "checksum": 3169319315
+        "checksum": 3169319315,
+        "checksumHex": "BCE7F993"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "DoorDesiredRotOffset",
-        "checksum": 293489676
+        "checksum": 293489676,
+        "checksumHex": "117E4C0C"
       },
       {
         "name": "TextureData",
-        "checksum": 1191174783
+        "checksum": 1191174783,
+        "checksumHex": "46FFE27F"
       },
       {
         "name": "TextureData",
-        "checksum": 4265837850
+        "checksum": 4265837850,
+        "checksumHex": "FE43851A"
       }
     ]
   },
@@ -2401,39 +2910,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AbilitySystemComponent",
-        "checksum": 2334113147
+        "checksum": 2334113147,
+        "checksumHex": "8B1FBD7B"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bCanBeDamaged",
-        "checksum": 1648776127
+        "checksum": 1648776127,
+        "checksumHex": "624653BF"
       },
       {
         "name": "BuildingAttributeSet",
-        "checksum": 3253733464
+        "checksum": 3253733464,
+        "checksumHex": "C1F00858"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "TextureData",
-        "checksum": 1191174783
+        "checksum": 1191174783,
+        "checksumHex": "46FFE27F"
       },
       {
         "name": "TextureData",
-        "checksum": 4265837850
+        "checksum": 4265837850,
+        "checksumHex": "FE43851A"
       }
     ]
   },
@@ -2443,31 +2961,38 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
+        "checksum": 3873702948,
+        "checksumHex": "E6E40424"
       },
       {
         "name": "bDoorOpen",
-        "checksum": 3169319315
+        "checksum": 3169319315,
+        "checksumHex": "BCE7F993"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "DoorDesiredRotOffset",
-        "checksum": 293489676
+        "checksum": 293489676,
+        "checksumHex": "117E4C0C"
       }
     ]
   },
@@ -2477,39 +3002,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bDoorCollisionDisabled",
-        "checksum": 3873702948
+        "checksum": 3873702948,
+        "checksumHex": "E6E40424"
       },
       {
         "name": "bDoorOpen",
-        "checksum": 3169319315
+        "checksum": 3169319315,
+        "checksumHex": "BCE7F993"
       },
       {
         "name": "bMirrored",
-        "checksum": 2367764837
+        "checksum": 2367764837,
+        "checksumHex": "8D213965"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "DoorDesiredRotOffset",
-        "checksum": 293489676
+        "checksum": 293489676,
+        "checksumHex": "117E4C0C"
       },
       {
         "name": "ReplicatedDrawScale3D",
-        "checksum": 692768232
+        "checksum": 692768232,
+        "checksumHex": "294ACDE8"
       }
     ]
   },
@@ -2519,39 +3053,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "AttachedTo",
-        "checksum": 51705181
+        "checksum": 51705181,
+        "checksumHex": "0314F55D"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "bEditorPlaced",
-        "checksum": 3640876186
+        "checksum": 3640876186,
+        "checksumHex": "D9035C9A"
       },
       {
         "name": "bIsInitiallyBuilding",
-        "checksum": 3219241816
+        "checksum": 3219241816,
+        "checksumHex": "BFE1BB58"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "Team",
-        "checksum": 354573869
+        "checksum": 354573869,
+        "checksumHex": "15225E2D"
       },
       {
         "name": "TrapData",
-        "checksum": 1779120881
+        "checksum": 1779120881,
+        "checksumHex": "6A0B3AF1"
       }
     ]
   },
@@ -2561,15 +3104,18 @@
     "properties": [
       {
         "name": "PlayerState",
-        "checksum": 3964024390
+        "checksum": 3964024390,
+        "checksumHex": "EC463646"
       },
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       },
       {
         "name": "SpawnLocation",
-        "checksum": 1139493118
+        "checksum": 1139493118,
+        "checksumHex": "43EB48FE"
       }
     ]
   },
@@ -2579,23 +3125,28 @@
     "properties": [
       {
         "name": "bHeightFogEnabled",
-        "checksum": 2001440707
+        "checksum": 2001440707,
+        "checksumHex": "774B8FC3"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "TimeOfDay",
-        "checksum": 2157960238
+        "checksum": 2157960238,
+        "checksumHex": "809FDC2E"
       },
       {
         "name": "TimeOfDayReplicated",
-        "checksum": 522261181
+        "checksum": 522261181,
+        "checksumHex": "1F2112BD"
       },
       {
         "name": "TimeOfDaySpeed",
-        "checksum": 2756953436
+        "checksum": 2756953436,
+        "checksumHex": "A453C55C"
       }
     ]
   },
@@ -2605,39 +3156,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       }
     ]
   },
@@ -2647,39 +3207,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       }
     ]
   },
@@ -2689,39 +3258,48 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "ItemDefinition",
-        "checksum": 979059316
+        "checksum": 979059316,
+        "checksumHex": "3A5B4274"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       }
     ]
   },
@@ -2731,47 +3309,58 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       }
     ]
   },
@@ -2781,55 +3370,68 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "bIsReloadingWeapon",
-        "checksum": 1208259079
+        "checksum": 1208259079,
+        "checksumHex": "48049207"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       }
     ]
   },
@@ -2839,47 +3441,58 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       }
     ]
   },
@@ -2889,55 +3502,68 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "bIsReloadingWeapon",
-        "checksum": 1208259079
+        "checksum": 1208259079,
+        "checksumHex": "48049207"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       }
     ]
   },
@@ -2947,27 +3573,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -2977,23 +3609,28 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       }
     ]
   },
@@ -3003,23 +3640,28 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       }
     ]
   },
@@ -3029,27 +3671,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -3059,27 +3707,33 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1681936127
+        "checksum": 1681936127,
+        "checksumHex": "64404EFF"
       },
       {
         "name": "B",
-        "checksum": 1721649624
+        "checksum": 1721649624,
+        "checksumHex": "669E49D8"
       },
       {
         "name": "C",
-        "checksum": 1730917573
+        "checksum": 1730917573,
+        "checksumHex": "672BB4C5"
       },
       {
         "name": "D",
-        "checksum": 1663190934
+        "checksum": 1663190934,
+        "checksumHex": "63224796"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "ReplicatedMIC",
-        "checksum": 879364213
+        "checksum": 879364213,
+        "checksumHex": "346A0875"
       }
     ]
   },
@@ -3089,7 +3743,8 @@
     "properties": [
       {
         "name": "RequestedAnimation",
-        "checksum": 2139469370
+        "checksum": 2139469370,
+        "checksumHex": "7F85B63A"
       }
     ]
   },
@@ -3099,19 +3754,23 @@
     "properties": [
       {
         "name": "AvatarActor",
-        "checksum": 1829222345
+        "checksum": 1829222345,
+        "checksumHex": "6D07B7C9"
       },
       {
         "name": "OwnerActor",
-        "checksum": 3069409379
+        "checksum": 3069409379,
+        "checksumHex": "B6F37863"
       },
       {
         "name": "SpawnedAttributes",
-        "checksum": 3229084341
+        "checksum": 3229084341,
+        "checksumHex": "C077EAB5"
       },
       {
         "name": "SpawnedAttributes",
-        "checksum": 3532347751
+        "checksum": 3532347751,
+        "checksumHex": "D28B5967"
       }
     ]
   },
@@ -3121,27 +3780,33 @@
     "properties": [
       {
         "name": "AvatarActor",
-        "checksum": 1829222345
+        "checksum": 1829222345,
+        "checksumHex": "6D07B7C9"
       },
       {
         "name": "OwnerActor",
-        "checksum": 3069409379
+        "checksum": 3069409379,
+        "checksumHex": "B6F37863"
       },
       {
         "name": "SimulatedTasks",
-        "checksum": 1851923830
+        "checksum": 1851923830,
+        "checksumHex": "6E621D76"
       },
       {
         "name": "SimulatedTasks",
-        "checksum": 2688965388
+        "checksum": 2688965388,
+        "checksumHex": "A0465B0C"
       },
       {
         "name": "SpawnedAttributes",
-        "checksum": 3229084341
+        "checksum": 3229084341,
+        "checksumHex": "C077EAB5"
       },
       {
         "name": "SpawnedAttributes",
-        "checksum": 3532347751
+        "checksum": 3532347751,
+        "checksumHex": "D28B5967"
       }
     ]
   },
@@ -3151,11 +3816,13 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 1180301697
+        "checksum": 1180301697,
+        "checksumHex": "4659F981"
       },
       {
         "name": "CurrentValue",
-        "checksum": 473524852
+        "checksum": 473524852,
+        "checksumHex": "1C396A74"
       }
     ]
   },
@@ -3165,43 +3832,53 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 1071507488
+        "checksum": 1071507488,
+        "checksumHex": "3FDDE820"
       },
       {
         "name": "BaseValue",
-        "checksum": 2223735173
+        "checksum": 2223735173,
+        "checksumHex": "848B8185"
       },
       {
         "name": "BaseValue",
-        "checksum": 3129524333
+        "checksum": 3129524333,
+        "checksumHex": "BA88C06D"
       },
       {
         "name": "BaseValue",
-        "checksum": 4099898518
+        "checksum": 4099898518,
+        "checksumHex": "F45F7C96"
       },
       {
         "name": "bIsClamped",
-        "checksum": 397345901
+        "checksum": 397345901,
+        "checksumHex": "17AF046D"
       },
       {
         "name": "CurrentValue",
-        "checksum": 159608710
+        "checksum": 159608710,
+        "checksumHex": "09836F86"
       },
       {
         "name": "CurrentValue",
-        "checksum": 603739645
+        "checksum": 603739645,
+        "checksumHex": "23FC55FD"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2517341703
+        "checksum": 2517341703,
+        "checksumHex": "960B9607"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3264251261
+        "checksum": 3264251261,
+        "checksumHex": "C290857D"
       },
       {
         "name": "Maximum",
-        "checksum": 2160711052
+        "checksum": 2160711052,
+        "checksumHex": "80C9D58C"
       }
     ]
   },
@@ -3211,27 +3888,33 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 3129524333
+        "checksum": 3129524333,
+        "checksumHex": "BA88C06D"
       },
       {
         "name": "BaseValue",
-        "checksum": 4099898518
+        "checksum": 4099898518,
+        "checksumHex": "F45F7C96"
       },
       {
         "name": "bIsClamped",
-        "checksum": 397345901
+        "checksum": 397345901,
+        "checksumHex": "17AF046D"
       },
       {
         "name": "CurrentValue",
-        "checksum": 159608710
+        "checksum": 159608710,
+        "checksumHex": "09836F86"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3264251261
+        "checksum": 3264251261,
+        "checksumHex": "C290857D"
       },
       {
         "name": "Maximum",
-        "checksum": 2160711052
+        "checksum": 2160711052,
+        "checksumHex": "80C9D58C"
       }
     ]
   },
@@ -3241,11 +3924,13 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 3637519040
+        "checksum": 3637519040,
+        "checksumHex": "D8D022C0"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2210809203
+        "checksum": 2210809203,
+        "checksumHex": "83C64573"
       }
     ]
   },
@@ -3255,15 +3940,18 @@
     "properties": [
       {
         "name": "AttachParent",
-        "checksum": 4168371630
+        "checksum": 4168371630,
+        "checksumHex": "F8744DAE"
       },
       {
         "name": "bIsActive",
-        "checksum": 2967469237
+        "checksum": 2967469237,
+        "checksumHex": "B0DFFCB5"
       },
       {
         "name": "bIsHealthBarVisible",
-        "checksum": 194626888
+        "checksum": 194626888,
+        "checksumHex": "0B99C548"
       }
     ]
   },
@@ -3273,7 +3961,8 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -3283,87 +3972,108 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 3280393308
+        "checksum": 3280393308,
+        "checksumHex": "C386D45C"
       },
       {
         "name": "AlterationDefinitions",
-        "checksum": 2277793310
+        "checksum": 2277793310,
+        "checksumHex": "87C45E1E"
       },
       {
         "name": "AlterationInstances",
-        "checksum": 4116282646
+        "checksum": 4116282646,
+        "checksumHex": "F5597D16"
       },
       {
         "name": "B",
-        "checksum": 3243823995
+        "checksum": 3243823995,
+        "checksumHex": "C158D37B"
       },
       {
         "name": "bIsDirty",
-        "checksum": 1059942404
+        "checksum": 1059942404,
+        "checksumHex": "3F2D7004"
       },
       {
         "name": "bIsReplicatedCopy",
-        "checksum": 2051294057
+        "checksum": 2051294057,
+        "checksumHex": "7A444369"
       },
       {
         "name": "C",
-        "checksum": 3236769382
+        "checksum": 3236769382,
+        "checksumHex": "C0ED2E66"
       },
       {
         "name": "Count",
-        "checksum": 843381270
+        "checksum": 843381270,
+        "checksumHex": "3244FA16"
       },
       {
         "name": "D",
-        "checksum": 3303333173
+        "checksum": 3303333173,
+        "checksumHex": "C4E4DD35"
       },
       {
         "name": "Durability",
-        "checksum": 637617030
+        "checksum": 637617030,
+        "checksumHex": "26014386"
       },
       {
         "name": "GenericAttributeValue",
-        "checksum": 1289022563
+        "checksum": 1289022563,
+        "checksumHex": "4CD4EC63"
       },
       {
         "name": "Handle",
-        "checksum": 3541909752
+        "checksum": 3541909752,
+        "checksumHex": "D31D40F8"
       },
       {
         "name": "HeroType",
-        "checksum": 4161371673
+        "checksum": 4161371673,
+        "checksumHex": "F8097E19"
       },
       {
         "name": "inventory_overflow_date",
-        "checksum": 2542414030
+        "checksum": 2542414030,
+        "checksumHex": "978A28CE"
       },
       {
         "name": "ItemDefinition",
-        "checksum": 979059316
+        "checksum": 979059316,
+        "checksumHex": "3A5B4274"
       },
       {
         "name": "ItemSource",
-        "checksum": 2154753494
+        "checksum": 2154753494,
+        "checksumHex": "806EEDD6"
       },
       {
         "name": "Level",
-        "checksum": 3376171892
+        "checksum": 3376171892,
+        "checksumHex": "C93C4B74"
       },
       {
         "name": "LoadedAmmo",
-        "checksum": 1055517320
+        "checksum": 1055517320,
+        "checksumHex": "3EE9EA88"
       },
       {
         "name": "ParentInventory",
-        "checksum": 2907643569
+        "checksum": 2907643569,
+        "checksumHex": "AD4F1EB1"
       },
       {
         "name": "PlayerName",
-        "checksum": 795805955
+        "checksum": 795805955,
+        "checksumHex": "2F6F0903"
       },
       {
         "name": "StateValues",
-        "checksum": 696823727
+        "checksum": 696823727,
+        "checksumHex": "2988AFAF"
       }
     ]
   },
@@ -3373,51 +4083,63 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 71786136
+        "checksum": 71786136,
+        "checksumHex": "04475E98"
       },
       {
         "name": "BaseValue",
-        "checksum": 995985305
+        "checksum": 995985305,
+        "checksumHex": "3B5D8799"
       },
       {
         "name": "BaseValue",
-        "checksum": 1962688437
+        "checksum": 1962688437,
+        "checksumHex": "74FC3FB5"
       },
       {
         "name": "BaseValue",
-        "checksum": 3645467085
+        "checksum": 3645467085,
+        "checksumHex": "D94969CD"
       },
       {
         "name": "BaseValue",
-        "checksum": 3794538358
+        "checksum": 3794538358,
+        "checksumHex": "E22C0F76"
       },
       {
         "name": "BaseValue",
-        "checksum": 3847469696
+        "checksum": 3847469696,
+        "checksumHex": "E553BA80"
       },
       {
         "name": "CurrentValue",
-        "checksum": 37582613
+        "checksum": 37582613,
+        "checksumHex": "023D7715"
       },
       {
         "name": "CurrentValue",
-        "checksum": 230467837
+        "checksum": 230467837,
+        "checksumHex": "0DBCA8FD"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2630715400
+        "checksum": 2630715400,
+        "checksumHex": "9CCD8808"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2994605179
+        "checksum": 2994605179,
+        "checksumHex": "B27E0C7B"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3267718486
+        "checksum": 3267718486,
+        "checksumHex": "C2C56D56"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3832700412
+        "checksum": 3832700412,
+        "checksumHex": "E4725DFC"
       }
     ]
   },
@@ -3427,19 +4149,23 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 2482511721
+        "checksum": 2482511721,
+        "checksumHex": "93F81F69"
       },
       {
         "name": "BaseValue",
-        "checksum": 2747373383
+        "checksum": 2747373383,
+        "checksumHex": "A3C19747"
       },
       {
         "name": "CurrentValue",
-        "checksum": 64988675
+        "checksum": 64988675,
+        "checksumHex": "03DFA603"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2234127135
+        "checksum": 2234127135,
+        "checksumHex": "852A131F"
       }
     ]
   },
@@ -3449,39 +4175,48 @@
     "properties": [
       {
         "name": "bIsCritical",
-        "checksum": 473365748
+        "checksum": 473365748,
+        "checksumHex": "1C36FCF4"
       },
       {
         "name": "bIsFatal",
-        "checksum": 1911304158
+        "checksum": 1911304158,
+        "checksumHex": "71EC2FDE"
       },
       {
         "name": "bIsShield",
-        "checksum": 575003955
+        "checksum": 575003955,
+        "checksumHex": "2245DD33"
       },
       {
         "name": "bIsShieldDestroyed",
-        "checksum": 1804014013
+        "checksum": 1804014013,
+        "checksumHex": "6B8711BD"
       },
       {
         "name": "bWeaponActivate",
-        "checksum": 3000223507
+        "checksum": 3000223507,
+        "checksumHex": "B2D3C713"
       },
       {
         "name": "HitActor",
-        "checksum": 4234963737
+        "checksum": 4234963737,
+        "checksumHex": "FC6C6B19"
       },
       {
         "name": "Location",
-        "checksum": 1479569720
+        "checksum": 1479569720,
+        "checksumHex": "58307138"
       },
       {
         "name": "Magnitude",
-        "checksum": 1694685231
+        "checksum": 1694685231,
+        "checksumHex": "6502D82F"
       },
       {
         "name": "Normal",
-        "checksum": 391863550
+        "checksum": 391863550,
+        "checksumHex": "175B5CFE"
       }
     ]
   },
@@ -3491,51 +4226,63 @@
     "properties": [
       {
         "name": "AbilityLevel",
-        "checksum": 1483881693
+        "checksum": 1483881693,
+        "checksumHex": "58723CDD"
       },
       {
         "name": "AggregatedSourceTags",
-        "checksum": 136675807
+        "checksum": 136675807,
+        "checksumHex": "082581DF"
       },
       {
         "name": "AggregatedTargetTags",
-        "checksum": 2301677359
+        "checksum": 2301677359,
+        "checksumHex": "8930CF2F"
       },
       {
         "name": "Attribute",
-        "checksum": 2467712061
+        "checksum": 2467712061,
+        "checksumHex": "93164C3D"
       },
       {
         "name": "AttributeName",
-        "checksum": 1408090502
+        "checksum": 1408090502,
+        "checksumHex": "53EDC186"
       },
       {
         "name": "AttributeOwner",
-        "checksum": 2098951271
+        "checksum": 2098951271,
+        "checksumHex": "7D1B7467"
       },
       {
         "name": "Def",
-        "checksum": 32800255
+        "checksum": 32800255,
+        "checksumHex": "01F47DFF"
       },
       {
         "name": "EffectContext",
-        "checksum": 2005005840
+        "checksum": 2005005840,
+        "checksumHex": "7781F610"
       },
       {
         "name": "Level",
-        "checksum": 1038270982
+        "checksum": 1038270982,
+        "checksumHex": "3DE2C206"
       },
       {
         "name": "ModifiedAttributes",
-        "checksum": 693664205
+        "checksum": 693664205,
+        "checksumHex": "295879CD"
       },
       {
         "name": "PredictionKey",
-        "checksum": 3275717157
+        "checksum": 3275717157,
+        "checksumHex": "C33F7A25"
       },
       {
         "name": "TotalMagnitude",
-        "checksum": 66305807
+        "checksum": 66305807,
+        "checksumHex": "03F3BF0F"
       }
     ]
   },
@@ -3545,15 +4292,18 @@
     "properties": [
       {
         "name": "GameplayCueParameters",
-        "checksum": 1432603750
+        "checksum": 1432603750,
+        "checksumHex": "5563CC66"
       },
       {
         "name": "GameplayCueTag",
-        "checksum": 3549897486
+        "checksum": 3549897486,
+        "checksumHex": "D397230E"
       },
       {
         "name": "PredictionKey",
-        "checksum": 3275717157
+        "checksum": 3275717157,
+        "checksumHex": "C33F7A25"
       }
     ]
   },
@@ -3563,79 +4313,98 @@
     "properties": [
       {
         "name": "bHasFinishedLoading",
-        "checksum": 3946197037
+        "checksum": 3946197037,
+        "checksumHex": "EB36302D"
       },
       {
         "name": "bHasStartedPlaying",
-        "checksum": 4232668705
+        "checksum": 4232668705,
+        "checksumHex": "FC496621"
       },
       {
         "name": "bInAircraft",
-        "checksum": 464412892
+        "checksum": 464412892,
+        "checksumHex": "1BAE60DC"
       },
       {
         "name": "bOnlySpectator",
-        "checksum": 2951096964
+        "checksum": 2951096964,
+        "checksumHex": "AFE62A84"
       },
       {
         "name": "CharacterParts",
-        "checksum": 1866355491
+        "checksum": 1866355491,
+        "checksumHex": "6F3E5323"
       },
       {
         "name": "CharacterParts",
-        "checksum": 3615634502
+        "checksum": 3615634502,
+        "checksumHex": "D7823446"
       },
       {
         "name": "HeroType",
-        "checksum": 887311254
+        "checksum": 887311254,
+        "checksumHex": "34E34B96"
       },
       {
         "name": "NumRejoins",
-        "checksum": 3922804274
+        "checksum": 3922804274,
+        "checksumHex": "E9D13E32"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "PartyOwnerUniqueId",
-        "checksum": 3256084581
+        "checksum": 3256084581,
+        "checksumHex": "C213E865"
       },
       {
         "name": "Ping",
-        "checksum": 3474348186
+        "checksum": 3474348186,
+        "checksumHex": "CF16589A"
       },
       {
         "name": "Platform",
-        "checksum": 2367070105
+        "checksum": 2367070105,
+        "checksumHex": "8D169F99"
       },
       {
         "name": "PlayerID",
-        "checksum": 2396673102
+        "checksum": 2396673102,
+        "checksumHex": "8EDA544E"
       },
       {
         "name": "PlayerNamePrivate",
-        "checksum": 3040447831
+        "checksum": 3040447831,
+        "checksumHex": "B5398D57"
       },
       {
         "name": "PlayerRole",
-        "checksum": 327025759
+        "checksum": 327025759,
+        "checksumHex": "137E045F"
       },
       {
         "name": "PlayerTeamPrivate",
-        "checksum": 756921039
+        "checksum": 756921039,
+        "checksumHex": "2D1DB2CF"
       },
       {
         "name": "SquadId",
-        "checksum": 3738570899
+        "checksum": 3738570899,
+        "checksumHex": "DED61093"
       },
       {
         "name": "TeamIndex",
-        "checksum": 1388148019
+        "checksum": 1388148019,
+        "checksumHex": "52BD7533"
       },
       {
         "name": "UniqueId",
-        "checksum": 1496955607
+        "checksum": 1496955607,
+        "checksumHex": "5939BAD7"
       }
     ]
   },
@@ -3645,123 +4414,153 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 131789079
+        "checksum": 131789079,
+        "checksumHex": "07DAF117"
       },
       {
         "name": "A",
-        "checksum": 648165200
+        "checksum": 648165200,
+        "checksumHex": "26A23750"
       },
       {
         "name": "AcceptedItemTypes",
-        "checksum": 158174826
+        "checksum": 158174826,
+        "checksumHex": "096D8E6A"
       },
       {
         "name": "AcceptedItemTypes",
-        "checksum": 1159059416
+        "checksum": 1159059416,
+        "checksumHex": "4515D7D8"
       },
       {
         "name": "AcceptedItemTypes",
-        "checksum": 2413236393
+        "checksum": 2413236393,
+        "checksumHex": "8FD710A9"
       },
       {
         "name": "AcceptedItemTypes",
-        "checksum": 3484569414
+        "checksum": 3484569414,
+        "checksumHex": "CFB24F46"
       },
       {
         "name": "B",
-        "checksum": 84211248
+        "checksum": 84211248,
+        "checksumHex": "0504F630"
       },
       {
         "name": "B",
-        "checksum": 612118647
+        "checksum": 612118647,
+        "checksumHex": "247C3077"
       },
       {
         "name": "bEnabled",
-        "checksum": 1563757918
+        "checksum": 1563757918,
+        "checksumHex": "5D350D5E"
       },
       {
         "name": "bEnabled",
-        "checksum": 3166622266
+        "checksum": 3166622266,
+        "checksumHex": "BCBED23A"
       },
       {
         "name": "bStaticSlot",
-        "checksum": 1668631791
+        "checksum": 1668631791,
+        "checksumHex": "63754CEF"
       },
       {
         "name": "bStaticSlot",
-        "checksum": 2293534092
+        "checksum": 2293534092,
+        "checksumHex": "88B48D8C"
       },
       {
         "name": "C",
-        "checksum": 78711597
+        "checksum": 78711597,
+        "checksumHex": "04B10B2D"
       },
       {
         "name": "C",
-        "checksum": 633982314
+        "checksum": 633982314,
+        "checksumHex": "25C9CD6A"
       },
       {
         "name": "CurrentFocusedSlot",
-        "checksum": 1708216139
+        "checksum": 1708216139,
+        "checksumHex": "65D14F4B"
       },
       {
         "name": "CurrentFocusedSlot",
-        "checksum": 2083657212
+        "checksum": 2083657212,
+        "checksumHex": "7C3215FC"
       },
       {
         "name": "D",
-        "checksum": 12122238
+        "checksum": 12122238,
+        "checksumHex": "00B8F87E"
       },
       {
         "name": "D",
-        "checksum": 566246969
+        "checksum": 566246969,
+        "checksumHex": "21C03E39"
       },
       {
         "name": "DefaultItem",
-        "checksum": 1939334969
+        "checksum": 1939334969,
+        "checksumHex": "7397E739"
       },
       {
         "name": "DefaultItem",
-        "checksum": 4078572138
+        "checksum": 4078572138,
+        "checksumHex": "F31A126A"
       },
       {
         "name": "Items",
-        "checksum": 1868161123
+        "checksum": 1868161123,
+        "checksumHex": "6F59E063"
       },
       {
         "name": "Items",
-        "checksum": 3996189313
+        "checksum": 3996189313,
+        "checksumHex": "EE310281"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "PreviousFocusedSlot",
-        "checksum": 1378957264
+        "checksum": 1378957264,
+        "checksumHex": "523137D0"
       },
       {
         "name": "PreviousFocusedSlot",
-        "checksum": 2726814330
+        "checksum": 2726814330,
+        "checksumHex": "A287E27A"
       },
       {
         "name": "QuickbarSlots",
-        "checksum": 1787555836
+        "checksum": 1787555836,
+        "checksumHex": "6A8BEFFC"
       },
       {
         "name": "QuickbarSlots",
-        "checksum": 2888370987
+        "checksum": 2888370987,
+        "checksumHex": "AC290B2B"
       },
       {
         "name": "SecondaryFocusedSlot",
-        "checksum": 2230898889
+        "checksum": 2230898889,
+        "checksumHex": "84F8D0C9"
       },
       {
         "name": "Slots",
-        "checksum": 1479104061
+        "checksum": 1479104061,
+        "checksumHex": "5829563D"
       },
       {
         "name": "Slots",
-        "checksum": 1546992039
+        "checksum": 1546992039,
+        "checksumHex": "5C3539A7"
       }
     ]
   },
@@ -3771,99 +4570,123 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 171156052
+        "checksum": 171156052,
+        "checksumHex": "0A33A254"
       },
       {
         "name": "BaseValue",
-        "checksum": 350622687
+        "checksum": 350622687,
+        "checksumHex": "14E613DF"
       },
       {
         "name": "BaseValue",
-        "checksum": 1100951338
+        "checksum": 1100951338,
+        "checksumHex": "419F2F2A"
       },
       {
         "name": "BaseValue",
-        "checksum": 2096426353
+        "checksum": 2096426353,
+        "checksumHex": "7CF4ED71"
       },
       {
         "name": "BaseValue",
-        "checksum": 3129524333
+        "checksum": 3129524333,
+        "checksumHex": "BA88C06D"
       },
       {
         "name": "BaseValue",
-        "checksum": 3614988867
+        "checksum": 3614988867,
+        "checksumHex": "D7785A43"
       },
       {
         "name": "BaseValue",
-        "checksum": 4099898518
+        "checksum": 4099898518,
+        "checksumHex": "F45F7C96"
       },
       {
         "name": "BaseValue",
-        "checksum": 4244183421
+        "checksum": 4244183421,
+        "checksumHex": "FCF9197D"
       },
       {
         "name": "BaseValue",
-        "checksum": 4262195990
+        "checksum": 4262195990,
+        "checksumHex": "FE0BF316"
       },
       {
         "name": "bIsClamped",
-        "checksum": 397345901
+        "checksum": 397345901,
+        "checksumHex": "17AF046D"
       },
       {
         "name": "bIsClamped",
-        "checksum": 520708486
+        "checksum": 520708486,
+        "checksumHex": "1F096186"
       },
       {
         "name": "CurrentValue",
-        "checksum": 159608710
+        "checksum": 159608710,
+        "checksumHex": "09836F86"
       },
       {
         "name": "CurrentValue",
-        "checksum": 244918932
+        "checksum": 244918932,
+        "checksumHex": "0E992A94"
       },
       {
         "name": "CurrentValue",
-        "checksum": 800104705
+        "checksum": 800104705,
+        "checksumHex": "2FB0A101"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2111444546
+        "checksum": 2111444546,
+        "checksumHex": "7DDA1642"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2703423492
+        "checksum": 2703423492,
+        "checksumHex": "A122F804"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2827775379
+        "checksum": 2827775379,
+        "checksumHex": "A88C6D93"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3041447457
+        "checksum": 3041447457,
+        "checksumHex": "B548CE21"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3264251261
+        "checksum": 3264251261,
+        "checksumHex": "C290857D"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3816246197
+        "checksum": 3816246197,
+        "checksumHex": "E3774BB5"
       },
       {
         "name": "Maximum",
-        "checksum": 1055722029
+        "checksum": 1055722029,
+        "checksumHex": "3EED0A2D"
       },
       {
         "name": "Maximum",
-        "checksum": 2160711052
+        "checksum": 2160711052,
+        "checksumHex": "80C9D58C"
       },
       {
         "name": "Minimum",
-        "checksum": 1005811491
+        "checksum": 1005811491,
+        "checksumHex": "3BF37723"
       },
       {
         "name": "Minimum",
-        "checksum": 2245503106
+        "checksum": 2245503106,
+        "checksumHex": "85D7A882"
       }
     ]
   },
@@ -3873,7 +4696,8 @@
     "properties": [
       {
         "name": "FinalNumChosenBuildingFoundations",
-        "checksum": 153669869
+        "checksum": 153669869,
+        "checksumHex": "0928D0ED"
       }
     ]
   },
@@ -3883,19 +4707,23 @@
     "properties": [
       {
         "name": "LastRepLocation",
-        "checksum": 2605045410
+        "checksum": 2605045410,
+        "checksumHex": "9B45D6A2"
       },
       {
         "name": "LastRepYaw",
-        "checksum": 1162005441
+        "checksum": 1162005441,
+        "checksumHex": "4542CBC1"
       },
       {
         "name": "PawnStateMask",
-        "checksum": 2158255225
+        "checksum": 2158255225,
+        "checksumHex": "80A45C79"
       },
       {
         "name": "PlayerState",
-        "checksum": 3664007616
+        "checksum": 3664007616,
+        "checksumHex": "DA6451C0"
       }
     ]
   },
@@ -3905,11 +4733,13 @@
     "properties": [
       {
         "name": "PlayerID",
-        "checksum": 4197416564
+        "checksum": 4197416564,
+        "checksumHex": "FA2F7E74"
       },
       {
         "name": "Value",
-        "checksum": 3546960199
+        "checksum": 3546960199,
+        "checksumHex": "D36A5147"
       }
     ]
   },
@@ -3919,15 +4749,18 @@
     "properties": [
       {
         "name": "GameplayCueParameters",
-        "checksum": 1432603750
+        "checksum": 1432603750,
+        "checksumHex": "5563CC66"
       },
       {
         "name": "GameplayCueTag",
-        "checksum": 3549897486
+        "checksum": 3549897486,
+        "checksumHex": "D397230E"
       },
       {
         "name": "PredictionKey",
-        "checksum": 3275717157
+        "checksum": 3275717157,
+        "checksumHex": "C33F7A25"
       }
     ]
   },
@@ -3937,83 +4770,103 @@
     "properties": [
       {
         "name": "Attribute",
-        "checksum": 1081021207
+        "checksum": 1081021207,
+        "checksumHex": "406F1317"
       },
       {
         "name": "AttributeName",
-        "checksum": 447063680
+        "checksum": 447063680,
+        "checksumHex": "1AA5A680"
       },
       {
         "name": "AttributeOwner",
-        "checksum": 1133362610
+        "checksum": 1133362610,
+        "checksumHex": "438DBDB2"
       },
       {
         "name": "bIsInhibited",
-        "checksum": 384211747
+        "checksum": 384211747,
+        "checksumHex": "16E69B23"
       },
       {
         "name": "ChanceToApplyToTarget",
-        "checksum": 988194082
+        "checksum": 988194082,
+        "checksumHex": "3AE6A522"
       },
       {
         "name": "Def",
-        "checksum": 1934550845
+        "checksum": 1934550845,
+        "checksumHex": "734EE73D"
       },
       {
         "name": "Duration",
-        "checksum": 11727481
+        "checksum": 11727481,
+        "checksumHex": "00B2F279"
       },
       {
         "name": "DynamicAssetTags",
-        "checksum": 4067012
+        "checksum": 4067012,
+        "checksumHex": "003E0EC4"
       },
       {
         "name": "DynamicGrantedTags",
-        "checksum": 4000055317
+        "checksum": 4000055317,
+        "checksumHex": "EE6C0015"
       },
       {
         "name": "EffectContext",
-        "checksum": 2128581143
+        "checksum": 2128581143,
+        "checksumHex": "7EDF9217"
       },
       {
         "name": "EvaluatedMagnitude",
-        "checksum": 4278577482
+        "checksum": 4278577482,
+        "checksumHex": "FF05E94A"
       },
       {
         "name": "GrantedAbilitySpecs",
-        "checksum": 475883320
+        "checksum": 475883320,
+        "checksumHex": "1C5D6738"
       },
       {
         "name": "Level",
-        "checksum": 511636745
+        "checksum": 511636745,
+        "checksumHex": "1E7EF509"
       },
       {
         "name": "ModifiedAttributes",
-        "checksum": 911904455
+        "checksum": 911904455,
+        "checksumHex": "365A8EC7"
       },
       {
         "name": "Modifiers",
-        "checksum": 3893998800
+        "checksum": 3893998800,
+        "checksumHex": "E819B4D0"
       },
       {
         "name": "Period",
-        "checksum": 1670139024
+        "checksum": 1670139024,
+        "checksumHex": "638C4C90"
       },
       {
         "name": "PredictionKey",
-        "checksum": 3275717157
+        "checksum": 3275717157,
+        "checksumHex": "C33F7A25"
       },
       {
         "name": "StackCount",
-        "checksum": 2539792626
+        "checksum": 2539792626,
+        "checksumHex": "976228F2"
       },
       {
         "name": "StartServerWorldTime",
-        "checksum": 1922856247
+        "checksum": 1922856247,
+        "checksumHex": "729C7537"
       },
       {
         "name": "TotalMagnitude",
-        "checksum": 2641114299
+        "checksum": 2641114299,
+        "checksumHex": "9D6C34BB"
       }
     ]
   },
@@ -4023,31 +4876,38 @@
     "properties": [
       {
         "name": "Ability",
-        "checksum": 3218773842
+        "checksum": 3218773842,
+        "checksumHex": "BFDA9752"
       },
       {
         "name": "Handle",
-        "checksum": 4198120770
+        "checksum": 4198120770,
+        "checksumHex": "FA3A3D42"
       },
       {
         "name": "InputID",
-        "checksum": 2441329372
+        "checksum": 2441329372,
+        "checksumHex": "9183BADC"
       },
       {
         "name": "Level",
-        "checksum": 3376171892
+        "checksum": 3376171892,
+        "checksumHex": "C93C4B74"
       },
       {
         "name": "ReplicatedInstances",
-        "checksum": 560295766
+        "checksum": 560295766,
+        "checksumHex": "21656F56"
       },
       {
         "name": "ReplicatedInstances",
-        "checksum": 3496279434
+        "checksum": 3496279434,
+        "checksumHex": "D064FD8A"
       },
       {
         "name": "SourceObject",
-        "checksum": 3652934519
+        "checksum": 3652934519,
+        "checksumHex": "D9BB5B77"
       }
     ]
   },
@@ -4057,7 +4917,8 @@
     "properties": [
       {
         "name": "Multicast_ApplyGravityForFall",
-        "checksum": 2703128930
+        "checksum": 2703128930,
+        "checksumHex": "A11E7962"
       }
     ]
   },
@@ -4067,7 +4928,8 @@
     "properties": [
       {
         "name": "NetMulticast_InvokeGameplayCueExecuted_WithParams",
-        "checksum": 3822896495
+        "checksum": 3822896495,
+        "checksumHex": "E3DCC56F"
       }
     ]
   },
@@ -4077,11 +4939,13 @@
     "properties": [
       {
         "name": "ActivatableAbilities",
-        "checksum": 113028074
+        "checksum": 113028074,
+        "checksumHex": "06BCABEA"
       },
       {
         "name": "ActiveGameplayEffects",
-        "checksum": 1607966964
+        "checksum": 1607966964,
+        "checksumHex": "5FD7A0F4"
       }
     ]
   },
@@ -4091,7 +4955,8 @@
     "properties": [
       {
         "name": "Inventory",
-        "checksum": 1889805261
+        "checksum": 1889805261,
+        "checksumHex": "70A423CD"
       }
     ]
   },
@@ -4101,11 +4966,13 @@
     "properties": [
       {
         "name": "LatentTeamRepData",
-        "checksum": 3679752244
+        "checksum": 3679752244,
+        "checksumHex": "DB549034"
       },
       {
         "name": "RepData",
-        "checksum": 3077767360
+        "checksum": 3077767360,
+        "checksumHex": "B77300C0"
       }
     ]
   },
@@ -4115,7 +4982,8 @@
     "properties": [
       {
         "name": "MulticastRequestBuildingAnimation",
-        "checksum": 650975268
+        "checksum": 650975268,
+        "checksumHex": "26CD1824"
       }
     ]
   },
@@ -4125,7 +4993,8 @@
     "properties": [
       {
         "name": "MulticastRequestBuildingAnimation",
-        "checksum": 650975268
+        "checksum": 650975268,
+        "checksumHex": "26CD1824"
       }
     ]
   },
@@ -4135,7 +5004,8 @@
     "properties": [
       {
         "name": "MulticastRequestBuildingAnimation",
-        "checksum": 650975268
+        "checksum": 650975268,
+        "checksumHex": "26CD1824"
       }
     ]
   },
@@ -4145,7 +5015,8 @@
     "properties": [
       {
         "name": "MulticastRequestBuildingAnimation",
-        "checksum": 650975268
+        "checksum": 650975268,
+        "checksumHex": "26CD1824"
       }
     ]
   },
@@ -4155,7 +5026,8 @@
     "properties": [
       {
         "name": "MulticastRequestBuildingAnimation",
-        "checksum": 650975268
+        "checksum": 650975268,
+        "checksumHex": "26CD1824"
       }
     ]
   },
@@ -4165,7 +5037,8 @@
     "properties": [
       {
         "name": "MulticastRequestBuildingAnimation",
-        "checksum": 650975268
+        "checksum": 650975268,
+        "checksumHex": "26CD1824"
       }
     ]
   },
@@ -4175,15 +5048,18 @@
     "properties": [
       {
         "name": "NetMulticast_Athena_BatchedDamageCues",
-        "checksum": 2733521533
+        "checksum": 2733521533,
+        "checksumHex": "A2EE3A7D"
       },
       {
         "name": "NetMulticast_InvokeGameplayCueExecuted_FromSpec",
-        "checksum": 3810346754
+        "checksum": 3810346754,
+        "checksumHex": "E31D4702"
       },
       {
         "name": "NetMulticast_InvokeGameplayCueExecuted_WithParams",
-        "checksum": 3822896495
+        "checksum": 3822896495,
+        "checksumHex": "E3DCC56F"
       }
     ]
   },
@@ -4193,7 +5069,8 @@
     "properties": [
       {
         "name": "MulticastRequestBuildingAnimation",
-        "checksum": 650975268
+        "checksum": 650975268,
+        "checksumHex": "26CD1824"
       }
     ]
   }

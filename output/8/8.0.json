@@ -5,43 +5,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -51,43 +61,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -97,43 +117,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -143,59 +173,73 @@
     "properties": [
       {
         "name": "AttachComponent",
-        "checksum": 924082277
+        "checksum": 924082277,
+        "checksumHex": "37146065"
       },
       {
         "name": "AttachSocket",
-        "checksum": 435804554
+        "checksum": 435804554,
+        "checksumHex": "19F9D98A"
       },
       {
         "name": "bApplyingBackspin",
-        "checksum": 790800549
+        "checksum": 790800549,
+        "checksumHex": "2F22A8A5"
       },
       {
         "name": "bApplyingLift",
-        "checksum": 2252565233
+        "checksum": 2252565233,
+        "checksumHex": "86436AF1"
       },
       {
         "name": "bDestroyed",
-        "checksum": 1836540632
+        "checksum": 1836540632,
+        "checksumHex": "6D7762D8"
       },
       {
         "name": "bInstantDeath",
-        "checksum": 1699243242
+        "checksum": 1699243242,
+        "checksumHex": "654864EA"
       },
       {
         "name": "Bounces",
-        "checksum": 4168816726
+        "checksum": 4168816726,
+        "checksumHex": "F87B1856"
       },
       {
         "name": "bPlayerPlaced",
-        "checksum": 536382453
+        "checksum": 536382453,
+        "checksumHex": "1FF88BF5"
       },
       {
         "name": "MaterialIndex",
-        "checksum": 2704389044
+        "checksum": 2704389044,
+        "checksumHex": "A131B3B4"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "OwnerPersistentID",
-        "checksum": 3152379531
+        "checksum": 3152379531,
+        "checksumHex": "BBE57E8B"
       },
       {
         "name": "RelativeScale3D",
-        "checksum": 1992268157
+        "checksum": 1992268157,
+        "checksumHex": "76BF997D"
       },
       {
         "name": "ReplicatedMovement",
-        "checksum": 2749104612
+        "checksum": 2749104612,
+        "checksumHex": "A3DC01E4"
       },
       {
         "name": "TeamIndex",
-        "checksum": 385374885
+        "checksum": 385374885,
+        "checksumHex": "16F85AA5"
       }
     ]
   },
@@ -205,247 +249,308 @@
     "properties": [
       {
         "name": "AdditionalPlaylistLevelsStreamed",
-        "checksum": 136598335
+        "checksum": 136598335,
+        "checksumHex": "0824533F"
       },
       {
         "name": "AdditionalPlaylistLevelsStreamed",
-        "checksum": 3437934154
+        "checksum": 3437934154,
+        "checksumHex": "CCEAB64A"
       },
       {
         "name": "AnnouncementManager",
-        "checksum": 2601962830
+        "checksum": 2601962830,
+        "checksumHex": "9B16CD4E"
       },
       {
         "name": "bAllowLayoutRequirementsFeature",
-        "checksum": 4079435210
+        "checksum": 4079435210,
+        "checksumHex": "F3273DCA"
       },
       {
         "name": "bAllowUserPickedCosmeticBattleBus",
-        "checksum": 1237051726
+        "checksum": 1237051726,
+        "checksumHex": "49BBE94E"
       },
       {
         "name": "bReplicatedHasBegunPlay",
-        "checksum": 2622764780
+        "checksum": 2622764780,
+        "checksumHex": "9C5436EC"
       },
       {
         "name": "bStormReachedFinalPosition",
-        "checksum": 2100865676
+        "checksum": 2100865676,
+        "checksumHex": "7D38AA8C"
       },
       {
         "name": "ClientVehicleClassesToLoad",
-        "checksum": 2657023757
+        "checksum": 2657023757,
+        "checksumHex": "9E5EF70D"
       },
       {
         "name": "ClientVehicleClassesToLoad",
-        "checksum": 3354115271
+        "checksum": 3354115271,
+        "checksumHex": "C7EBBCC7"
       },
       {
         "name": "CraftingBonus",
-        "checksum": 2184223992
+        "checksum": 2184223992,
+        "checksumHex": "82309CF8"
       },
       {
         "name": "CreativeRealEstatePlotManager",
-        "checksum": 1144745721
+        "checksum": 1144745721,
+        "checksumHex": "443B6EF9"
       },
       {
         "name": "DefaultBattleBus",
-        "checksum": 2858854129
+        "checksum": 2858854129,
+        "checksumHex": "AA66A6F1"
       },
       {
         "name": "DefaultGliderRedeployCanRedeploy",
-        "checksum": 685173351
+        "checksum": 685173351,
+        "checksumHex": "28D6EA67"
       },
       {
         "name": "DefaultParachuteDeployTraceForGroundDistance",
-        "checksum": 189466247
+        "checksum": 189466247,
+        "checksumHex": "0B4B0687"
       },
       {
         "name": "DefaultRedeployGliderHeightLimit",
-        "checksum": 273159085
+        "checksum": 273159085,
+        "checksumHex": "104813AD"
       },
       {
         "name": "DefaultRedeployGliderLateralVelocityMult",
-        "checksum": 1604861167
+        "checksum": 1604861167,
+        "checksumHex": "5FA83CEF"
       },
       {
         "name": "ElapsedTime",
-        "checksum": 1053591435
+        "checksum": 1053591435,
+        "checksumHex": "3ECC878B"
       },
       {
         "name": "FeedbackManager",
-        "checksum": 4026256776
+        "checksum": 4026256776,
+        "checksumHex": "EFFBCD88"
       },
       {
         "name": "FlightSpeed",
-        "checksum": 2531978978
+        "checksum": 2531978978,
+        "checksumHex": "96EAEEE2"
       },
       {
         "name": "FlightSpeed",
-        "checksum": 3421728973
+        "checksum": 3421728973,
+        "checksumHex": "CBF370CD"
       },
       {
         "name": "FlightStartLocation",
-        "checksum": 18377167
+        "checksum": 18377167,
+        "checksumHex": "011869CF"
       },
       {
         "name": "FlightStartLocation",
-        "checksum": 3855981860
+        "checksum": 3855981860,
+        "checksumHex": "E5D59D24"
       },
       {
         "name": "FlightStartRotation",
-        "checksum": 2898503731
+        "checksum": 2898503731,
+        "checksumHex": "ACC3A833"
       },
       {
         "name": "FlightStartRotation",
-        "checksum": 3521686383
+        "checksum": 3521686383,
+        "checksumHex": "D1E8AB6F"
       },
       {
         "name": "FortTimeOfDayManager",
-        "checksum": 4034469340
+        "checksum": 4034469340,
+        "checksumHex": "F0791DDC"
       },
       {
         "name": "GameModeClass",
-        "checksum": 3576505449
+        "checksum": 3576505449,
+        "checksumHex": "D52D2469"
       },
       {
         "name": "GamePhase",
-        "checksum": 3812596277
+        "checksum": 3812596277,
+        "checksumHex": "E33F9A35"
       },
       {
         "name": "GameplayState",
-        "checksum": 1424194427
+        "checksum": 1424194427,
+        "checksumHex": "54E37B7B"
       },
       {
         "name": "GameSessionId",
-        "checksum": 222187157
+        "checksum": 222187157,
+        "checksumHex": "0D3E4E95"
       },
       {
         "name": "ItemCollector",
-        "checksum": 1575756251
+        "checksum": 1575756251,
+        "checksumHex": "5DEC21DB"
       },
       {
         "name": "MapInfo",
-        "checksum": 2246666759
+        "checksum": 2246666759,
+        "checksumHex": "85E96A07"
       },
       {
         "name": "MatchState",
-        "checksum": 4269466447
+        "checksum": 4269466447,
+        "checksumHex": "FE7AE34F"
       },
       {
         "name": "MusicManagerBank",
-        "checksum": 1433708880
+        "checksum": 1433708880,
+        "checksumHex": "5574A950"
       },
       {
         "name": "MusicManagerSubclass",
-        "checksum": 443145310
+        "checksum": 443145310,
+        "checksumHex": "1A69DC5E"
       },
       {
         "name": "PawnForReplayRelevancy",
-        "checksum": 2701652850
+        "checksum": 2701652850,
+        "checksumHex": "A107F372"
       },
       {
         "name": "PlayersLeft",
-        "checksum": 3072500117
+        "checksum": 3072500117,
+        "checksumHex": "B722A195"
       },
       {
         "name": "PoiManager",
-        "checksum": 2743870173
+        "checksum": 2743870173,
+        "checksumHex": "A38C22DD"
       },
       {
         "name": "ReplicatedWorldTimeSeconds",
-        "checksum": 2373686367
+        "checksum": 2373686367,
+        "checksumHex": "8D7B945F"
       },
       {
         "name": "RoundTimeAccumulated",
-        "checksum": 3453844985
+        "checksum": 3453844985,
+        "checksumHex": "CDDD7DF9"
       },
       {
         "name": "RoundTimeCriticalThreshold",
-        "checksum": 1242912279
+        "checksum": 1242912279,
+        "checksumHex": "4A155617"
       },
       {
         "name": "SafeZoneIndicator",
-        "checksum": 1537036241
+        "checksum": 1537036241,
+        "checksumHex": "5B9D4FD1"
       },
       {
         "name": "SafeZonePhase",
-        "checksum": 2512056189
+        "checksum": 2512056189,
+        "checksumHex": "95BAEF7D"
       },
       {
         "name": "SafeZonesStartTime",
-        "checksum": 1711709315
+        "checksum": 1711709315,
+        "checksumHex": "66069C83"
       },
       {
         "name": "ServerChangelistNumber",
-        "checksum": 822195417
+        "checksum": 822195417,
+        "checksumHex": "3101B4D9"
       },
       {
         "name": "SpecialActorData",
-        "checksum": 2027353337
+        "checksum": 2027353337,
+        "checksumHex": "78D6F4F9"
       },
       {
         "name": "SpectatorClass",
-        "checksum": 4260609379
+        "checksum": 4260609379,
+        "checksumHex": "FDF3BD63"
       },
       {
         "name": "TeamCount",
-        "checksum": 3491059331
+        "checksum": 3491059331,
+        "checksumHex": "D0155683"
       },
       {
         "name": "TeamFlightPaths",
-        "checksum": 1932122883
+        "checksum": 1932122883,
+        "checksumHex": "7329DB03"
       },
       {
         "name": "TeamsLeft",
-        "checksum": 938228960
+        "checksum": 938228960,
+        "checksumHex": "37EC3CE0"
       },
       {
         "name": "TimeTillDropEnd",
-        "checksum": 82199150
+        "checksum": 82199150,
+        "checksumHex": "04E6426E"
       },
       {
         "name": "TimeTillDropEnd",
-        "checksum": 4243045771
+        "checksum": 4243045771,
+        "checksumHex": "FCE7BD8B"
       },
       {
         "name": "TimeTillDropStart",
-        "checksum": 1806556781
+        "checksum": 1806556781,
+        "checksumHex": "6BADDE6D"
       },
       {
         "name": "TimeTillDropStart",
-        "checksum": 2176022369
+        "checksum": 2176022369,
+        "checksumHex": "81B37761"
       },
       {
         "name": "TimeTillFlightEnd",
-        "checksum": 1664059828
+        "checksum": 1664059828,
+        "checksumHex": "632F89B4"
       },
       {
         "name": "TimeTillFlightEnd",
-        "checksum": 2301698232
+        "checksum": 2301698232,
+        "checksumHex": "893120B8"
       },
       {
         "name": "TotalPlayerStructures",
-        "checksum": 1737511544
+        "checksum": 1737511544,
+        "checksumHex": "67905278"
       },
       {
         "name": "UIMapManager",
-        "checksum": 1100988001
+        "checksum": 1100988001,
+        "checksumHex": "419FBE61"
       },
       {
         "name": "VoiceChannelInfo",
-        "checksum": 2878553739
+        "checksum": 2878553739,
+        "checksumHex": "AB933E8B"
       },
       {
         "name": "VolumeManager",
-        "checksum": 3690756150
+        "checksum": 3690756150,
+        "checksumHex": "DBFC7836"
       },
       {
         "name": "WorldLevel",
-        "checksum": 3891660106
+        "checksum": 3891660106,
+        "checksumHex": "E7F6054A"
       },
       {
         "name": "WorldManager",
-        "checksum": 1309464832
+        "checksum": 1309464832,
+        "checksumHex": "4E0CD900"
       }
     ]
   },
@@ -455,19 +560,23 @@
     "properties": [
       {
         "name": "bNeverAllowSaving",
-        "checksum": 671711351
+        "checksum": 671711351,
+        "checksumHex": "28098077"
       },
       {
         "name": "bShowPublishWatermark",
-        "checksum": 493724164
+        "checksum": 493724164,
+        "checksumHex": "1D6DA204"
       },
       {
         "name": "CurrentPlayset",
-        "checksum": 227650588
+        "checksum": 227650588,
+        "checksumHex": "0D91AC1C"
       },
       {
         "name": "VolumeState",
-        "checksum": 571327256
+        "checksum": 571327256,
+        "checksumHex": "220DC318"
       }
     ]
   },
@@ -477,7 +586,8 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -487,23 +597,28 @@
     "properties": [
       {
         "name": "bFoundationEnabled",
-        "checksum": 2234058367
+        "checksum": 2234058367,
+        "checksumHex": "8529067F"
       },
       {
         "name": "bServerStreamedInLevel",
-        "checksum": 2757655263
+        "checksum": 2757655263,
+        "checksumHex": "A45E7ADF"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "Rotation",
-        "checksum": 1690408096
+        "checksum": 1690408096,
+        "checksumHex": "64C194A0"
       },
       {
         "name": "Translation",
-        "checksum": 680115630
+        "checksum": 680115630,
+        "checksumHex": "2889BDAE"
       }
     ]
   },
@@ -513,19 +628,23 @@
     "properties": [
       {
         "name": "bFoundationEnabled",
-        "checksum": 2234058367
+        "checksum": 2234058367,
+        "checksumHex": "8529067F"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "Rotation",
-        "checksum": 1690408096
+        "checksum": 1690408096,
+        "checksumHex": "64C194A0"
       },
       {
         "name": "Translation",
-        "checksum": 680115630
+        "checksum": 680115630,
+        "checksumHex": "2889BDAE"
       }
     ]
   },
@@ -535,23 +654,28 @@
     "properties": [
       {
         "name": "bFoundationEnabled",
-        "checksum": 2234058367
+        "checksum": 2234058367,
+        "checksumHex": "8529067F"
       },
       {
         "name": "bServerStreamedInLevel",
-        "checksum": 2757655263
+        "checksum": 2757655263,
+        "checksumHex": "A45E7ADF"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "Rotation",
-        "checksum": 1690408096
+        "checksum": 1690408096,
+        "checksumHex": "64C194A0"
       },
       {
         "name": "Translation",
-        "checksum": 680115630
+        "checksum": 680115630,
+        "checksumHex": "2889BDAE"
       }
     ]
   },
@@ -561,23 +685,28 @@
     "properties": [
       {
         "name": "bFoundationEnabled",
-        "checksum": 2234058367
+        "checksum": 2234058367,
+        "checksumHex": "8529067F"
       },
       {
         "name": "bServerStreamedInLevel",
-        "checksum": 2757655263
+        "checksum": 2757655263,
+        "checksumHex": "A45E7ADF"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "Rotation",
-        "checksum": 1690408096
+        "checksum": 1690408096,
+        "checksumHex": "64C194A0"
       },
       {
         "name": "Translation",
-        "checksum": 680115630
+        "checksum": 680115630,
+        "checksumHex": "2889BDAE"
       }
     ]
   },
@@ -587,15 +716,18 @@
     "properties": [
       {
         "name": "bFoundationEnabled",
-        "checksum": 2234058367
+        "checksum": 2234058367,
+        "checksumHex": "8529067F"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "Translation",
-        "checksum": 680115630
+        "checksum": 680115630,
+        "checksumHex": "2889BDAE"
       }
     ]
   },
@@ -605,15 +737,18 @@
     "properties": [
       {
         "name": "bFoundationEnabled",
-        "checksum": 2234058367
+        "checksum": 2234058367,
+        "checksumHex": "8529067F"
       },
       {
         "name": "LevelToStream",
-        "checksum": 3044933830
+        "checksum": 3044933830,
+        "checksumHex": "B57E00C6"
       },
       {
         "name": "Translation",
-        "checksum": 680115630
+        "checksum": 680115630,
+        "checksumHex": "2889BDAE"
       }
     ]
   },
@@ -623,7 +758,8 @@
     "properties": [
       {
         "name": "BounceLake",
-        "checksum": 4195613790
+        "checksum": 4195613790,
+        "checksumHex": "FA13FC5E"
       }
     ]
   },
@@ -633,11 +769,13 @@
     "properties": [
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       },
       {
         "name": "Snow_Amount",
-        "checksum": 183188870
+        "checksum": 183188870,
+        "checksumHex": "0AEB3D86"
       }
     ]
   },
@@ -647,7 +785,8 @@
     "properties": [
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       }
     ]
   },
@@ -657,7 +796,8 @@
     "properties": [
       {
         "name": "ReplicatedMovement",
-        "checksum": 2749104612
+        "checksum": 2749104612,
+        "checksumHex": "A3DC01E4"
       }
     ]
   },
@@ -667,47 +807,58 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "ItemDefinition",
-        "checksum": 979059316
+        "checksum": 979059316,
+        "checksumHex": "3A5B4274"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -717,11 +868,13 @@
     "properties": [
       {
         "name": "bUseInstanceLootValueOverrides",
-        "checksum": 4022488714
+        "checksum": 4022488714,
+        "checksumHex": "EFC24E8A"
       },
       {
         "name": "OverrideVendingMachineRarity",
-        "checksum": 1395443415
+        "checksum": 1395443415,
+        "checksumHex": "532CC6D7"
       }
     ]
   },
@@ -731,47 +884,58 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "ContextTrapItemDefinition",
-        "checksum": 906608643
+        "checksum": 906608643,
+        "checksumHex": "3609C003"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "ItemDefinition",
-        "checksum": 979059316
+        "checksum": 979059316,
+        "checksumHex": "3A5B4274"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -781,383 +945,478 @@
     "properties": [
       {
         "name": "AccelerationPack",
-        "checksum": 2751148021
+        "checksum": 2751148021,
+        "checksumHex": "A3FB2FF5"
       },
       {
         "name": "AccelerationZPack",
-        "checksum": 1729788888
+        "checksum": 1729788888,
+        "checksumHex": "671A7BD8"
       },
       {
         "name": "ActiveVariantTag",
-        "checksum": 3381707007
+        "checksum": 3381707007,
+        "checksumHex": "C990C0FF"
       },
       {
         "name": "AnimMontage",
-        "checksum": 1899401569
+        "checksum": 1899401569,
+        "checksumHex": "71369161"
       },
       {
         "name": "AnimMontage",
-        "checksum": 4287769663
+        "checksum": 4287769663,
+        "checksumHex": "FF922C3F"
       },
       {
         "name": "Backpack",
-        "checksum": 3278062770
+        "checksum": 3278062770,
+        "checksumHex": "C36344B2"
       },
       {
         "name": "BannerColorId",
-        "checksum": 2741678844
+        "checksum": 2741678844,
+        "checksumHex": "A36AB2FC"
       },
       {
         "name": "BannerIconId",
-        "checksum": 918324078
+        "checksum": 918324078,
+        "checksumHex": "36BC836E"
       },
       {
         "name": "bCanBeInterrupted",
-        "checksum": 3881237144
+        "checksum": 3881237144,
+        "checksumHex": "E756FA98"
       },
       {
         "name": "bCanQue",
-        "checksum": 3809269181
+        "checksum": 3809269181,
+        "checksumHex": "E30CD5BD"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIgnoreNextFallingDamage",
-        "checksum": 1313018165
+        "checksum": 1313018165,
+        "checksumHex": "4E431135"
       },
       {
         "name": "bInterruptCurrentLine",
-        "checksum": 616363361
+        "checksum": 616363361,
+        "checksumHex": "24BCF561"
       },
       {
         "name": "bIsCrouched",
-        "checksum": 737983904
+        "checksum": 737983904,
+        "checksumHex": "2BFCBDA0"
       },
       {
         "name": "bIsDying",
-        "checksum": 2159872929
+        "checksum": 2159872929,
+        "checksumHex": "80BD0BA1"
       },
       {
         "name": "bIsParachuteForcedOpen",
-        "checksum": 3032285867
+        "checksum": 3032285867,
+        "checksumHex": "B4BD02AB"
       },
       {
         "name": "bIsParachuteOpen",
-        "checksum": 2097398135
+        "checksum": 2097398135,
+        "checksumHex": "7D03C177"
       },
       {
         "name": "bIsPlayingEmote",
-        "checksum": 2726238640
+        "checksum": 2726238640,
+        "checksumHex": "A27F19B0"
       },
       {
         "name": "bIsProxySimulationTimedOut",
-        "checksum": 3218408109
+        "checksum": 3218408109,
+        "checksumHex": "BFD502AD"
       },
       {
         "name": "bIsSkydiving",
-        "checksum": 986964207
+        "checksum": 986964207,
+        "checksumHex": "3AD3E0EF"
       },
       {
         "name": "bIsSkydivingFromBus",
-        "checksum": 754159881
+        "checksum": 754159881,
+        "checksumHex": "2CF39109"
       },
       {
         "name": "bIsSlopeSliding",
-        "checksum": 1092568580
+        "checksum": 1092568580,
+        "checksumHex": "411F4604"
       },
       {
         "name": "bIsTargeting",
-        "checksum": 1072056207
+        "checksum": 1072056207,
+        "checksumHex": "3FE6478F"
       },
       {
         "name": "BlendTime",
-        "checksum": 1964786708
+        "checksum": 1964786708,
+        "checksumHex": "751C4414"
       },
       {
         "name": "BlendTime",
-        "checksum": 2018381902
+        "checksum": 2018381902,
+        "checksumHex": "784E104E"
       },
       {
         "name": "bPlayBit",
-        "checksum": 4281423177
+        "checksum": 4281423177,
+        "checksumHex": "FF315549"
       },
       {
         "name": "bProxyIsJumpForceApplied",
-        "checksum": 2286453419
+        "checksum": 2286453419,
+        "checksumHex": "884882AB"
       },
       {
         "name": "bReplicatedIsInSlipperyMovement",
-        "checksum": 202380409
+        "checksum": 202380409,
+        "checksumHex": "0C101479"
       },
       {
         "name": "bReplicatedIsInVortex",
-        "checksum": 3592304531
+        "checksum": 3592304531,
+        "checksumHex": "D61E3793"
       },
       {
         "name": "bReplicateMovement",
-        "checksum": 1869457222
+        "checksum": 1869457222,
+        "checksumHex": "6F6DA746"
       },
       {
         "name": "bServerHasBaseComponent",
-        "checksum": 948192076
+        "checksum": 948192076,
+        "checksumHex": "3884434C"
       },
       {
         "name": "bStartedInteractSearch",
-        "checksum": 1873249035
+        "checksum": 1873249035,
+        "checksumHex": "6FA7830B"
       },
       {
         "name": "bTearOff",
-        "checksum": 1588743940
+        "checksum": 1588743940,
+        "checksumHex": "5EB24F04"
       },
       {
         "name": "BuildingState",
-        "checksum": 1894220688
+        "checksum": 1894220688,
+        "checksumHex": "70E78390"
       },
       {
         "name": "bWeaponActivated",
-        "checksum": 1156281961
+        "checksum": 1156281961,
+        "checksumHex": "44EB7669"
       },
       {
         "name": "bWeaponHolstered",
-        "checksum": 1264766460
+        "checksum": 1264766460,
+        "checksumHex": "4B62CDFC"
       },
       {
         "name": "CapsuleHalfHeightAthena",
-        "checksum": 500786465
+        "checksum": 500786465,
+        "checksumHex": "1DD96521"
       },
       {
         "name": "CapsuleRadiusAthena",
-        "checksum": 1303203011
+        "checksum": 1303203011,
+        "checksumHex": "4DAD4CC3"
       },
       {
         "name": "Character",
-        "checksum": 559754314
+        "checksum": 559754314,
+        "checksumHex": "215D2C4A"
       },
       {
         "name": "CharacterVariantChannels",
-        "checksum": 3695535964
+        "checksum": 3695535964,
+        "checksumHex": "DC45675C"
       },
       {
         "name": "Controller",
-        "checksum": 1134544246
+        "checksum": 1134544246,
+        "checksumHex": "439FC576"
       },
       {
         "name": "CrouchedRunSpeed",
-        "checksum": 3849594451
+        "checksum": 3849594451,
+        "checksumHex": "E5742653"
       },
       {
         "name": "CrouchedSprintSpeed",
-        "checksum": 4204927841
+        "checksum": 4204927841,
+        "checksumHex": "FAA21B61"
       },
       {
         "name": "CurrentMovementStyle",
-        "checksum": 2131771821
+        "checksum": 2131771821,
+        "checksumHex": "7F1041AD"
       },
       {
         "name": "CurrentWeapon",
-        "checksum": 4166280574
+        "checksum": 4166280574,
+        "checksumHex": "F854657E"
       },
       {
         "name": "Dances",
-        "checksum": 77021738
+        "checksum": 77021738,
+        "checksumHex": "0497422A"
       },
       {
         "name": "Dances",
-        "checksum": 2843042026
+        "checksum": 2843042026,
+        "checksumHex": "A97560EA"
       },
       {
         "name": "EncryptedPawnReplayData",
-        "checksum": 3069239894
+        "checksum": 3069239894,
+        "checksumHex": "B6F0E256"
       },
       {
         "name": "FeedbackAudioComponent",
-        "checksum": 2894669910
+        "checksum": 2894669910,
+        "checksumHex": "AC892856"
       },
       {
         "name": "FlySpeed",
-        "checksum": 82066657
+        "checksum": 82066657,
+        "checksumHex": "04E43CE1"
       },
       {
         "name": "ForcePlayBit",
-        "checksum": 2399369588
+        "checksum": 2399369588,
+        "checksumHex": "8F037974"
       },
       {
         "name": "ForcePlayBit",
-        "checksum": 3716600989
+        "checksum": 3716600989,
+        "checksumHex": "DD86D49D"
       },
       {
         "name": "Glider",
-        "checksum": 2216194617
+        "checksum": 2216194617,
+        "checksumHex": "84187239"
       },
       {
         "name": "GravityFloorAltitude",
-        "checksum": 1465740051
+        "checksum": 1465740051,
+        "checksumHex": "575D6B13"
       },
       {
         "name": "GravityFloorGravityScalar",
-        "checksum": 4258550571
+        "checksum": 4258550571,
+        "checksumHex": "FDD4532B"
       },
       {
         "name": "GravityFloorWidth",
-        "checksum": 2680831549
+        "checksum": 2680831549,
+        "checksumHex": "9FCA3E3D"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "IsStopped",
-        "checksum": 2155091879
+        "checksum": 2155091879,
+        "checksumHex": "807417A7"
       },
       {
         "name": "IsStopped",
-        "checksum": 2368095229
+        "checksum": 2368095229,
+        "checksumHex": "8D2643FD"
       },
       {
         "name": "ItemVariantIsUsedFor",
-        "checksum": 2373177942
+        "checksum": 2373177942,
+        "checksumHex": "8D73D256"
       },
       {
         "name": "ItemWraps",
-        "checksum": 162589248
+        "checksum": 162589248,
+        "checksumHex": "09B0EA40"
       },
       {
         "name": "ItemWraps",
-        "checksum": 2300229419
+        "checksum": 2300229419,
+        "checksumHex": "891AB72B"
       },
       {
         "name": "JumpFlashCountPacked",
-        "checksum": 1336307138
+        "checksum": 1336307138,
+        "checksumHex": "4FA66DC2"
       },
       {
         "name": "LandingFlashCountPacked",
-        "checksum": 3688356301
+        "checksum": 3688356301,
+        "checksumHex": "DBD7D9CD"
       },
       {
         "name": "LoadingScreen",
-        "checksum": 3231775704
+        "checksum": 3231775704,
+        "checksumHex": "C0A0FBD8"
       },
       {
         "name": "MovementBase",
-        "checksum": 2645773312
+        "checksum": 2645773312,
+        "checksumHex": "9DB34C00"
       },
       {
         "name": "MusicPack",
-        "checksum": 2991157581
+        "checksum": 2991157581,
+        "checksumHex": "B249714D"
       },
       {
         "name": "NextSectionID",
-        "checksum": 1624202408
+        "checksum": 1624202408,
+        "checksumHex": "60CF5CA8"
       },
       {
         "name": "OwnedVariantTags",
-        "checksum": 1801614269
+        "checksum": 1801614269,
+        "checksumHex": "6B6273BD"
       },
       {
         "name": "PackedReplicatedSlopeAngles",
-        "checksum": 163893122
+        "checksum": 163893122,
+        "checksumHex": "09C4CF82"
       },
       {
         "name": "ParachuteAttachment",
-        "checksum": 2245898982
+        "checksum": 2245898982,
+        "checksumHex": "85DDB2E6"
       },
       {
         "name": "PawnMontage",
-        "checksum": 1316577979
+        "checksum": 1316577979,
+        "checksumHex": "4E7962BB"
       },
       {
         "name": "PawnUniqueID",
-        "checksum": 2589469719
+        "checksum": 2589469719,
+        "checksumHex": "9A582C17"
       },
       {
         "name": "PetState",
-        "checksum": 3780708593
+        "checksum": 3780708593,
+        "checksumHex": "E15908F1"
       },
       {
         "name": "Pickaxe",
-        "checksum": 832385590
+        "checksum": 832385590,
+        "checksumHex": "319D3236"
       },
       {
         "name": "PlayerState",
-        "checksum": 3964024390
+        "checksum": 3964024390,
+        "checksumHex": "EC463646"
       },
       {
         "name": "PlayRate",
-        "checksum": 378147694
+        "checksum": 378147694,
+        "checksumHex": "168A136E"
       },
       {
         "name": "PlayRate",
-        "checksum": 801867328
+        "checksum": 801867328,
+        "checksumHex": "2FCB8640"
       },
       {
         "name": "Position",
-        "checksum": 1756032659
+        "checksum": 1756032659,
+        "checksumHex": "68AAEE93"
       },
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       },
       {
         "name": "RemoteViewData32",
-        "checksum": 318284657
+        "checksum": 318284657,
+        "checksumHex": "12F8A371"
       },
       {
         "name": "RepAnimMontageStartSection",
-        "checksum": 2109551477
+        "checksum": 2109551477,
+        "checksumHex": "7DBD3375"
       },
       {
         "name": "ReplayLastTransformUpdateTimeStamp",
-        "checksum": 1381193882
+        "checksum": 1381193882,
+        "checksumHex": "5253589A"
       },
       {
         "name": "ReplicatedMovement",
-        "checksum": 2749104612
+        "checksum": 2749104612,
+        "checksumHex": "A3DC01E4"
       },
       {
         "name": "ReplicatedMovementMode",
-        "checksum": 2968399126
+        "checksum": 2968399126,
+        "checksumHex": "B0EE2D16"
       },
       {
         "name": "RunSpeed",
-        "checksum": 373997736
+        "checksum": 373997736,
+        "checksumHex": "164AC0A8"
       },
       {
         "name": "SimulatedProxyGameplayCues",
-        "checksum": 1538064540
+        "checksum": 1538064540,
+        "checksumHex": "5BAD009C"
       },
       {
         "name": "SkipPositionCorrection",
-        "checksum": 1601827132
+        "checksum": 1601827132,
+        "checksumHex": "5F79F13C"
       },
       {
         "name": "SkyDiveContrail",
-        "checksum": 3580738157
+        "checksum": 3580738157,
+        "checksumHex": "D56DBA6D"
       },
       {
         "name": "SprintSpeed",
-        "checksum": 3648812363
+        "checksum": 3648812363,
+        "checksumHex": "D97C754B"
       },
       {
         "name": "StasisMode",
-        "checksum": 302799939
+        "checksum": 302799939,
+        "checksumHex": "120C5C43"
       },
       {
         "name": "TeleportCounter",
-        "checksum": 3903987877
+        "checksum": 3903987877,
+        "checksumHex": "E8B220A5"
       },
       {
         "name": "VariantChannelTag",
-        "checksum": 3845204428
+        "checksum": 3845204428,
+        "checksumHex": "E53129CC"
       },
       {
         "name": "VocalChords",
-        "checksum": 3673018051
+        "checksum": 3673018051,
+        "checksumHex": "DAEDCEC3"
       },
       {
         "name": "WalkSpeed",
-        "checksum": 1387386059
+        "checksum": 1387386059,
+        "checksumHex": "52B1D4CB"
       }
     ]
   },
@@ -1167,27 +1426,33 @@
     "properties": [
       {
         "name": "DefaultPropertyData",
-        "checksum": 3872224250
+        "checksum": 3872224250,
+        "checksumHex": "E6CD73FA"
       },
       {
         "name": "OverrideMode",
-        "checksum": 3151172000
+        "checksum": 3151172000,
+        "checksumHex": "BBD311A0"
       },
       {
         "name": "PropertyData",
-        "checksum": 1585299750
+        "checksum": 1585299750,
+        "checksumHex": "5E7DC126"
       },
       {
         "name": "PropertyName",
-        "checksum": 174076142
+        "checksum": 174076142,
+        "checksumHex": "0A6030EE"
       },
       {
         "name": "PropertyOverrides",
-        "checksum": 2829699277
+        "checksum": 2829699277,
+        "checksumHex": "A8A9C8CD"
       },
       {
         "name": "PropertyScope",
-        "checksum": 4040178860
+        "checksum": 4040178860,
+        "checksumHex": "F0D03CAC"
       }
     ]
   },
@@ -1197,11 +1462,13 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       }
     ]
   },
@@ -1211,11 +1478,13 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       }
     ]
   },
@@ -1225,11 +1494,13 @@
     "properties": [
       {
         "name": "bInfiniteResources",
-        "checksum": 445618667
+        "checksum": 445618667,
+        "checksumHex": "1A8F99EB"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -1239,7 +1510,8 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -1249,15 +1521,18 @@
     "properties": [
       {
         "name": "bMutatorActive",
-        "checksum": 432319723
+        "checksum": 432319723,
+        "checksumHex": "19C4ACEB"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       }
     ]
   },
@@ -1267,15 +1542,18 @@
     "properties": [
       {
         "name": "bMutatorActive",
-        "checksum": 432319723
+        "checksum": 432319723,
+        "checksumHex": "19C4ACEB"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       }
     ]
   },
@@ -1285,11 +1563,13 @@
     "properties": [
       {
         "name": "DisplayMode",
-        "checksum": 3103017689
+        "checksum": 3103017689,
+        "checksumHex": "B8F44AD9"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -1299,7 +1579,8 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -1309,7 +1590,8 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -1319,7 +1601,8 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -1329,7 +1612,8 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -1339,147 +1623,183 @@
     "properties": [
       {
         "name": "bAllowJoinInProgress",
-        "checksum": 2250189657
+        "checksum": 2250189657,
+        "checksumHex": "861F2B59"
       },
       {
         "name": "bAnyMatch",
-        "checksum": 3939645675
+        "checksum": 3939645675,
+        "checksumHex": "EAD238EB"
       },
       {
         "name": "bSortScoreboardEntries",
-        "checksum": 390156393
+        "checksum": 390156393,
+        "checksumHex": "17415069"
       },
       {
         "name": "bStaticCount",
-        "checksum": 3522738865
+        "checksum": 3522738865,
+        "checksumHex": "D1F8BAB1"
       },
       {
         "name": "bTeamMinigame",
-        "checksum": 3132416861
+        "checksum": 3132416861,
+        "checksumHex": "BAB4E35D"
       },
       {
         "name": "Count",
-        "checksum": 2511352685
+        "checksum": 2511352685,
+        "checksumHex": "95B0336D"
       },
       {
         "name": "Count",
-        "checksum": 2834379594
+        "checksum": 2834379594,
+        "checksumHex": "A8F1334A"
       },
       {
         "name": "Count",
-        "checksum": 2997507108
+        "checksum": 2997507108,
+        "checksumHex": "B2AA5424"
       },
       {
         "name": "CurrentState",
-        "checksum": 2928770397
+        "checksum": 2928770397,
+        "checksumHex": "AE917D5D"
       },
       {
         "name": "EndConditions",
-        "checksum": 2148755217
+        "checksum": 2148755217,
+        "checksumHex": "80136711"
       },
       {
         "name": "EndTime",
-        "checksum": 568623757
+        "checksum": 568623757,
+        "checksumHex": "21E4828D"
       },
       {
         "name": "Filter",
-        "checksum": 2489718715
+        "checksum": 2489718715,
+        "checksumHex": "946617BB"
       },
       {
         "name": "Filter",
-        "checksum": 2597550714
+        "checksum": 2597550714,
+        "checksumHex": "9AD37A7A"
       },
       {
         "name": "Filter",
-        "checksum": 2697277413
+        "checksum": 2697277413,
+        "checksumHex": "A0C52FE5"
       },
       {
         "name": "MinigameStarter",
-        "checksum": 1104327266
+        "checksum": 1104327266,
+        "checksumHex": "41D2B262"
       },
       {
         "name": "Operation",
-        "checksum": 2961952847
+        "checksum": 2961952847,
+        "checksumHex": "B08BD04F"
       },
       {
         "name": "Player",
-        "checksum": 3781824178
+        "checksum": 3781824178,
+        "checksumHex": "E16A0EB2"
       },
       {
         "name": "PlayerStats",
-        "checksum": 2994376572
+        "checksum": 2994376572,
+        "checksumHex": "B27A8F7C"
       },
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       },
       {
         "name": "ResetTime",
-        "checksum": 4256008135
+        "checksum": 4256008135,
+        "checksumHex": "FDAD87C7"
       },
       {
         "name": "Scope",
-        "checksum": 731556950
+        "checksum": 731556950,
+        "checksumHex": "2B9AAC56"
       },
       {
         "name": "ScoreboardStats",
-        "checksum": 1042549112
+        "checksum": 1042549112,
+        "checksumHex": "3E240978"
       },
       {
         "name": "ScoreboardStats",
-        "checksum": 2978318969
+        "checksum": 2978318969,
+        "checksumHex": "B1858A79"
       },
       {
         "name": "StartTime",
-        "checksum": 213991799
+        "checksum": 213991799,
+        "checksumHex": "0CC14177"
       },
       {
         "name": "Stat",
-        "checksum": 3582278509
+        "checksum": 3582278509,
+        "checksumHex": "D5853B6D"
       },
       {
         "name": "Stats",
-        "checksum": 530304262
+        "checksum": 530304262,
+        "checksumHex": "1F9BCD06"
       },
       {
         "name": "Stats",
-        "checksum": 812130589
+        "checksum": 812130589,
+        "checksumHex": "3068211D"
       },
       {
         "name": "Stats",
-        "checksum": 3016872133
+        "checksum": 3016872133,
+        "checksumHex": "B3D1D0C5"
       },
       {
         "name": "Team",
-        "checksum": 1836349057
+        "checksum": 1836349057,
+        "checksumHex": "6D747681"
       },
       {
         "name": "TeamStats",
-        "checksum": 2744225169
+        "checksum": 2744225169,
+        "checksumHex": "A3918D91"
       },
       {
         "name": "TimeLimit",
-        "checksum": 1923110478
+        "checksum": 1923110478,
+        "checksumHex": "72A0564E"
       },
       {
         "name": "TrackedStats",
-        "checksum": 654654376
+        "checksum": 654654376,
+        "checksumHex": "27053BA8"
       },
       {
         "name": "TrackedStats",
-        "checksum": 4079252379
+        "checksum": 4079252379,
+        "checksumHex": "F324739B"
       },
       {
         "name": "Value",
-        "checksum": 2233957041
+        "checksum": 2233957041,
+        "checksumHex": "85277AB1"
       },
       {
         "name": "Volume",
-        "checksum": 3470664322
+        "checksum": 3470664322,
+        "checksumHex": "CEDE2282"
       },
       {
         "name": "WarmupTime",
-        "checksum": 3584650077
+        "checksum": 3584650077,
+        "checksumHex": "D5A96B5D"
       }
     ]
   },
@@ -1489,11 +1809,13 @@
     "properties": [
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       }
     ]
   },
@@ -1503,11 +1825,13 @@
     "properties": [
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       },
       {
         "name": "SlabPOIChanged",
-        "checksum": 2104103924
+        "checksum": 2104103924,
+        "checksumHex": "7D6A13F4"
       }
     ]
   },
@@ -1517,43 +1841,53 @@
     "properties": [
       {
         "name": "LastCenter",
-        "checksum": 3125544095
+        "checksum": 3125544095,
+        "checksumHex": "BA4C049F"
       },
       {
         "name": "LastRadius",
-        "checksum": 1119979651
+        "checksum": 1119979651,
+        "checksumHex": "42C18883"
       },
       {
         "name": "MegaStormDelayTimeBeforeDestruction",
-        "checksum": 3576291382
+        "checksum": 3576291382,
+        "checksumHex": "D529E036"
       },
       {
         "name": "NextCenter",
-        "checksum": 94893030
+        "checksum": 94893030,
+        "checksumHex": "05A7F3E6"
       },
       {
         "name": "NextNextCenter",
-        "checksum": 1682976951
+        "checksum": 1682976951,
+        "checksumHex": "645030B7"
       },
       {
         "name": "NextNextRadius",
-        "checksum": 2878351201
+        "checksum": 2878351201,
+        "checksumHex": "AB902761"
       },
       {
         "name": "NextRadius",
-        "checksum": 3496036759
+        "checksum": 3496036759,
+        "checksumHex": "D0614997"
       },
       {
         "name": "Radius",
-        "checksum": 3605838384
+        "checksum": 3605838384,
+        "checksumHex": "D6ECBA30"
       },
       {
         "name": "SafeZoneFinishShrinkTime",
-        "checksum": 2611373848
+        "checksum": 2611373848,
+        "checksumHex": "9BA66718"
       },
       {
         "name": "SafeZoneStartShrinkTime",
-        "checksum": 4115127317
+        "checksum": 4115127317,
+        "checksumHex": "F547DC15"
       }
     ]
   },
@@ -1563,11 +1897,13 @@
     "properties": [
       {
         "name": "FinalDestination",
-        "checksum": 3412774719
+        "checksum": 3412774719,
+        "checksumHex": "CB6ACF3F"
       },
       {
         "name": "ReplicatedMovement",
-        "checksum": 2749104612
+        "checksum": 2749104612,
+        "checksumHex": "A3DC01E4"
       }
     ]
   },
@@ -1577,23 +1913,28 @@
     "properties": [
       {
         "name": "bCanBeDamaged",
-        "checksum": 1648776127
+        "checksum": 1648776127,
+        "checksumHex": "624653BF"
       },
       {
         "name": "BuildTime",
-        "checksum": 4036394804
+        "checksum": 4036394804,
+        "checksumHex": "F0967F34"
       },
       {
         "name": "Health",
-        "checksum": 4014227352
+        "checksum": 4014227352,
+        "checksumHex": "EF443F98"
       },
       {
         "name": "MaxHealth",
-        "checksum": 4214482367
+        "checksum": 4214482367,
+        "checksumHex": "FB33E5BF"
       },
       {
         "name": "RepairTime",
-        "checksum": 1844354825
+        "checksum": 1844354825,
+        "checksumHex": "6DEE9F09"
       }
     ]
   },
@@ -1603,23 +1944,28 @@
     "properties": [
       {
         "name": "bCanBeDamaged",
-        "checksum": 1648776127
+        "checksum": 1648776127,
+        "checksumHex": "624653BF"
       },
       {
         "name": "BuildTime",
-        "checksum": 4036394804
+        "checksum": 4036394804,
+        "checksumHex": "F0967F34"
       },
       {
         "name": "Health",
-        "checksum": 4014227352
+        "checksum": 4014227352,
+        "checksumHex": "EF443F98"
       },
       {
         "name": "MaxHealth",
-        "checksum": 4214482367
+        "checksum": 4214482367,
+        "checksumHex": "FB33E5BF"
       },
       {
         "name": "RepairTime",
-        "checksum": 1844354825
+        "checksum": 1844354825,
+        "checksumHex": "6DEE9F09"
       }
     ]
   },
@@ -1629,63 +1975,78 @@
     "properties": [
       {
         "name": "bIsPublishedPortal",
-        "checksum": 3238902129
+        "checksum": 3238902129,
+        "checksumHex": "C10DB971"
       },
       {
         "name": "bPortalOpen",
-        "checksum": 3218864339
+        "checksum": 3218864339,
+        "checksumHex": "BFDBF8D3"
       },
       {
         "name": "bUserInitiatedLoad",
-        "checksum": 2768029564
+        "checksum": 2768029564,
+        "checksumHex": "A4FCC77C"
       },
       {
         "name": "CreatorName",
-        "checksum": 589178240
+        "checksum": 589178240,
+        "checksumHex": "231E2580"
       },
       {
         "name": "CurrentPopulation",
-        "checksum": 2137495919
+        "checksum": 2137495919,
+        "checksumHex": "7F67996F"
       },
       {
         "name": "ImageURL",
-        "checksum": 2800595637
+        "checksum": 2800595637,
+        "checksumHex": "A6EDB2B5"
       },
       {
         "name": "Mnemonic",
-        "checksum": 3491420317
+        "checksum": 3491420317,
+        "checksumHex": "D01AD89D"
       },
       {
         "name": "PlayerPawn",
-        "checksum": 2275772554
+        "checksum": 2275772554,
+        "checksumHex": "87A5888A"
       },
       {
         "name": "PlayersReady",
-        "checksum": 658799079
+        "checksum": 658799079,
+        "checksumHex": "274479E7"
       },
       {
         "name": "PlayersReady",
-        "checksum": 1596363555
+        "checksum": 1596363555,
+        "checksumHex": "5F269323"
       },
       {
         "name": "ReplicatedMovement",
-        "checksum": 2749104612
+        "checksum": 2749104612,
+        "checksumHex": "A3DC01E4"
       },
       {
         "name": "TeleportLocation",
-        "checksum": 327997989
+        "checksum": 327997989,
+        "checksumHex": "138CDA25"
       },
       {
         "name": "UserDescription",
-        "checksum": 1424142184
+        "checksum": 1424142184,
+        "checksumHex": "54E2AF68"
       },
       {
         "name": "VideoID",
-        "checksum": 3846190676
+        "checksum": 3846190676,
+        "checksumHex": "E5403654"
       },
       {
         "name": "VolumeDisplayName",
-        "checksum": 1681163714
+        "checksum": 1681163714,
+        "checksumHex": "643485C2"
       }
     ]
   },
@@ -1695,7 +2056,8 @@
     "properties": [
       {
         "name": "Location",
-        "checksum": 598402184
+        "checksum": 598402184,
+        "checksumHex": "23AAE488"
       }
     ]
   },
@@ -1705,7 +2067,8 @@
     "properties": [
       {
         "name": "DestinationLocation",
-        "checksum": 375306206
+        "checksum": 375306206,
+        "checksumHex": "165EB7DE"
       }
     ]
   },
@@ -1715,11 +2078,13 @@
     "properties": [
       {
         "name": "DestinationLocation",
-        "checksum": 375306206
+        "checksum": 375306206,
+        "checksumHex": "165EB7DE"
       },
       {
         "name": "PlayerLocation",
-        "checksum": 1410678983
+        "checksum": 1410678983,
+        "checksumHex": "541540C7"
       }
     ]
   },
@@ -1729,15 +2094,18 @@
     "properties": [
       {
         "name": "PlayerState",
-        "checksum": 3964024390
+        "checksum": 3964024390,
+        "checksumHex": "EC463646"
       },
       {
         "name": "RemoteRole",
-        "checksum": 2120798060
+        "checksum": 2120798060,
+        "checksumHex": "7E68CF6C"
       },
       {
         "name": "SpawnLocation",
-        "checksum": 1139493118
+        "checksum": 1139493118,
+        "checksumHex": "43EB48FE"
       }
     ]
   },
@@ -1747,31 +2115,38 @@
     "properties": [
       {
         "name": "bHeightFogEnabled",
-        "checksum": 2001440707
+        "checksum": 2001440707,
+        "checksumHex": "774B8FC3"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bTimeStarted",
-        "checksum": 2053615377
+        "checksum": 2053615377,
+        "checksumHex": "7A67AF11"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "TimeOfDay",
-        "checksum": 2157960238
+        "checksum": 2157960238,
+        "checksumHex": "809FDC2E"
       },
       {
         "name": "TimeOfDayReplicated",
-        "checksum": 522261181
+        "checksum": 522261181,
+        "checksumHex": "1F2112BD"
       },
       {
         "name": "TimeOfDaySpeed",
-        "checksum": 2756953436
+        "checksum": 2756953436,
+        "checksumHex": "A453C55C"
       }
     ]
   },
@@ -1781,35 +2156,43 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 1475123261
+        "checksum": 1475123261,
+        "checksumHex": "57EC983D"
       },
       {
         "name": "B",
-        "checksum": 1429380890
+        "checksum": 1429380890,
+        "checksumHex": "55329F1A"
       },
       {
         "name": "C",
-        "checksum": 1418158599
+        "checksum": 1418158599,
+        "checksumHex": "54876207"
       },
       {
         "name": "D",
-        "checksum": 1351520596
+        "checksum": 1351520596,
+        "checksumHex": "508E9154"
       },
       {
         "name": "Modifiers",
-        "checksum": 1085127337
+        "checksum": 1085127337,
+        "checksumHex": "40ADBAA9"
       },
       {
         "name": "Modifiers",
-        "checksum": 2114475096
+        "checksum": 2114475096,
+        "checksumHex": "7E085458"
       },
       {
         "name": "RecipientControllers",
-        "checksum": 1501962084
+        "checksum": 1501962084,
+        "checksumHex": "59861F64"
       },
       {
         "name": "RecipientControllers",
-        "checksum": 1689450743
+        "checksum": 1689450743,
+        "checksumHex": "64B2F8F7"
       }
     ]
   },
@@ -1819,43 +2202,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -1865,43 +2258,53 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -1911,51 +2314,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -1965,51 +2380,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2019,51 +2446,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2073,51 +2512,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2127,51 +2578,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2181,51 +2644,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2235,51 +2710,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2289,51 +2776,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2343,51 +2842,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2397,51 +2908,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2451,51 +2974,63 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2505,59 +3040,73 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "bIsReloadingWeapon",
-        "checksum": 1208259079
+        "checksum": 1208259079,
+        "checksumHex": "48049207"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2567,55 +3116,68 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2625,55 +3187,68 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2683,55 +3258,68 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2741,55 +3329,68 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2799,59 +3400,73 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "bIsReloadingWeapon",
-        "checksum": 1208259079
+        "checksum": 1208259079,
+        "checksumHex": "48049207"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2861,55 +3476,68 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -2919,83 +3547,103 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsChargingWeapon",
-        "checksum": 1894654836
+        "checksum": 1894654836,
+        "checksumHex": "70EE2374"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "bPlayedSpinDownAudio",
-        "checksum": 736366265
+        "checksum": 736366265,
+        "checksumHex": "2BE40EB9"
       },
       {
         "name": "bPlayedSpinUpAudio",
-        "checksum": 2870417330
+        "checksum": 2870417330,
+        "checksumHex": "AB1717B2"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "ChargeStatusPack",
-        "checksum": 3444331004
+        "checksum": 3444331004,
+        "checksumHex": "CD4C51FC"
       },
       {
         "name": "CurrentSpinAudioComponent",
-        "checksum": 286791663
+        "checksum": 286791663,
+        "checksumHex": "111817EF"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "OverheatState",
-        "checksum": 3240367307
+        "checksum": 3240367307,
+        "checksumHex": "C12414CB"
       },
       {
         "name": "OverheatValue",
-        "checksum": 3459352697
+        "checksum": 3459352697,
+        "checksumHex": "CE318879"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "SpinVolumeMultiplier",
-        "checksum": 1292523610
+        "checksum": 1292523610,
+        "checksumHex": "4D0A585A"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -3005,59 +3653,73 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "bIsReloadingWeapon",
-        "checksum": 1208259079
+        "checksum": 1208259079,
+        "checksumHex": "48049207"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -3067,55 +3729,68 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -3125,59 +3800,73 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 800551359
+        "checksum": 800551359,
+        "checksumHex": "2FB771BF"
       },
       {
         "name": "AmmoCount",
-        "checksum": 2403689238
+        "checksum": 2403689238,
+        "checksumHex": "8F456316"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 313956765
+        "checksum": 313956765,
+        "checksumHex": "12B6999D"
       },
       {
         "name": "AppliedAlterations",
-        "checksum": 2379401561
+        "checksum": 2379401561,
+        "checksumHex": "8DD2C959"
       },
       {
         "name": "B",
-        "checksum": 761886360
+        "checksum": 761886360,
+        "checksumHex": "2D697698"
       },
       {
         "name": "bHidden",
-        "checksum": 4123802426
+        "checksum": 4123802426,
+        "checksumHex": "F5CC3B3A"
       },
       {
         "name": "bIsEquippingWeapon",
-        "checksum": 4097934934
+        "checksum": 4097934934,
+        "checksumHex": "F4418656"
       },
       {
         "name": "bIsReloadingWeapon",
-        "checksum": 1208259079
+        "checksum": 1208259079,
+        "checksumHex": "48049207"
       },
       {
         "name": "C",
-        "checksum": 752651141
+        "checksum": 752651141,
+        "checksumHex": "2CDC8B85"
       },
       {
         "name": "D",
-        "checksum": 685078742
+        "checksum": 685078742,
+        "checksumHex": "28D578D6"
       },
       {
         "name": "Instigator",
-        "checksum": 220456479
+        "checksum": 220456479,
+        "checksumHex": "0D23E61F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "WeaponData",
-        "checksum": 1473697397
+        "checksum": 1473697397,
+        "checksumHex": "57D6D675"
       },
       {
         "name": "WeaponLevel",
-        "checksum": 289172364
+        "checksum": 289172364,
+        "checksumHex": "113C6B8C"
       }
     ]
   },
@@ -3187,11 +3876,13 @@
     "properties": [
       {
         "name": "AttachParent",
-        "checksum": 4168371630
+        "checksum": 4168371630,
+        "checksumHex": "F8744DAE"
       },
       {
         "name": "bIsActive",
-        "checksum": 2967469237
+        "checksum": 2967469237,
+        "checksumHex": "B0DFFCB5"
       }
     ]
   },
@@ -3201,7 +3892,8 @@
     "properties": [
       {
         "name": "ModifierDef",
-        "checksum": 4036091845
+        "checksum": 4036091845,
+        "checksumHex": "F091DFC5"
       }
     ]
   },
@@ -3211,19 +3903,23 @@
     "properties": [
       {
         "name": "AvatarActor",
-        "checksum": 1829222345
+        "checksum": 1829222345,
+        "checksumHex": "6D07B7C9"
       },
       {
         "name": "OwnerActor",
-        "checksum": 3069409379
+        "checksum": 3069409379,
+        "checksumHex": "B6F37863"
       },
       {
         "name": "SpawnedAttributes",
-        "checksum": 3229084341
+        "checksum": 3229084341,
+        "checksumHex": "C077EAB5"
       },
       {
         "name": "SpawnedAttributes",
-        "checksum": 3532347751
+        "checksum": 3532347751,
+        "checksumHex": "D28B5967"
       }
     ]
   },
@@ -3233,27 +3929,33 @@
     "properties": [
       {
         "name": "AvatarActor",
-        "checksum": 1829222345
+        "checksum": 1829222345,
+        "checksumHex": "6D07B7C9"
       },
       {
         "name": "OwnerActor",
-        "checksum": 3069409379
+        "checksum": 3069409379,
+        "checksumHex": "B6F37863"
       },
       {
         "name": "SimulatedTasks",
-        "checksum": 1851923830
+        "checksum": 1851923830,
+        "checksumHex": "6E621D76"
       },
       {
         "name": "SimulatedTasks",
-        "checksum": 2688965388
+        "checksum": 2688965388,
+        "checksumHex": "A0465B0C"
       },
       {
         "name": "SpawnedAttributes",
-        "checksum": 3229084341
+        "checksum": 3229084341,
+        "checksumHex": "C077EAB5"
       },
       {
         "name": "SpawnedAttributes",
-        "checksum": 3532347751
+        "checksum": 3532347751,
+        "checksumHex": "D28B5967"
       }
     ]
   },
@@ -3263,83 +3965,103 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 277431671
+        "checksum": 277431671,
+        "checksumHex": "10894577"
       },
       {
         "name": "BaseValue",
-        "checksum": 379235997
+        "checksum": 379235997,
+        "checksumHex": "169AAE9D"
       },
       {
         "name": "BaseValue",
-        "checksum": 1180301697
+        "checksum": 1180301697,
+        "checksumHex": "4659F981"
       },
       {
         "name": "BaseValue",
-        "checksum": 1259908824
+        "checksum": 1259908824,
+        "checksumHex": "4B18AED8"
       },
       {
         "name": "BaseValue",
-        "checksum": 2114645667
+        "checksum": 2114645667,
+        "checksumHex": "7E0AEEA3"
       },
       {
         "name": "CurrentValue",
-        "checksum": 473524852
+        "checksum": 473524852,
+        "checksumHex": "1C396A74"
       },
       {
         "name": "CurrentValue",
-        "checksum": 1817790855
+        "checksum": 1817790855,
+        "checksumHex": "6C594987"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2775905914
+        "checksum": 2775905914,
+        "checksumHex": "A574F67A"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2822021594
+        "checksum": 2822021594,
+        "checksumHex": "A834A1DA"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3158407793
+        "checksum": 3158407793,
+        "checksumHex": "BC417A71"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 162133608
+        "checksum": 162133608,
+        "checksumHex": "09A9F668"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 333841517
+        "checksum": 333841517,
+        "checksumHex": "13E6046D"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 401010274
+        "checksum": 401010274,
+        "checksumHex": "17E6EE62"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 2954339643
+        "checksum": 2954339643,
+        "checksumHex": "B017A53B"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 3141285814
+        "checksum": 3141285814,
+        "checksumHex": "BB3C37B6"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 1268443012
+        "checksum": 1268443012,
+        "checksumHex": "4B9AE784"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 1422514939
+        "checksum": 1422514939,
+        "checksumHex": "54C9DAFB"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 2514163985
+        "checksum": 2514163985,
+        "checksumHex": "95DB1911"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 3190550437
+        "checksum": 3190550437,
+        "checksumHex": "BE2BEFA5"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 3743439216
+        "checksum": 3743439216,
+        "checksumHex": "DF205970"
       }
     ]
   },
@@ -3349,7 +4071,8 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -3359,43 +4082,53 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 3129524333
+        "checksum": 3129524333,
+        "checksumHex": "BA88C06D"
       },
       {
         "name": "BaseValue",
-        "checksum": 4099898518
+        "checksum": 4099898518,
+        "checksumHex": "F45F7C96"
       },
       {
         "name": "bIsClamped",
-        "checksum": 397345901
+        "checksum": 397345901,
+        "checksumHex": "17AF046D"
       },
       {
         "name": "CurrentValue",
-        "checksum": 159608710
+        "checksum": 159608710,
+        "checksumHex": "09836F86"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3264251261
+        "checksum": 3264251261,
+        "checksumHex": "C290857D"
       },
       {
         "name": "Maximum",
-        "checksum": 2160711052
+        "checksum": 2160711052,
+        "checksumHex": "80C9D58C"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 152376441
+        "checksum": 152376441,
+        "checksumHex": "09151479"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 2155545782
+        "checksum": 2155545782,
+        "checksumHex": "807B04B6"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 934557638
+        "checksum": 934557638,
+        "checksumHex": "37B437C6"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 3198826171
+        "checksum": 3198826171,
+        "checksumHex": "BEAA36BB"
       }
     ]
   },
@@ -3405,23 +4138,28 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 3177402624
+        "checksum": 3177402624,
+        "checksumHex": "BD635100"
       },
       {
         "name": "B",
-        "checksum": 3216856615
+        "checksum": 3216856615,
+        "checksumHex": "BFBD5627"
       },
       {
         "name": "C",
-        "checksum": 3188239162
+        "checksum": 3188239162,
+        "checksumHex": "BE08AB3A"
       },
       {
         "name": "CancelledAnnouncements",
-        "checksum": 35320406
+        "checksum": 35320406,
+        "checksumHex": "021AF256"
       },
       {
         "name": "D",
-        "checksum": 3120650345
+        "checksum": 3120650345,
+        "checksumHex": "BA015869"
       }
     ]
   },
@@ -3431,11 +4169,13 @@
     "properties": [
       {
         "name": "StatName",
-        "checksum": 582032285
+        "checksum": 582032285,
+        "checksumHex": "22B11B9D"
       },
       {
         "name": "StatValue",
-        "checksum": 4211170554
+        "checksum": 4211170554,
+        "checksumHex": "FB015CFA"
       }
     ]
   },
@@ -3445,19 +4185,23 @@
     "properties": [
       {
         "name": "ActiveCreativeRealEstatePlots",
-        "checksum": 2549704993
+        "checksum": 2549704993,
+        "checksumHex": "97F96921"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "Plot",
-        "checksum": 3169975364
+        "checksum": 3169975364,
+        "checksumHex": "BCF1FC44"
       },
       {
         "name": "Position",
-        "checksum": 709012313
+        "checksum": 709012313,
+        "checksumHex": "2A42AB59"
       }
     ]
   },
@@ -3467,19 +4211,23 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 1828845894
+        "checksum": 1828845894,
+        "checksumHex": "6D01F946"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2455929129
+        "checksum": 2455929129,
+        "checksumHex": "92628129"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 208044586
+        "checksum": 208044586,
+        "checksumHex": "0C66822A"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 437977081
+        "checksum": 437977081,
+        "checksumHex": "1A1AFFF9"
       }
     ]
   },
@@ -3489,11 +4237,13 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "ReplayPawn",
-        "checksum": 1561060673
+        "checksum": 1561060673,
+        "checksumHex": "5D0BE541"
       }
     ]
   },
@@ -3503,75 +4253,93 @@
     "properties": [
       {
         "name": "A",
-        "checksum": 3280393308
+        "checksum": 3280393308,
+        "checksumHex": "C386D45C"
       },
       {
         "name": "AlterationInstances",
-        "checksum": 4116282646
+        "checksum": 4116282646,
+        "checksumHex": "F5597D16"
       },
       {
         "name": "B",
-        "checksum": 3243823995
+        "checksum": 3243823995,
+        "checksumHex": "C158D37B"
       },
       {
         "name": "bIsDirty",
-        "checksum": 1059942404
+        "checksum": 1059942404,
+        "checksumHex": "3F2D7004"
       },
       {
         "name": "bIsReplicatedCopy",
-        "checksum": 2051294057
+        "checksum": 2051294057,
+        "checksumHex": "7A444369"
       },
       {
         "name": "bWasGifted",
-        "checksum": 2143520709
+        "checksum": 2143520709,
+        "checksumHex": "7FC387C5"
       },
       {
         "name": "C",
-        "checksum": 3236769382
+        "checksum": 3236769382,
+        "checksumHex": "C0ED2E66"
       },
       {
         "name": "Count",
-        "checksum": 843381270
+        "checksum": 843381270,
+        "checksumHex": "3244FA16"
       },
       {
         "name": "D",
-        "checksum": 3303333173
+        "checksum": 3303333173,
+        "checksumHex": "C4E4DD35"
       },
       {
         "name": "Durability",
-        "checksum": 637617030
+        "checksum": 637617030,
+        "checksumHex": "26014386"
       },
       {
         "name": "GenericAttributeValues",
-        "checksum": 506813515
+        "checksum": 506813515,
+        "checksumHex": "1E355C4B"
       },
       {
         "name": "Handle",
-        "checksum": 3541909752
+        "checksum": 3541909752,
+        "checksumHex": "D31D40F8"
       },
       {
         "name": "inventory_overflow_date",
-        "checksum": 2542414030
+        "checksum": 2542414030,
+        "checksumHex": "978A28CE"
       },
       {
         "name": "ItemDefinition",
-        "checksum": 979059316
+        "checksum": 979059316,
+        "checksumHex": "3A5B4274"
       },
       {
         "name": "Level",
-        "checksum": 3376171892
+        "checksum": 3376171892,
+        "checksumHex": "C93C4B74"
       },
       {
         "name": "LoadedAmmo",
-        "checksum": 1055517320
+        "checksum": 1055517320,
+        "checksumHex": "3EE9EA88"
       },
       {
         "name": "ParentInventory",
-        "checksum": 2907643569
+        "checksum": 2907643569,
+        "checksumHex": "AD4F1EB1"
       },
       {
         "name": "StateValues",
-        "checksum": 696823727
+        "checksum": 696823727,
+        "checksumHex": "2988AFAF"
       }
     ]
   },
@@ -3581,51 +4349,63 @@
     "properties": [
       {
         "name": "AccountId",
-        "checksum": 555901454
+        "checksum": 555901454,
+        "checksumHex": "2122620E"
       },
       {
         "name": "AccountIdOfOwner",
-        "checksum": 3974476848
+        "checksum": 3974476848,
+        "checksumHex": "ECE5B430"
       },
       {
         "name": "bIsActive",
-        "checksum": 2967469237
+        "checksum": 2967469237,
+        "checksumHex": "B0DFFCB5"
       },
       {
         "name": "bIsLoaded",
-        "checksum": 3451615862
+        "checksum": 3451615862,
+        "checksumHex": "CDBB7A76"
       },
       {
         "name": "CreatorName",
-        "checksum": 3146968563
+        "checksum": 3146968563,
+        "checksumHex": "BB92EDF3"
       },
       {
         "name": "IslandIntroduction",
-        "checksum": 3439918459
+        "checksum": 3439918459,
+        "checksumHex": "CD08FD7B"
       },
       {
         "name": "IslandType",
-        "checksum": 1401797067
+        "checksum": 1401797067,
+        "checksumHex": "538DB9CB"
       },
       {
         "name": "LinkTagline",
-        "checksum": 2766522270
+        "checksum": 2766522270,
+        "checksumHex": "A4E5C79E"
       },
       {
         "name": "LinkTitle",
-        "checksum": 23893622
+        "checksum": 23893622,
+        "checksumHex": "016C9676"
       },
       {
         "name": "LinkYoutubeId",
-        "checksum": 2546916099
+        "checksum": 2546916099,
+        "checksumHex": "97CEDB03"
       },
       {
         "name": "Mnemonic",
-        "checksum": 3853510751
+        "checksum": 3853510751,
+        "checksumHex": "E5AFE85F"
       },
       {
         "name": "Version",
-        "checksum": 1271837344
+        "checksum": 1271837344,
+        "checksumHex": "4BCEB2A0"
       }
     ]
   },
@@ -3635,7 +4415,8 @@
     "properties": [
       {
         "name": "CurrentMinigame",
-        "checksum": 1848931641
+        "checksum": 1848931641,
+        "checksumHex": "6E347539"
       }
     ]
   },
@@ -3645,7 +4426,8 @@
     "properties": [
       {
         "name": "CurrentMinigame",
-        "checksum": 1848931641
+        "checksum": 1848931641,
+        "checksumHex": "6E347539"
       }
     ]
   },
@@ -3655,115 +4437,143 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 71786136
+        "checksum": 71786136,
+        "checksumHex": "04475E98"
       },
       {
         "name": "BaseValue",
-        "checksum": 995985305
+        "checksum": 995985305,
+        "checksumHex": "3B5D8799"
       },
       {
         "name": "BaseValue",
-        "checksum": 1592850447
+        "checksum": 1592850447,
+        "checksumHex": "5EF0F80F"
       },
       {
         "name": "BaseValue",
-        "checksum": 1962688437
+        "checksum": 1962688437,
+        "checksumHex": "74FC3FB5"
       },
       {
         "name": "BaseValue",
-        "checksum": 3645467085
+        "checksum": 3645467085,
+        "checksumHex": "D94969CD"
       },
       {
         "name": "BaseValue",
-        "checksum": 3794538358
+        "checksum": 3794538358,
+        "checksumHex": "E22C0F76"
       },
       {
         "name": "BaseValue",
-        "checksum": 3847469696
+        "checksum": 3847469696,
+        "checksumHex": "E553BA80"
       },
       {
         "name": "CurrentValue",
-        "checksum": 37582613
+        "checksum": 37582613,
+        "checksumHex": "023D7715"
       },
       {
         "name": "CurrentValue",
-        "checksum": 230467837
+        "checksum": 230467837,
+        "checksumHex": "0DBCA8FD"
       },
       {
         "name": "CurrentValue",
-        "checksum": 370460728
+        "checksum": 370460728,
+        "checksumHex": "1614C838"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2630715400
+        "checksum": 2630715400,
+        "checksumHex": "9CCD8808"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2994605179
+        "checksum": 2994605179,
+        "checksumHex": "B27E0C7B"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3267718486
+        "checksum": 3267718486,
+        "checksumHex": "C2C56D56"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3832700412
+        "checksum": 3832700412,
+        "checksumHex": "E4725DFC"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 279416059
+        "checksum": 279416059,
+        "checksumHex": "10A78CFB"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 544765817
+        "checksum": 544765817,
+        "checksumHex": "20787779"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 988126549
+        "checksum": 988126549,
+        "checksumHex": "3AE59D55"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 1508017469
+        "checksum": 1508017469,
+        "checksumHex": "59E2853D"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 2290447195
+        "checksum": 2290447195,
+        "checksumHex": "8885735B"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 3342150453
+        "checksum": 3342150453,
+        "checksumHex": "C7352B35"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 3585413167
+        "checksum": 3585413167,
+        "checksumHex": "D5B5102F"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 181693951
+        "checksum": 181693951,
+        "checksumHex": "0AD46DFF"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 255853396
+        "checksum": 255853396,
+        "checksumHex": "0F400354"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 567532075
+        "checksum": 567532075,
+        "checksumHex": "21D3DA2B"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 1392277894
+        "checksum": 1392277894,
+        "checksumHex": "52FC7986"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 2249697639
+        "checksum": 2249697639,
+        "checksumHex": "8617A967"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 2626306891
+        "checksum": 2626306891,
+        "checksumHex": "9C8A434B"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 4106845383
+        "checksum": 4106845383,
+        "checksumHex": "F4C97CC7"
       }
     ]
   },
@@ -3773,27 +4583,33 @@
     "properties": [
       {
         "name": "DefaultPropertyData",
-        "checksum": 3872224250
+        "checksum": 3872224250,
+        "checksumHex": "E6CD73FA"
       },
       {
         "name": "OverrideMode",
-        "checksum": 3151172000
+        "checksum": 3151172000,
+        "checksumHex": "BBD311A0"
       },
       {
         "name": "PropertyData",
-        "checksum": 1585299750
+        "checksum": 1585299750,
+        "checksumHex": "5E7DC126"
       },
       {
         "name": "PropertyName",
-        "checksum": 174076142
+        "checksum": 174076142,
+        "checksumHex": "0A6030EE"
       },
       {
         "name": "PropertyOverrides",
-        "checksum": 2829699277
+        "checksum": 2829699277,
+        "checksumHex": "A8A9C8CD"
       },
       {
         "name": "PropertyScope",
-        "checksum": 4040178860
+        "checksum": 4040178860,
+        "checksumHex": "F0D03CAC"
       }
     ]
   },
@@ -3803,55 +4619,68 @@
     "properties": [
       {
         "name": "bIsBallistic",
-        "checksum": 2616707392
+        "checksum": 2616707392,
+        "checksumHex": "9BF7C940"
       },
       {
         "name": "bIsCritical",
-        "checksum": 1252540014
+        "checksum": 1252540014,
+        "checksumHex": "4AA83E6E"
       },
       {
         "name": "bIsFatal",
-        "checksum": 73474297
+        "checksum": 73474297,
+        "checksumHex": "046120F9"
       },
       {
         "name": "bIsShield",
-        "checksum": 3133042236
+        "checksum": 3133042236,
+        "checksumHex": "BABE6E3C"
       },
       {
         "name": "bIsShieldDestroyed",
-        "checksum": 1609441920
+        "checksum": 1609441920,
+        "checksumHex": "5FEE2280"
       },
       {
         "name": "bWeaponActivate",
-        "checksum": 1467349664
+        "checksum": 1467349664,
+        "checksumHex": "5775FAA0"
       },
       {
         "name": "HitActor",
-        "checksum": 269202710
+        "checksum": 269202710,
+        "checksumHex": "100BB516"
       },
       {
         "name": "Location",
-        "checksum": 3299560709
+        "checksum": 3299560709,
+        "checksumHex": "C4AB4D05"
       },
       {
         "name": "Magnitude",
-        "checksum": 4091915056
+        "checksum": 4091915056,
+        "checksumHex": "F3E5AB30"
       },
       {
         "name": "NonPlayerbIsCritical",
-        "checksum": 1052427909
+        "checksum": 1052427909,
+        "checksumHex": "3EBAC685"
       },
       {
         "name": "NonPlayerbIsFatal",
-        "checksum": 1273693939
+        "checksum": 1273693939,
+        "checksumHex": "4BEB06F3"
       },
       {
         "name": "NonPlayerHitActor",
-        "checksum": 3850959796
+        "checksum": 3850959796,
+        "checksumHex": "E588FBB4"
       },
       {
         "name": "Normal",
-        "checksum": 84408805
+        "checksum": 84408805,
+        "checksumHex": "0507F9E5"
       }
     ]
   },
@@ -3861,15 +4690,18 @@
     "properties": [
       {
         "name": "GameplayCueTag",
-        "checksum": 3549897486
+        "checksum": 3549897486,
+        "checksumHex": "D397230E"
       },
       {
         "name": "Parameters",
-        "checksum": 910256769
+        "checksum": 910256769,
+        "checksumHex": "36416A81"
       },
       {
         "name": "PredictionKey",
-        "checksum": 3275717157
+        "checksum": 3275717157,
+        "checksumHex": "C33F7A25"
       }
     ]
   },
@@ -3879,51 +4711,63 @@
     "properties": [
       {
         "name": "AbilityLevel",
-        "checksum": 1483881693
+        "checksum": 1483881693,
+        "checksumHex": "58723CDD"
       },
       {
         "name": "AggregatedSourceTags",
-        "checksum": 136675807
+        "checksum": 136675807,
+        "checksumHex": "082581DF"
       },
       {
         "name": "AggregatedTargetTags",
-        "checksum": 2301677359
+        "checksum": 2301677359,
+        "checksumHex": "8930CF2F"
       },
       {
         "name": "Attribute",
-        "checksum": 2467712061
+        "checksum": 2467712061,
+        "checksumHex": "93164C3D"
       },
       {
         "name": "AttributeName",
-        "checksum": 1408090502
+        "checksum": 1408090502,
+        "checksumHex": "53EDC186"
       },
       {
         "name": "AttributeOwner",
-        "checksum": 2098951271
+        "checksum": 2098951271,
+        "checksumHex": "7D1B7467"
       },
       {
         "name": "Def",
-        "checksum": 32800255
+        "checksum": 32800255,
+        "checksumHex": "01F47DFF"
       },
       {
         "name": "EffectContext",
-        "checksum": 2005005840
+        "checksum": 2005005840,
+        "checksumHex": "7781F610"
       },
       {
         "name": "Level",
-        "checksum": 1038270982
+        "checksum": 1038270982,
+        "checksumHex": "3DE2C206"
       },
       {
         "name": "ModifiedAttributes",
-        "checksum": 693664205
+        "checksum": 693664205,
+        "checksumHex": "295879CD"
       },
       {
         "name": "PredictionKey",
-        "checksum": 3275717157
+        "checksum": 3275717157,
+        "checksumHex": "C33F7A25"
       },
       {
         "name": "TotalMagnitude",
-        "checksum": 66305807
+        "checksum": 66305807,
+        "checksumHex": "03F3BF0F"
       }
     ]
   },
@@ -3933,15 +4777,18 @@
     "properties": [
       {
         "name": "GameplayCueParameters",
-        "checksum": 1432603750
+        "checksum": 1432603750,
+        "checksumHex": "5563CC66"
       },
       {
         "name": "GameplayCueTag",
-        "checksum": 3549897486
+        "checksum": 3549897486,
+        "checksumHex": "D397230E"
       },
       {
         "name": "PredictionKey",
-        "checksum": 3275717157
+        "checksum": 3275717157,
+        "checksumHex": "C33F7A25"
       }
     ]
   },
@@ -3951,19 +4798,23 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 2482511721
+        "checksum": 2482511721,
+        "checksumHex": "93F81F69"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2234127135
+        "checksum": 2234127135,
+        "checksumHex": "852A131F"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 2342037387
+        "checksum": 2342037387,
+        "checksumHex": "8B98A78B"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 36959671
+        "checksum": 36959671,
+        "checksumHex": "0233F5B7"
       }
     ]
   },
@@ -3973,7 +4824,8 @@
     "properties": [
       {
         "name": "SharedRepMovement",
-        "checksum": 2745203997
+        "checksum": 2745203997,
+        "checksumHex": "A3A07D1D"
       }
     ]
   },
@@ -3983,35 +4835,43 @@
     "properties": [
       {
         "name": "AttachComponent",
-        "checksum": 924082277
+        "checksum": 924082277,
+        "checksumHex": "37146065"
       },
       {
         "name": "AttachParent",
-        "checksum": 3846863854
+        "checksum": 3846863854,
+        "checksumHex": "E54A7BEE"
       },
       {
         "name": "GameTimeEnd",
-        "checksum": 2453921372
+        "checksum": 2453921372,
+        "checksumHex": "9243DE5C"
       },
       {
         "name": "LookAtTarget",
-        "checksum": 65695047
+        "checksum": 65695047,
+        "checksumHex": "03EA6D47"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "PetItemDef",
-        "checksum": 1434253237
+        "checksum": 1434253237,
+        "checksumHex": "557CF7B5"
       },
       {
         "name": "RelativeScale3D",
-        "checksum": 1992268157
+        "checksum": 1992268157,
+        "checksumHex": "76BF997D"
       },
       {
         "name": "Stimuli",
-        "checksum": 626646912
+        "checksum": 626646912,
+        "checksumHex": "2559DF80"
       }
     ]
   },
@@ -4021,187 +4881,233 @@
     "properties": [
       {
         "name": "Attribute",
-        "checksum": 1932970860
+        "checksum": 1932970860,
+        "checksumHex": "7336CB6C"
       },
       {
         "name": "AttributeName",
-        "checksum": 4054344350
+        "checksum": 4054344350,
+        "checksumHex": "F1A8629E"
       },
       {
         "name": "AttributeOwner",
-        "checksum": 4050960419
+        "checksum": 4050960419,
+        "checksumHex": "F174C023"
       },
       {
         "name": "bHasEverSkydivedFromBus",
-        "checksum": 2997308106
+        "checksum": 2997308106,
+        "checksumHex": "B2A74ACA"
       },
       {
         "name": "bHasEverSkydivedFromBusAndLanded",
-        "checksum": 998702602
+        "checksum": 998702602,
+        "checksumHex": "3B86FE0A"
       },
       {
         "name": "bHasFinishedLoading",
-        "checksum": 3946197037
+        "checksum": 3946197037,
+        "checksumHex": "EB36302D"
       },
       {
         "name": "bHasStartedPlaying",
-        "checksum": 4232668705
+        "checksum": 4232668705,
+        "checksumHex": "FC496621"
       },
       {
         "name": "bInitialized",
-        "checksum": 2515571509
+        "checksum": 2515571509,
+        "checksumHex": "95F09335"
       },
       {
         "name": "bIsGameSessionOwner",
-        "checksum": 4030121524
+        "checksum": 4030121524,
+        "checksumHex": "F036C634"
       },
       {
         "name": "bOnlySpectator",
-        "checksum": 2951096964
+        "checksum": 2951096964,
+        "checksumHex": "AFE62A84"
       },
       {
         "name": "bUsingAnonymousMode",
-        "checksum": 2016080843
+        "checksum": 2016080843,
+        "checksumHex": "782AF3CB"
       },
       {
         "name": "CharacterBodyType",
-        "checksum": 630280901
+        "checksum": 630280901,
+        "checksumHex": "259152C5"
       },
       {
         "name": "CharacterGender",
-        "checksum": 1675769946
+        "checksum": 1675769946,
+        "checksumHex": "63E2385A"
       },
       {
         "name": "ColorId",
-        "checksum": 4154296167
+        "checksum": 4154296167,
+        "checksumHex": "F79D8767"
       },
       {
         "name": "CurrentValue",
-        "checksum": 1749203611
+        "checksum": 1749203611,
+        "checksumHex": "6842BA9B"
       },
       {
         "name": "DeathCause",
-        "checksum": 2520402839
+        "checksum": 2520402839,
+        "checksumHex": "963A4B97"
       },
       {
         "name": "Distance",
-        "checksum": 1259136789
+        "checksum": 1259136789,
+        "checksumHex": "4B0CE715"
       },
       {
         "name": "FinisherOrDowner",
-        "checksum": 164425416
+        "checksum": 164425416,
+        "checksumHex": "09CCEEC8"
       },
       {
         "name": "HeroType",
-        "checksum": 887311254
+        "checksum": 887311254,
+        "checksumHex": "34E34B96"
       },
       {
         "name": "IconId",
-        "checksum": 1966258539
+        "checksum": 1966258539,
+        "checksumHex": "7532B96B"
       },
       {
         "name": "KillScore",
-        "checksum": 3897478081
+        "checksum": 3897478081,
+        "checksumHex": "E84ECBC1"
       },
       {
         "name": "Level",
-        "checksum": 389698847
+        "checksum": 389698847,
+        "checksumHex": "173A551F"
       },
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       },
       {
         "name": "Parts",
-        "checksum": 500748837
+        "checksum": 500748837,
+        "checksumHex": "1DD8D225"
       },
       {
         "name": "Parts",
-        "checksum": 705045015
+        "checksum": 705045015,
+        "checksumHex": "2A062217"
       },
       {
         "name": "Parts",
-        "checksum": 951291385
+        "checksum": 951291385,
+        "checksumHex": "38B38DF9"
       },
       {
         "name": "Parts",
-        "checksum": 2148526748
+        "checksum": 2148526748,
+        "checksumHex": "800FEA9C"
       },
       {
         "name": "Parts",
-        "checksum": 2461681010
+        "checksum": 2461681010,
+        "checksumHex": "92BA4572"
       },
       {
         "name": "Parts",
-        "checksum": 2774840640
+        "checksum": 2774840640,
+        "checksumHex": "A564B540"
       },
       {
         "name": "PartyOwnerUniqueId",
-        "checksum": 3256084581
+        "checksum": 3256084581,
+        "checksumHex": "C213E865"
       },
       {
         "name": "Ping",
-        "checksum": 3474348186
+        "checksum": 3474348186,
+        "checksumHex": "CF16589A"
       },
       {
         "name": "Place",
-        "checksum": 154120969
+        "checksum": 154120969,
+        "checksumHex": "092FB309"
       },
       {
         "name": "Platform",
-        "checksum": 2367070105
+        "checksum": 2367070105,
+        "checksumHex": "8D169F99"
       },
       {
         "name": "PlatformUniqueNetId",
-        "checksum": 3476286551
+        "checksum": 3476286551,
+        "checksumHex": "CF33EC57"
       },
       {
         "name": "PlayerID",
-        "checksum": 2396673102
+        "checksum": 2396673102,
+        "checksumHex": "8EDA544E"
       },
       {
         "name": "PlayerNamePrivate",
-        "checksum": 3040447831
+        "checksum": 3040447831,
+        "checksumHex": "B5398D57"
       },
       {
         "name": "PlayerRole",
-        "checksum": 327025759
+        "checksum": 327025759,
+        "checksumHex": "137E045F"
       },
       {
         "name": "PlayerTeamPrivate",
-        "checksum": 756921039
+        "checksum": 756921039,
+        "checksumHex": "2D1DB2CF"
       },
       {
         "name": "SimulatedAttributes",
-        "checksum": 681906968
+        "checksum": 681906968,
+        "checksumHex": "28A51318"
       },
       {
         "name": "SquadId",
-        "checksum": 3738570899
+        "checksum": 3738570899,
+        "checksumHex": "DED61093"
       },
       {
         "name": "StartTime",
-        "checksum": 4206510639
+        "checksum": 4206510639,
+        "checksumHex": "FABA422F"
       },
       {
         "name": "StreamerModeName",
-        "checksum": 2427541700
+        "checksum": 2427541700,
+        "checksumHex": "90B158C4"
       },
       {
         "name": "TeamIndex",
-        "checksum": 385374885
+        "checksum": 385374885,
+        "checksumHex": "16F85AA5"
       },
       {
         "name": "UniqueId",
-        "checksum": 1496955607
+        "checksum": 1496955607,
+        "checksumHex": "5939BAD7"
       },
       {
         "name": "WasReplicatedFlags",
-        "checksum": 2439862400
+        "checksum": 2439862400,
+        "checksumHex": "916D5880"
       },
       {
         "name": "WorldPlayerId",
-        "checksum": 3528606948
+        "checksum": 3528606948,
+        "checksumHex": "D25244E4"
       }
     ]
   },
@@ -4211,39 +5117,48 @@
     "properties": [
       {
         "name": "GridCountX",
-        "checksum": 4278371508
+        "checksum": 4278371508,
+        "checksumHex": "FF02C4B4"
       },
       {
         "name": "GridCountY",
-        "checksum": 4273420713
+        "checksum": 4273420713,
+        "checksumHex": "FEB739A9"
       },
       {
         "name": "PoiTagContainerTable",
-        "checksum": 321112999
+        "checksum": 321112999,
+        "checksumHex": "1323CBA7"
       },
       {
         "name": "PoiTagContainerTable",
-        "checksum": 1394043439
+        "checksum": 1394043439,
+        "checksumHex": "53176A2F"
       },
       {
         "name": "PoiTagContainerTableSize",
-        "checksum": 3461143655
+        "checksum": 3461143655,
+        "checksumHex": "CE4CDC67"
       },
       {
         "name": "WorldGridEnd",
-        "checksum": 1222049891
+        "checksum": 1222049891,
+        "checksumHex": "48D70063"
       },
       {
         "name": "WorldGridSpacing",
-        "checksum": 2645415442
+        "checksum": 2645415442,
+        "checksumHex": "9DADD612"
       },
       {
         "name": "WorldGridStart",
-        "checksum": 3499169594
+        "checksum": 3499169594,
+        "checksumHex": "D091173A"
       },
       {
         "name": "WorldGridTotalSize",
-        "checksum": 3056168652
+        "checksum": 3056168652,
+        "checksumHex": "B6296ECC"
       }
     ]
   },
@@ -4253,123 +5168,153 @@
     "properties": [
       {
         "name": "BaseValue",
-        "checksum": 171156052
+        "checksum": 171156052,
+        "checksumHex": "0A33A254"
       },
       {
         "name": "BaseValue",
-        "checksum": 1100951338
+        "checksum": 1100951338,
+        "checksumHex": "419F2F2A"
       },
       {
         "name": "BaseValue",
-        "checksum": 2096426353
+        "checksum": 2096426353,
+        "checksumHex": "7CF4ED71"
       },
       {
         "name": "BaseValue",
-        "checksum": 3129524333
+        "checksum": 3129524333,
+        "checksumHex": "BA88C06D"
       },
       {
         "name": "BaseValue",
-        "checksum": 3614988867
+        "checksum": 3614988867,
+        "checksumHex": "D7785A43"
       },
       {
         "name": "BaseValue",
-        "checksum": 4099898518
+        "checksum": 4099898518,
+        "checksumHex": "F45F7C96"
       },
       {
         "name": "BaseValue",
-        "checksum": 4262195990
+        "checksum": 4262195990,
+        "checksumHex": "FE0BF316"
       },
       {
         "name": "CurrentValue",
-        "checksum": 159608710
+        "checksum": 159608710,
+        "checksumHex": "09836F86"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2111444546
+        "checksum": 2111444546,
+        "checksumHex": "7DDA1642"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2703423492
+        "checksum": 2703423492,
+        "checksumHex": "A122F804"
       },
       {
         "name": "CurrentValue",
-        "checksum": 2827775379
+        "checksum": 2827775379,
+        "checksumHex": "A88C6D93"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3041447457
+        "checksum": 3041447457,
+        "checksumHex": "B548CE21"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3264251261
+        "checksum": 3264251261,
+        "checksumHex": "C290857D"
       },
       {
         "name": "CurrentValue",
-        "checksum": 3816246197
+        "checksum": 3816246197,
+        "checksumHex": "E3774BB5"
       },
       {
         "name": "Maximum",
-        "checksum": 1055722029
+        "checksum": 1055722029,
+        "checksumHex": "3EED0A2D"
       },
       {
         "name": "Maximum",
-        "checksum": 2160711052
+        "checksum": 2160711052,
+        "checksumHex": "80C9D58C"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 152376441
+        "checksum": 152376441,
+        "checksumHex": "09151479"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 480145599
+        "checksum": 480145599,
+        "checksumHex": "1C9E70BF"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 866604505
+        "checksum": 866604505,
+        "checksumHex": "33A755D9"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 947197840
+        "checksum": 947197840,
+        "checksumHex": "38751790"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 1275241199
+        "checksum": 1275241199,
+        "checksumHex": "4C02A2EF"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 2155545782
+        "checksum": 2155545782,
+        "checksumHex": "807B04B6"
       },
       {
         "name": "UnclampedBaseValue",
-        "checksum": 3899259416
+        "checksum": 3899259416,
+        "checksumHex": "E869FA18"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 809004990
+        "checksum": 809004990,
+        "checksumHex": "30386FBE"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 934557638
+        "checksum": 934557638,
+        "checksumHex": "37B437C6"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 1377794083
+        "checksum": 1377794083,
+        "checksumHex": "521F7823"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 1771590841
+        "checksum": 1771590841,
+        "checksumHex": "699854B9"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 2425510468
+        "checksum": 2425510468,
+        "checksumHex": "90925A44"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 2479339615
+        "checksum": 2479339615,
+        "checksumHex": "93C7B85F"
       },
       {
         "name": "UnclampedCurrentValue",
-        "checksum": 3198826171
+        "checksum": 3198826171,
+        "checksumHex": "BEAA36BB"
       }
     ]
   },
@@ -4379,7 +5324,8 @@
     "properties": [
       {
         "name": "Owner",
-        "checksum": 1022089157
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
       }
     ]
   },
@@ -4389,11 +5335,13 @@
     "properties": [
       {
         "name": "bShouldOverrideTimeOfDay",
-        "checksum": 4275318111
+        "checksum": 4275318111,
+        "checksumHex": "FED42D5F"
       },
       {
         "name": "TimeOfDayManager",
-        "checksum": 1000717595
+        "checksum": 1000717595,
+        "checksumHex": "3BA5BD1B"
       }
     ]
   },
@@ -4403,7 +5351,8 @@
     "properties": [
       {
         "name": "FinalNumChosenBuildingFoundations",
-        "checksum": 153669869
+        "checksum": 153669869,
+        "checksumHex": "0928D0ED"
       }
     ]
   },
@@ -4413,15 +5362,18 @@
     "properties": [
       {
         "name": "MemberUniqueId",
-        "checksum": 404746973
+        "checksum": 404746973,
+        "checksumHex": "181FF2DD"
       },
       {
         "name": "SquadId",
-        "checksum": 3738570899
+        "checksum": 3738570899,
+        "checksumHex": "DED61093"
       },
       {
         "name": "TeamIndex",
-        "checksum": 385374885
+        "checksum": 385374885,
+        "checksumHex": "16F85AA5"
       }
     ]
   },
@@ -4431,19 +5383,23 @@
     "properties": [
       {
         "name": "LastRepLocation",
-        "checksum": 2605045410
+        "checksum": 2605045410,
+        "checksumHex": "9B45D6A2"
       },
       {
         "name": "LastRepYaw",
-        "checksum": 1162005441
+        "checksum": 1162005441,
+        "checksumHex": "4542CBC1"
       },
       {
         "name": "PawnStateMask",
-        "checksum": 2158255225
+        "checksum": 2158255225,
+        "checksumHex": "80A45C79"
       },
       {
         "name": "PlayerState",
-        "checksum": 3664007616
+        "checksum": 3664007616,
+        "checksumHex": "DA6451C0"
       }
     ]
   },
@@ -4453,43 +5409,53 @@
     "properties": [
       {
         "name": "bHasValidResetData",
-        "checksum": 3069839890
+        "checksum": 3069839890,
+        "checksumHex": "B6FA0A12"
       },
       {
         "name": "bIsLocationBeforeGameStartedBlocked",
-        "checksum": 2576802754
+        "checksum": 2576802754,
+        "checksumHex": "9996E3C2"
       },
       {
         "name": "bIsTeleportingOrRespawningForGameplay",
-        "checksum": 1219046417
+        "checksum": 1219046417,
+        "checksumHex": "48A92C11"
       },
       {
         "name": "bWasFlyingBeforeMinigameStarted",
-        "checksum": 1534031509
+        "checksum": 1534031509,
+        "checksumHex": "5B6F7695"
       },
       {
         "name": "bWasSkydivingBeforeMinigameStarted",
-        "checksum": 3685243530
+        "checksum": 3685243530,
+        "checksumHex": "DBA85A8A"
       },
       {
         "name": "ClaimedPlayerStart",
-        "checksum": 1695979911
+        "checksum": 1695979911,
+        "checksumHex": "65169987"
       },
       {
         "name": "LocationBeforeMinigameStarted",
-        "checksum": 2461781941
+        "checksum": 2461781941,
+        "checksumHex": "92BBCFB5"
       },
       {
         "name": "PlayerState",
-        "checksum": 2047672262
+        "checksum": 2047672262,
+        "checksumHex": "7A0CFFC6"
       },
       {
         "name": "RotationBeforeMinigameStarted",
-        "checksum": 2106045712
+        "checksum": 2106045712,
+        "checksumHex": "7D87B510"
       },
       {
         "name": "TeamBeforeMinigameStarted",
-        "checksum": 2842230453
+        "checksum": 2842230453,
+        "checksumHex": "A968FEB5"
       }
     ]
   },
@@ -4499,27 +5465,33 @@
     "properties": [
       {
         "name": "bIsActive",
-        "checksum": 2967469237
+        "checksum": 2967469237,
+        "checksumHex": "B0DFFCB5"
       },
       {
         "name": "bValid",
-        "checksum": 762138319
+        "checksum": 762138319,
+        "checksumHex": "2D6D4ECF"
       },
       {
         "name": "Location",
-        "checksum": 1522214489
+        "checksum": 1522214489,
+        "checksumHex": "5ABB2659"
       },
       {
         "name": "PackageName",
-        "checksum": 1533263077
+        "checksum": 1533263077,
+        "checksumHex": "5B63BCE5"
       },
       {
         "name": "Rotation",
-        "checksum": 3763686276
+        "checksum": 3763686276,
+        "checksumHex": "E0554B84"
       },
       {
         "name": "UniquePackageName",
-        "checksum": 1882349749
+        "checksum": 1882349749,
+        "checksumHex": "703260B5"
       }
     ]
   },
@@ -4529,11 +5501,13 @@
     "properties": [
       {
         "name": "PlayerID",
-        "checksum": 4197416564
+        "checksum": 4197416564,
+        "checksumHex": "FA2F7E74"
       },
       {
         "name": "Value",
-        "checksum": 3546960199
+        "checksum": 3546960199,
+        "checksumHex": "D36A5147"
       }
     ]
   },
@@ -4543,11 +5517,13 @@
     "properties": [
       {
         "name": "UniqueId",
-        "checksum": 1496955607
+        "checksum": 1496955607,
+        "checksumHex": "5939BAD7"
       },
       {
         "name": "VoiceChannel",
-        "checksum": 3682720060
+        "checksum": 3682720060,
+        "checksumHex": "DB81D93C"
       }
     ]
   },
@@ -4557,11 +5533,13 @@
     "properties": [
       {
         "name": "PlayerState",
-        "checksum": 3964024390
+        "checksum": 3964024390,
+        "checksumHex": "EC463646"
       },
       {
         "name": "Volume",
-        "checksum": 3470664322
+        "checksum": 3470664322,
+        "checksumHex": "CEDE2282"
       }
     ]
   },
@@ -4571,63 +5549,78 @@
     "properties": [
       {
         "name": "ChanceToApplyToTarget",
-        "checksum": 988194082
+        "checksum": 988194082,
+        "checksumHex": "3AE6A522"
       },
       {
         "name": "Def",
-        "checksum": 1934550845
+        "checksum": 1934550845,
+        "checksumHex": "734EE73D"
       },
       {
         "name": "Duration",
-        "checksum": 11727481
+        "checksum": 11727481,
+        "checksumHex": "00B2F279"
       },
       {
         "name": "DynamicAssetTags",
-        "checksum": 4067012
+        "checksum": 4067012,
+        "checksumHex": "003E0EC4"
       },
       {
         "name": "DynamicGrantedTags",
-        "checksum": 4000055317
+        "checksum": 4000055317,
+        "checksumHex": "EE6C0015"
       },
       {
         "name": "EffectContext",
-        "checksum": 2128581143
+        "checksum": 2128581143,
+        "checksumHex": "7EDF9217"
       },
       {
         "name": "EvaluatedMagnitude",
-        "checksum": 4278577482
+        "checksum": 4278577482,
+        "checksumHex": "FF05E94A"
       },
       {
         "name": "GrantedAbilitySpecs",
-        "checksum": 475883320
+        "checksum": 475883320,
+        "checksumHex": "1C5D6738"
       },
       {
         "name": "Level",
-        "checksum": 511636745
+        "checksum": 511636745,
+        "checksumHex": "1E7EF509"
       },
       {
         "name": "ModifiedAttributes",
-        "checksum": 911904455
+        "checksum": 911904455,
+        "checksumHex": "365A8EC7"
       },
       {
         "name": "Modifiers",
-        "checksum": 3893998800
+        "checksum": 3893998800,
+        "checksumHex": "E819B4D0"
       },
       {
         "name": "Period",
-        "checksum": 1670139024
+        "checksum": 1670139024,
+        "checksumHex": "638C4C90"
       },
       {
         "name": "PredictionKey",
-        "checksum": 3275717157
+        "checksum": 3275717157,
+        "checksumHex": "C33F7A25"
       },
       {
         "name": "StackCount",
-        "checksum": 2539792626
+        "checksum": 2539792626,
+        "checksumHex": "976228F2"
       },
       {
         "name": "StartServerWorldTime",
-        "checksum": 1922856247
+        "checksum": 1922856247,
+        "checksumHex": "729C7537"
       }
     ]
   },
@@ -4637,31 +5630,38 @@
     "properties": [
       {
         "name": "Ability",
-        "checksum": 3218773842
+        "checksum": 3218773842,
+        "checksumHex": "BFDA9752"
       },
       {
         "name": "Handle",
-        "checksum": 4198120770
+        "checksum": 4198120770,
+        "checksumHex": "FA3A3D42"
       },
       {
         "name": "InputID",
-        "checksum": 2441329372
+        "checksum": 2441329372,
+        "checksumHex": "9183BADC"
       },
       {
         "name": "Level",
-        "checksum": 3376171892
+        "checksum": 3376171892,
+        "checksumHex": "C93C4B74"
       },
       {
         "name": "ReplicatedInstances",
-        "checksum": 560295766
+        "checksum": 560295766,
+        "checksumHex": "21656F56"
       },
       {
         "name": "ReplicatedInstances",
-        "checksum": 3496279434
+        "checksum": 3496279434,
+        "checksumHex": "D064FD8A"
       },
       {
         "name": "SourceObject",
-        "checksum": 3652934519
+        "checksum": 3652934519,
+        "checksumHex": "D9BB5B77"
       }
     ]
   },
@@ -4671,15 +5671,18 @@
     "properties": [
       {
         "name": "ActiveGameplayModifiers",
-        "checksum": 3813425924
+        "checksum": 3813425924,
+        "checksumHex": "E34C4304"
       },
       {
         "name": "CurrentPlaylistInfo",
-        "checksum": 623523878
+        "checksum": 623523878,
+        "checksumHex": "252A3826"
       },
       {
         "name": "GameMemberInfoArray",
-        "checksum": 267702116
+        "checksum": 267702116,
+        "checksumHex": "0FF4CF64"
       }
     ]
   },
@@ -4689,7 +5692,8 @@
     "properties": [
       {
         "name": "Client On Thrown",
-        "checksum": 1081830583
+        "checksum": 1081830583,
+        "checksumHex": "407B6CB7"
       }
     ]
   },
@@ -4699,11 +5703,13 @@
     "properties": [
       {
         "name": "Start Spin Down Audio",
-        "checksum": 605502496
+        "checksum": 605502496,
+        "checksumHex": "24173C20"
       },
       {
         "name": "Start Spin Up Audio",
-        "checksum": 1764062903
+        "checksum": 1764062903,
+        "checksumHex": "692576B7"
       }
     ]
   },
@@ -4713,15 +5719,18 @@
     "properties": [
       {
         "name": "Play Rift Exit Sound",
-        "checksum": 145388276
+        "checksum": 145388276,
+        "checksumHex": "08AA72F4"
       },
       {
         "name": "PlayCosmeticFX",
-        "checksum": 1672473945
+        "checksum": 1672473945,
+        "checksumHex": "63AFED59"
       },
       {
         "name": "PlayTeleportFX",
-        "checksum": 167282800
+        "checksum": 167282800,
+        "checksumHex": "09F88870"
       }
     ]
   },
@@ -4731,15 +5740,18 @@
     "properties": [
       {
         "name": "ActivatableAbilities",
-        "checksum": 113028074
+        "checksum": 113028074,
+        "checksumHex": "06BCABEA"
       },
       {
         "name": "ActiveGameplayEffects",
-        "checksum": 1607966964
+        "checksum": 1607966964,
+        "checksumHex": "5FD7A0F4"
       },
       {
         "name": "NetMulticast_RefreshActiveGameplayEffectCueEvents",
-        "checksum": 2058755592
+        "checksum": 2058755592,
+        "checksumHex": "7AB61E08"
       }
     ]
   },
@@ -4749,7 +5761,8 @@
     "properties": [
       {
         "name": "Inventory",
-        "checksum": 1889805261
+        "checksum": 1889805261,
+        "checksumHex": "70A423CD"
       }
     ]
   },
@@ -4759,11 +5772,13 @@
     "properties": [
       {
         "name": "LatentTeamRepData",
-        "checksum": 3679752244
+        "checksum": 3679752244,
+        "checksumHex": "DB549034"
       },
       {
         "name": "RepData",
-        "checksum": 3077767360
+        "checksum": 3077767360,
+        "checksumHex": "B77300C0"
       }
     ]
   },
@@ -4773,7 +5788,8 @@
     "properties": [
       {
         "name": "VoiceMemberInfo",
-        "checksum": 2940507153
+        "checksum": 2940507153,
+        "checksumHex": "AF449411"
       }
     ]
   },
@@ -4783,7 +5799,8 @@
     "properties": [
       {
         "name": "VolumeActivePlayers",
-        "checksum": 1804941985
+        "checksum": 1804941985,
+        "checksumHex": "6B953AA1"
       }
     ]
   },
@@ -4793,7 +5810,8 @@
     "properties": [
       {
         "name": "PlayerArray",
-        "checksum": 2047342864
+        "checksum": 2047342864,
+        "checksumHex": "7A07F910"
       }
     ]
   },
@@ -4803,27 +5821,33 @@
     "properties": [
       {
         "name": "ClientObservedStats",
-        "checksum": 1258617881
+        "checksum": 1258617881,
+        "checksumHex": "4B04FC19"
       },
       {
         "name": "FastSharedReplication",
-        "checksum": 3421689252
+        "checksum": 3421689252,
+        "checksumHex": "CBF2D5A4"
       },
       {
         "name": "NetMulticast_Athena_BatchedDamageCues",
-        "checksum": 2733521533
+        "checksum": 2733521533,
+        "checksumHex": "A2EE3A7D"
       },
       {
         "name": "NetMulticast_InvokeGameplayCueAdded_WithParams",
-        "checksum": 1616888296
+        "checksum": 1616888296,
+        "checksumHex": "605FC1E8"
       },
       {
         "name": "NetMulticast_InvokeGameplayCueExecuted_FromSpec",
-        "checksum": 3810346754
+        "checksum": 3810346754,
+        "checksumHex": "E31D4702"
       },
       {
         "name": "NetMulticast_InvokeGameplayCueExecuted_WithParams",
-        "checksum": 3822896495
+        "checksum": 3822896495,
+        "checksumHex": "E3DCC56F"
       }
     ]
   }

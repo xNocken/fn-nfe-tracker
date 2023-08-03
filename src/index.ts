@@ -5,6 +5,8 @@ import env from './utils/env';
 import findFilesRecursive from './utils/find-files-recursive';
 
 import type { Messages, StartMessage } from './types/messages';
+import { readFileSync, readdirSync, writeFileSync } from 'fs';
+import { NFEGroup } from './types/output';
 
 const files = findFilesRecursive(env.REPLAY_FOLDER, '.replay');
 
@@ -86,4 +88,18 @@ const startThread = async (): Promise<void> => {
   startThread().finally(() => { });
 };
 
-startThread().finally(() => { });
+// startThread().finally(() => { });
+
+const outputFiles = findFilesRecursive('output', 'json');
+
+outputFiles.forEach((file) => {
+  const data = <NFEGroup[]>JSON.parse(readFileSync(file, 'utf-8'));
+
+  data.forEach((group) => {
+    group.properties.forEach((prop) => {
+      prop.checksumHex = prop.checksum.toString(16).padStart(8, '0').toUpperCase();
+    });
+  });
+
+  writeFileSync(file, Buffer.from(JSON.stringify(data, null, 2)));
+});
