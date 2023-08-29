@@ -32609,6 +32609,57 @@
     ]
   },
   {
+    "path": "/Game/Athena/BuildingActors/FortVolumeActor.FortVolumeActor_C",
+    "propertyCount": 9,
+    "properties": [
+      {
+        "name": "CurrentPlayset",
+        "checksum": 227650588,
+        "checksumHex": "0D91AC1C"
+      },
+      {
+        "name": "FortVolumePersistenceOptions",
+        "checksum": 1616546375,
+        "checksumHex": "605A8A47"
+      },
+      {
+        "name": "IslandResourceManagerComponent",
+        "checksum": 2222670345,
+        "checksumHex": "847B4209"
+      },
+      {
+        "name": "ObjectTrackingComponent",
+        "checksum": 1869907305,
+        "checksumHex": "6F748569"
+      },
+      {
+        "name": "Playspace",
+        "checksum": 3519509326,
+        "checksumHex": "D1C7734E"
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 4109980037,
+        "checksumHex": "F4F95185"
+      },
+      {
+        "name": "Role",
+        "checksum": 1710918439,
+        "checksumHex": "65FA8B27"
+      },
+      {
+        "name": "VolumeState",
+        "checksum": 2673054081,
+        "checksumHex": "9F539181"
+      },
+      {
+        "name": "VolumeTags",
+        "checksum": 3414870887,
+        "checksumHex": "CB8ACB67"
+      }
+    ]
+  },
+  {
     "path": "/Game/Athena/BuildingActors/FortVolumeManager_BP.FortVolumeManager_BP_C",
     "propertyCount": 3,
     "properties": [
@@ -32626,6 +32677,57 @@
         "name": "Role",
         "checksum": 1710918439,
         "checksumHex": "65FA8B27"
+      }
+    ]
+  },
+  {
+    "path": "/Game/Athena/BuildingActors/FortVolume_Hub.FortVolume_Hub_C",
+    "propertyCount": 9,
+    "properties": [
+      {
+        "name": "bNeverAllowSaving",
+        "checksum": 671711351,
+        "checksumHex": "28098077"
+      },
+      {
+        "name": "FortVolumePersistenceOptions",
+        "checksum": 1616546375,
+        "checksumHex": "605A8A47"
+      },
+      {
+        "name": "IslandResourceManagerComponent",
+        "checksum": 2222670345,
+        "checksumHex": "847B4209"
+      },
+      {
+        "name": "ObjectTrackingComponent",
+        "checksum": 1869907305,
+        "checksumHex": "6F748569"
+      },
+      {
+        "name": "Playspace",
+        "checksum": 3519509326,
+        "checksumHex": "D1C7734E"
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 4109980037,
+        "checksumHex": "F4F95185"
+      },
+      {
+        "name": "Role",
+        "checksum": 1710918439,
+        "checksumHex": "65FA8B27"
+      },
+      {
+        "name": "VolumeState",
+        "checksum": 2673054081,
+        "checksumHex": "9F539181"
+      },
+      {
+        "name": "VolumeTags",
+        "checksum": 3414870887,
+        "checksumHex": "CB8ACB67"
       }
     ]
   },
@@ -37091,6 +37193,17 @@
     ]
   },
   {
+    "path": "/Game/Athena/Playlists/Creative/Mutators/CreativeHubMutatorList.CreativeHubMutatorList_C",
+    "propertyCount": 1,
+    "properties": [
+      {
+        "name": "OverrideMode",
+        "checksum": 752127098,
+        "checksumHex": "2CD48C7A"
+      }
+    ]
+  },
+  {
     "path": "/Game/Athena/Playlists/Creative/Mutators/CreativeIslandMutatorList.CreativeIslandMutatorList_C",
     "propertyCount": 3,
     "properties": [
@@ -37497,6 +37610,32 @@
     ]
   },
   {
+    "path": "/Game/Athena/Playlists/Creative/Mutators/CreativeMutator_Minigame_ForceBlockBuilding.CreativeMutator_Minigame_ForceBlockBuilding_C",
+    "propertyCount": 4,
+    "properties": [
+      {
+        "name": "bMutatorActive",
+        "checksum": 432319723,
+        "checksumHex": "19C4ACEB"
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 4109980037,
+        "checksumHex": "F4F95185"
+      },
+      {
+        "name": "Role",
+        "checksum": 1710918439,
+        "checksumHex": "65FA8B27"
+      }
+    ]
+  },
+  {
     "path": "/Game/Athena/Playlists/Creative/Mutators/CreativeMutator_ModifyEmotes.CreativeMutator_ModifyEmotes_C",
     "propertyCount": 3,
     "properties": [
@@ -37837,7 +37976,7 @@
   },
   {
     "path": "/Game/Athena/Playset/Minigames/Minigame_PlayerCreated.Minigame_PlayerCreated_C",
-    "propertyCount": 60,
+    "propertyCount": 63,
     "properties": [
       {
         "name": "bAllowJoinInProgress",
@@ -37893,6 +38032,21 @@
         "name": "bVolumeNavigationHasBuilt",
         "checksum": 623049722,
         "checksumHex": "2522FBFA"
+      },
+      {
+        "name": "ColorSet",
+        "checksum": 3044515912,
+        "checksumHex": "B577A048"
+      },
+      {
+        "name": "ColorSet",
+        "checksum": 2566508111,
+        "checksumHex": "98F9CE4F"
+      },
+      {
+        "name": "ColorSet",
+        "checksum": 1000268142,
+        "checksumHex": "3B9EE16E"
       },
       {
         "name": "CurrentState",
@@ -85679,6 +85833,102 @@
     ]
   },
   {
+    "path": "/Game/Playgrounds/Items/BGA_IslandPortal.BGA_IslandPortal_C",
+    "propertyCount": 18,
+    "properties": [
+      {
+        "name": "AltTitle",
+        "checksum": 120223686,
+        "checksumHex": "072A77C6"
+      },
+      {
+        "name": "bPortalOpen",
+        "checksum": 3218864339,
+        "checksumHex": "BFDBF8D3"
+      },
+      {
+        "name": "bUserInitiatedLoad",
+        "checksum": 2768029564,
+        "checksumHex": "A4FCC77C"
+      },
+      {
+        "name": "IslandIntroduction",
+        "checksum": 2212617797,
+        "checksumHex": "83E1DE45"
+      },
+      {
+        "name": "IslandType",
+        "checksum": 2372901491,
+        "checksumHex": "8D6F9A73"
+      },
+      {
+        "name": "locale",
+        "checksum": 3612661336,
+        "checksumHex": "D754D658"
+      },
+      {
+        "name": "MaxAvailablePopulation",
+        "checksum": 907355775,
+        "checksumHex": "3615267F"
+      },
+      {
+        "name": "OwningPlayer",
+        "checksum": 2396056263,
+        "checksumHex": "8ED0EAC7"
+      },
+      {
+        "name": "PlayersReady",
+        "checksum": 658799079,
+        "checksumHex": "274479E7"
+      },
+      {
+        "name": "PlayersReady",
+        "checksum": 1596363555,
+        "checksumHex": "5F269323"
+      },
+      {
+        "name": "Privacy",
+        "checksum": 3853911992,
+        "checksumHex": "E5B607B8"
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 4109980037,
+        "checksumHex": "F4F95185"
+      },
+      {
+        "name": "ReplicatedMovement",
+        "checksum": 2749104612,
+        "checksumHex": "A3DC01E4"
+      },
+      {
+        "name": "Role",
+        "checksum": 1710918439,
+        "checksumHex": "65FA8B27"
+      },
+      {
+        "name": "TeleportLocation",
+        "checksum": 327997989,
+        "checksumHex": "138CDA25"
+      },
+      {
+        "name": "TextLiteral",
+        "checksum": 3573701823,
+        "checksumHex": "D5025CBF"
+      },
+      {
+        "name": "Version",
+        "checksum": 1778845328,
+        "checksumHex": "6A070690"
+      },
+      {
+        "name": "Version",
+        "checksum": 3984705583,
+        "checksumHex": "ED81C82F"
+      }
+    ]
+  },
+  {
     "path": "/Game/Playgrounds/Items/Props/Concert_Scaffolding_Bottom.Concert_Scaffolding_Bottom_C",
     "propertyCount": 5,
     "properties": [
@@ -85758,6 +86008,88 @@
         "name": "ReplicatedDrawScale3D",
         "checksum": 3195682229,
         "checksumHex": "BE7A3DB5"
+      },
+      {
+        "name": "Role",
+        "checksum": 1710918439,
+        "checksumHex": "65FA8B27"
+      }
+    ]
+  },
+  {
+    "path": "/Game/Playgrounds/Playspaces/CreativeHubPlayspace.CreativeHubPlayspace_C",
+    "propertyCount": 7,
+    "properties": [
+      {
+        "name": "bIsInitialized",
+        "checksum": 1295387854,
+        "checksumHex": "4D360CCE"
+      },
+      {
+        "name": "BoundGameplayVolume",
+        "checksum": 1038510296,
+        "checksumHex": "3DE668D8"
+      },
+      {
+        "name": "bShouldCreateEventRouter",
+        "checksum": 2699586148,
+        "checksumHex": "A0E86A64"
+      },
+      {
+        "name": "MatchStartTime",
+        "checksum": 3684897440,
+        "checksumHex": "DBA312A0"
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 4109980037,
+        "checksumHex": "F4F95185"
+      },
+      {
+        "name": "Role",
+        "checksum": 1710918439,
+        "checksumHex": "65FA8B27"
+      }
+    ]
+  },
+  {
+    "path": "/Game/Playgrounds/Playspaces/CreativeIslandGroupPlayspace.CreativeIslandGroupPlayspace_C",
+    "propertyCount": 7,
+    "properties": [
+      {
+        "name": "bIsInitialized",
+        "checksum": 1295387854,
+        "checksumHex": "4D360CCE"
+      },
+      {
+        "name": "BoundGameplayVolume",
+        "checksum": 1038510296,
+        "checksumHex": "3DE668D8"
+      },
+      {
+        "name": "bShouldCreateEventRouter",
+        "checksum": 2699586148,
+        "checksumHex": "A0E86A64"
+      },
+      {
+        "name": "MatchStartTime",
+        "checksum": 3684897440,
+        "checksumHex": "DBA312A0"
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 4109980037,
+        "checksumHex": "F4F95185"
       },
       {
         "name": "Role",
@@ -85951,6 +86283,103 @@
         "name": "SpawnLocation",
         "checksum": 1139493118,
         "checksumHex": "43EB48FE"
+      }
+    ]
+  },
+  {
+    "path": "/Game/TimeOfDay/TODM/BR/s11/TODM_BR_s14.TODM_BR_s14_C",
+    "propertyCount": 8,
+    "properties": [
+      {
+        "name": "bHeightFogEnabled",
+        "checksum": 2001440707,
+        "checksumHex": "774B8FC3"
+      },
+      {
+        "name": "bTimeStarted",
+        "checksum": 2053615377,
+        "checksumHex": "7A67AF11"
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 4109980037,
+        "checksumHex": "F4F95185"
+      },
+      {
+        "name": "Role",
+        "checksum": 1710918439,
+        "checksumHex": "65FA8B27"
+      },
+      {
+        "name": "TimeOfDay",
+        "checksum": 2157960238,
+        "checksumHex": "809FDC2E"
+      },
+      {
+        "name": "TimeOfDayReplicated",
+        "checksum": 522261181,
+        "checksumHex": "1F2112BD"
+      },
+      {
+        "name": "TimeOfDaySpeed",
+        "checksum": 2756953436,
+        "checksumHex": "A453C55C"
+      }
+    ]
+  },
+  {
+    "path": "/Game/TimeOfDay/TODM/BR/s11/TODM_Creative.TODM_Creative_C",
+    "propertyCount": 9,
+    "properties": [
+      {
+        "name": "bServerTODIsVisible",
+        "checksum": 1776799706,
+        "checksumHex": "69E7CFDA"
+      },
+      {
+        "name": "bTimeStarted",
+        "checksum": 2053615377,
+        "checksumHex": "7A67AF11"
+      },
+      {
+        "name": "Owner",
+        "checksum": 1022089157,
+        "checksumHex": "3CEBD7C5"
+      },
+      {
+        "name": "RemoteRole",
+        "checksum": 4109980037,
+        "checksumHex": "F4F95185"
+      },
+      {
+        "name": "ReplicationIndex",
+        "checksum": 4074723659,
+        "checksumHex": "F2DF594B"
+      },
+      {
+        "name": "Role",
+        "checksum": 1710918439,
+        "checksumHex": "65FA8B27"
+      },
+      {
+        "name": "TimeOfDay",
+        "checksum": 2157960238,
+        "checksumHex": "809FDC2E"
+      },
+      {
+        "name": "TimeOfDayReplicated",
+        "checksum": 522261181,
+        "checksumHex": "1F2112BD"
+      },
+      {
+        "name": "TimeOfDaySpeed",
+        "checksum": 2756953436,
+        "checksumHex": "A453C55C"
       }
     ]
   },
@@ -102150,6 +102579,22 @@
     ]
   },
   {
+    "path": "/Script/FortniteGame.FortInspectorCameraCreative",
+    "propertyCount": 2,
+    "properties": [
+      {
+        "name": "RemoteRole",
+        "checksum": 4109980037,
+        "checksumHex": "F4F95185"
+      },
+      {
+        "name": "Role",
+        "checksum": 1710918439,
+        "checksumHex": "65FA8B27"
+      }
+    ]
+  },
+  {
     "path": "/Script/FortniteGame.FortInventory",
     "propertyCount": 41,
     "properties": [
@@ -102434,7 +102879,7 @@
   },
   {
     "path": "/Script/FortniteGame.FortLevelSaveComponent",
-    "propertyCount": 27,
+    "propertyCount": 28,
     "properties": [
       {
         "name": "AccountIdOfOwner",
@@ -102445,6 +102890,11 @@
         "name": "AltTitle",
         "checksum": 4216060266,
         "checksumHex": "FB4BF96A"
+      },
+      {
+        "name": "BackupSaveState",
+        "checksum": 937264925,
+        "checksumHex": "37DD871D"
       },
       {
         "name": "bIsActive",
@@ -105737,6 +106187,17 @@
     ]
   },
   {
+    "path": "/Script/FortniteGame.FortVolumeTimeOfDayComponent",
+    "propertyCount": 1,
+    "properties": [
+      {
+        "name": "TimeOfDayManager",
+        "checksum": 3486701733,
+        "checksumHex": "CFD2D8A5"
+      }
+    ]
+  },
+  {
     "path": "/Script/FortniteGame.FortWeaponAttrSet",
     "propertyCount": 4,
     "properties": [
@@ -105945,8 +106406,13 @@
   },
   {
     "path": "/Script/FortniteGame.PlaysetLevelStreamComponent",
-    "propertyCount": 5,
+    "propertyCount": 7,
     "properties": [
+      {
+        "name": "bIsActive",
+        "checksum": 2967469237,
+        "checksumHex": "B0DFFCB5"
+      },
       {
         "name": "bValid",
         "checksum": 762138319,
@@ -105968,9 +106434,25 @@
         "checksumHex": "5B63BCE5"
       },
       {
+        "name": "Rotation",
+        "checksum": 3763686276,
+        "checksumHex": "E0554B84"
+      },
+      {
         "name": "UniquePackageName",
         "checksum": 1882349749,
         "checksumHex": "703260B5"
+      }
+    ]
+  },
+  {
+    "path": "/Script/FortniteGame.PlayspaceComponent_ContentGating",
+    "propertyCount": 1,
+    "properties": [
+      {
+        "name": "bIsActive",
+        "checksum": 2967469237,
+        "checksumHex": "B0DFFCB5"
       }
     ]
   },
@@ -110604,6 +111086,17 @@
   },
   {
     "path": "CreativeCoreRootPlayspace_C_ClassNetCache",
+    "propertyCount": 1,
+    "properties": [
+      {
+        "name": "PlayspaceUsers",
+        "checksum": 922277476,
+        "checksumHex": "36F8D664"
+      }
+    ]
+  },
+  {
+    "path": "CreativeHubPlayspace_C_ClassNetCache",
     "propertyCount": 1,
     "properties": [
       {
